@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "games": [
     {
       "id": "gta6",
@@ -60,5 +60,6 @@
       ],
       "file": "games/rdr1.json",
       "accent": "#F2A541"
-    }]
+    }
+  ]
 }
