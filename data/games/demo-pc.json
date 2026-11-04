@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "updated": "2026-11-03",
+  "notice": "Jeu fictif de démonstration : à supprimer de games.json avant la publication.",
+  "categories": [
+    {
+      "id": "general",
+      "name": "Général"
+    }
+  ],
+  "codes": [
+    {
+      "id": "argent",
+      "title": "EXEMPLE – code à taper (PC)",
+      "description": "Sur PC, ce code se tape au clavier ; sur console, il se fait à la manette.",
+      "category": "general",
+      "text": "DEMO MONEY",
+      "buttons": [
+        "L1",
+        "R1",
+        "CROIX",
+        "HAUT",
+        "BAS"
+      ],
+      "buttonsByPlatform": {
+        "switch": [
+          "L1",
+          "L1",
+          "ROND",
+          "HAUT",
+          "HAUT"
+        ]
+      },
+      "verified": false
+    },
+    {
+      "id": "pc-only",
+      "title": "EXEMPLE – code PC uniquement",
+      "description": "N'apparaît que si la plateforme choisie est PC.",
+      "category": "general",
+      "text": "TESTCODE42",
+      "platforms": [
+        "pc"
+      ],
+      "verified": false
+    }
+  ],
+  "tips": []
+}

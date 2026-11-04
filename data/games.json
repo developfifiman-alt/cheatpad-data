@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "gta6",
+      "name": "GTA 6",
+      "subtitle": "Codes de triche et astuces de missions",
+      "platforms": [
+        "playstation",
+        "xbox"
+      ],
+      "file": "games/gta6.json",
+      "accent": "#FF3D8B"
+    },
+    {
+      "id": "demo-pc",
+      "name": "EXEMPLE – Jeu PC",
+      "subtitle": "Jeu fictif pour tester les codes à taper au clavier",
+      "platforms": [
+        "pc",
+        "playstation",
+        "xbox",
+        "switch"
+      ],
+      "file": "games/demo-pc.json",
+      "accent": "#22D3EE"
+    }
+  ]
+}
