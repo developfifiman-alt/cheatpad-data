@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-11-03",
+  "version": 3,
+  "updated": "2026-11-04",
   "notice": {
     "fr": "Guide non officiel. Les codes seront ajoutés dès leur découverte après la sortie du jeu. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
     "en": "Unofficial guide. Codes will be added as soon as they are discovered after the game's release. This app is not affiliated with Rockstar Games or Take-Two Interactive."
@@ -42,69 +42,6 @@
       }
     }
   ],
-  "codes": [
-    {
-      "id": "demo-1",
-      "title": {
-        "fr": "EXEMPLE – code de démonstration",
-        "en": "SAMPLE – demo code"
-      },
-      "description": {
-        "fr": "Faux code servant à tester l'affichage et le mode guidé. À supprimer avant la publication.",
-        "en": "Fake code used to test the display and guided mode. Delete before publishing."
-      },
-      "category": "fun",
-      "buttons": [
-        "R1",
-        "R2",
-        "L1",
-        "CROIX",
-        "GAUCHE",
-        "BAS",
-        "DROITE",
-        "HAUT",
-        "GAUCHE",
-        "BAS",
-        "DROITE",
-        "HAUT"
-      ],
-      "notes": {
-        "fr": "Les noms PlayStation (R1, L2, CROIX, ROND, CARRE, TRIANGLE) ou Xbox (RB, LT, A, B, X, Y) sont acceptés. Directions : HAUT, BAS, GAUCHE, DROITE.",
-        "en": "PlayStation names (R1, L2, CROIX, ROND, CARRE, TRIANGLE) or Xbox names (RB, LT, A, B, X, Y) are accepted. Directions: HAUT, BAS, GAUCHE, DROITE."
-      },
-      "verified": false
-    },
-    {
-      "id": "demo-2",
-      "title": {
-        "fr": "EXEMPLE – code téléphone",
-        "en": "SAMPLE – phone code"
-      },
-      "description": {
-        "fr": "Faux code à composer sur le téléphone du personnage, pour tester l'affichage. À supprimer.",
-        "en": "Fake number to dial on the character's phone, to test the display. Delete it."
-      },
-      "category": "fun",
-      "buttons": [],
-      "phone": "1-555-0100",
-      "verified": false
-    }
-  ],
-  "tips": [
-    {
-      "id": "demo-tip",
-      "title": {
-        "fr": "EXEMPLE – astuce de mission",
-        "en": "SAMPLE – mission tip"
-      },
-      "mission": {
-        "fr": "Mission d'exemple",
-        "en": "Sample mission"
-      },
-      "body": {
-        "fr": "Ici le texte de l'astuce : déroulé de la mission, pièges à éviter, meilleur équipement…\n\nÀ supprimer avant la publication.",
-        "en": "Tip text goes here: mission walkthrough, traps to avoid, best equipment…\n\nDelete before publishing."
-      }
-    }
-  ]
+  "codes": [],
+  "tips": []
 }
