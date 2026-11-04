@@ -1,0 +1,1114 @@
+{
+  "version": 2,
+  "updated": "2026-11-04",
+  "notice": {
+    "fr": "Codes du mode histoire uniquement (pas dans GTA Online). Sur console : entrer la séquence rapidement en jeu. Sur PC : appuyer sur la touche ² (ou ~) pour ouvrir la console, puis taper le code. Sur toutes les plateformes, on peut aussi composer le numéro sur le téléphone du personnage. Activer un code désactive les trophées/succès jusqu'au rechargement de la partie. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
+    "en": "Story mode only (not in GTA Online). On console: enter the sequence quickly during gameplay. On PC: press the ~ key to open the console, then type the code. On every platform you can also dial the number on your character's phone. Using a cheat disables trophies/achievements until you reload your save. Unofficial guide, not affiliated with Rockstar Games or Take-Two Interactive."
+  },
+  "categories": [
+    {
+      "id": "joueur",
+      "name": {
+        "fr": "Joueur",
+        "en": "Player"
+      }
+    },
+    {
+      "id": "armes",
+      "name": {
+        "fr": "Armes",
+        "en": "Weapons"
+      }
+    },
+    {
+      "id": "vehicules",
+      "name": {
+        "fr": "Véhicules",
+        "en": "Vehicles"
+      }
+    },
+    {
+      "id": "monde",
+      "name": {
+        "fr": "Monde & météo",
+        "en": "World & weather"
+      }
+    },
+    {
+      "id": "fun",
+      "name": {
+        "fr": "Fun",
+        "en": "Fun"
+      }
+    }
+  ],
+  "codes": [
+    {
+      "id": "invincibilite",
+      "title": {
+        "fr": "Invincibilité",
+        "en": "Invincibility"
+      },
+      "description": {
+        "fr": "Le personnage ne subit plus aucun dégât pendant 5 minutes.",
+        "en": "Your character takes no damage for 5 minutes."
+      },
+      "category": "joueur",
+      "buttons": [
+        "DROITE",
+        "CROIX",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "R1",
+        "DROITE",
+        "GAUCHE",
+        "CROIX",
+        "TRIANGLE"
+      ],
+      "text": "PAINKILLER",
+      "phone": "1-999-724-654-5537",
+      "verified": true
+    },
+    {
+      "id": "sante-armure",
+      "title": {
+        "fr": "Santé et armure au maximum",
+        "en": "Max health and armor"
+      },
+      "description": {
+        "fr": "Remplit entièrement la santé et le gilet pare-balles.",
+        "en": "Fully restores health and body armor."
+      },
+      "category": "joueur",
+      "buttons": [
+        "ROND",
+        "L1",
+        "TRIANGLE",
+        "R2",
+        "CROIX",
+        "CARRE",
+        "ROND",
+        "DROITE",
+        "CARRE",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "text": "TURTLE",
+      "phone": "1-999-887-853",
+      "verified": true
+    },
+    {
+      "id": "recharge-capacite",
+      "title": {
+        "fr": "Recharger la capacité spéciale",
+        "en": "Recharge special ability"
+      },
+      "description": {
+        "fr": "Remplit la jauge de capacité spéciale du personnage.",
+        "en": "Refills your character's special ability bar."
+      },
+      "category": "joueur",
+      "buttons": [
+        "CROIX",
+        "CROIX",
+        "CARRE",
+        "R1",
+        "L1",
+        "CROIX",
+        "DROITE",
+        "GAUCHE",
+        "CROIX"
+      ],
+      "text": "POWERUP",
+      "phone": "1-999-769-3787",
+      "verified": true
+    },
+    {
+      "id": "course-rapide",
+      "title": {
+        "fr": "Course rapide",
+        "en": "Fast run"
+      },
+      "description": {
+        "fr": "Le personnage court beaucoup plus vite.",
+        "en": "Your character runs much faster."
+      },
+      "category": "joueur",
+      "buttons": [
+        "TRIANGLE",
+        "GAUCHE",
+        "DROITE",
+        "DROITE",
+        "L2",
+        "L1",
+        "CARRE"
+      ],
+      "text": "CATCHME",
+      "phone": "1-999-228-2463",
+      "verified": true
+    },
+    {
+      "id": "nage-rapide",
+      "title": {
+        "fr": "Nage rapide",
+        "en": "Fast swim"
+      },
+      "description": {
+        "fr": "Le personnage nage beaucoup plus vite.",
+        "en": "Your character swims much faster."
+      },
+      "category": "joueur",
+      "buttons": [
+        "GAUCHE",
+        "GAUCHE",
+        "L1",
+        "DROITE",
+        "DROITE",
+        "R2",
+        "GAUCHE",
+        "L2",
+        "DROITE"
+      ],
+      "text": "GOTGILLS",
+      "phone": "1-999-468-44557",
+      "verified": true
+    },
+    {
+      "id": "super-saut",
+      "title": {
+        "fr": "Super saut",
+        "en": "Super jump"
+      },
+      "description": {
+        "fr": "Le personnage saute très haut.",
+        "en": "Your character jumps very high."
+      },
+      "category": "joueur",
+      "buttons": [
+        "GAUCHE",
+        "GAUCHE",
+        "TRIANGLE",
+        "TRIANGLE",
+        "DROITE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "CARRE",
+        "R1",
+        "R2"
+      ],
+      "text": "HOPTOIT",
+      "phone": "1-999-467-86-48",
+      "verified": true
+    },
+    {
+      "id": "parachute",
+      "title": {
+        "fr": "Obtenir un parachute",
+        "en": "Give parachute"
+      },
+      "description": {
+        "fr": "Équipe le personnage d'un parachute.",
+        "en": "Equips your character with a parachute."
+      },
+      "category": "joueur",
+      "buttons": [
+        "GAUCHE",
+        "DROITE",
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "R2",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "L1"
+      ],
+      "text": "SKYDIVE",
+      "phone": "1-999-759-3483",
+      "verified": true
+    },
+    {
+      "id": "chute-libre",
+      "title": {
+        "fr": "Chute libre",
+        "en": "Skyfall"
+      },
+      "description": {
+        "fr": "Propulse le personnage dans le ciel pour une chute libre.",
+        "en": "Launches your character into the sky for a free fall."
+      },
+      "category": "joueur",
+      "buttons": [
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE"
+      ],
+      "text": "SKYFALL",
+      "phone": "1-999-759-3255",
+      "verified": true
+    },
+    {
+      "id": "ivresse",
+      "title": {
+        "fr": "Mode ivre",
+        "en": "Drunk mode"
+      },
+      "description": {
+        "fr": "Le personnage titube comme s'il était ivre. Entrer à nouveau le code pour l'annuler.",
+        "en": "Your character staggers as if drunk. Enter the code again to cancel it."
+      },
+      "category": "fun",
+      "buttons": [
+        "TRIANGLE",
+        "DROITE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "CARRE",
+        "ROND",
+        "GAUCHE"
+      ],
+      "text": "LIQUOR",
+      "phone": "1-999-547-861",
+      "verified": true
+    },
+    {
+      "id": "baisser-recherche",
+      "title": {
+        "fr": "Baisser le niveau de recherche",
+        "en": "Lower wanted level"
+      },
+      "description": {
+        "fr": "Retire une étoile de recherche par activation.",
+        "en": "Removes one wanted star each time it is used."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R1",
+        "R1",
+        "ROND",
+        "R2",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE"
+      ],
+      "text": "LAWYERUP",
+      "phone": "1-999-5299-3787",
+      "verified": true
+    },
+    {
+      "id": "augmenter-recherche",
+      "title": {
+        "fr": "Augmenter le niveau de recherche",
+        "en": "Raise wanted level"
+      },
+      "description": {
+        "fr": "Ajoute une étoile de recherche par activation.",
+        "en": "Adds one wanted star each time it is used."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R1",
+        "R1",
+        "ROND",
+        "R2",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE"
+      ],
+      "text": "FUGITIVE",
+      "phone": "1-999-3844-8483",
+      "verified": true
+    },
+    {
+      "id": "armes",
+      "title": {
+        "fr": "Toutes les armes",
+        "en": "All weapons"
+      },
+      "description": {
+        "fr": "Donne un lot d'armes avec des munitions.",
+        "en": "Gives a set of weapons with ammo."
+      },
+      "category": "armes",
+      "buttons": [
+        "TRIANGLE",
+        "R2",
+        "GAUCHE",
+        "L1",
+        "CROIX",
+        "DROITE",
+        "TRIANGLE",
+        "BAS",
+        "CARRE",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "text": "TOOLUP",
+      "phone": "1-999-8665-87",
+      "verified": true
+    },
+    {
+      "id": "munitions-explosives",
+      "title": {
+        "fr": "Munitions explosives",
+        "en": "Explosive ammo"
+      },
+      "description": {
+        "fr": "Les balles explosent à l'impact.",
+        "en": "Bullets explode on impact."
+      },
+      "category": "armes",
+      "buttons": [
+        "DROITE",
+        "CARRE",
+        "CROIX",
+        "GAUCHE",
+        "R1",
+        "R2",
+        "GAUCHE",
+        "DROITE",
+        "DROITE",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "text": "HIGHEX",
+      "phone": "1-999-444-439",
+      "verified": true
+    },
+    {
+      "id": "balles-enflammees",
+      "title": {
+        "fr": "Balles incendiaires",
+        "en": "Flaming bullets"
+      },
+      "description": {
+        "fr": "Les balles mettent le feu à ce qu'elles touchent.",
+        "en": "Bullets set targets on fire."
+      },
+      "category": "armes",
+      "buttons": [
+        "L1",
+        "R1",
+        "CARRE",
+        "R1",
+        "GAUCHE",
+        "R2",
+        "R1",
+        "GAUCHE",
+        "CARRE",
+        "DROITE",
+        "L1",
+        "L1"
+      ],
+      "text": "INCENDIARY",
+      "phone": "1-999-462-363-4279",
+      "verified": true
+    },
+    {
+      "id": "poings-explosifs",
+      "title": {
+        "fr": "Coups de poing explosifs",
+        "en": "Explosive melee"
+      },
+      "description": {
+        "fr": "Les attaques au corps à corps provoquent des explosions.",
+        "en": "Melee attacks cause explosions."
+      },
+      "category": "armes",
+      "buttons": [
+        "DROITE",
+        "GAUCHE",
+        "CROIX",
+        "TRIANGLE",
+        "R1",
+        "ROND",
+        "ROND",
+        "ROND",
+        "L2"
+      ],
+      "text": "HOTHANDS",
+      "phone": "1-999-4684-2637",
+      "verified": true
+    },
+    {
+      "id": "visee-ralentie",
+      "title": {
+        "fr": "Visée au ralenti",
+        "en": "Slow motion aim"
+      },
+      "description": {
+        "fr": "Ralentit le temps pendant la visée. Jusqu'à 4 activations pour accentuer, la 5e annule.",
+        "en": "Slows time while aiming. Stack up to 4 times; the 5th use cancels it."
+      },
+      "category": "armes",
+      "buttons": [
+        "CARRE",
+        "L2",
+        "R1",
+        "TRIANGLE",
+        "GAUCHE",
+        "CARRE",
+        "L2",
+        "DROITE",
+        "CROIX"
+      ],
+      "text": "DEADEYE",
+      "phone": "1-999-332-3393",
+      "verified": true
+    },
+    {
+      "id": "v-buzzard",
+      "title": {
+        "fr": "Hélicoptère Buzzard",
+        "en": "Buzzard helicopter"
+      },
+      "description": {
+        "fr": "Fait apparaître un hélicoptère d'attaque.",
+        "en": "Spawns an attack helicopter."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "ROND",
+        "L1",
+        "ROND",
+        "ROND",
+        "ROND",
+        "L1",
+        "L2",
+        "R1",
+        "TRIANGLE",
+        "ROND",
+        "TRIANGLE"
+      ],
+      "text": "BUZZOFF",
+      "phone": "1-999-289-9633",
+      "verified": true
+    },
+    {
+      "id": "v-comet",
+      "title": {
+        "fr": "Voiture de sport Comet",
+        "en": "Comet sports car"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture de sport.",
+        "en": "Spawns a sports car."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R1",
+        "ROND",
+        "R2",
+        "DROITE",
+        "L1",
+        "L2",
+        "CROIX",
+        "CROIX",
+        "CARRE",
+        "R1"
+      ],
+      "text": "COMET",
+      "phone": "1-999-266-38",
+      "verified": true
+    },
+    {
+      "id": "v-rapidgt",
+      "title": {
+        "fr": "Voiture de sport Rapid GT",
+        "en": "Rapid GT sports car"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture de sport décapotable.",
+        "en": "Spawns a convertible sports car."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R2",
+        "L1",
+        "ROND",
+        "DROITE",
+        "L1",
+        "R1",
+        "DROITE",
+        "GAUCHE",
+        "ROND",
+        "R2"
+      ],
+      "text": "RAPIDGT",
+      "phone": "1-999-727-4348",
+      "verified": true
+    },
+    {
+      "id": "v-limo",
+      "title": {
+        "fr": "Limousine",
+        "en": "Limo"
+      },
+      "description": {
+        "fr": "Fait apparaître une limousine.",
+        "en": "Spawns a limousine."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R2",
+        "DROITE",
+        "L2",
+        "GAUCHE",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "ROND",
+        "DROITE"
+      ],
+      "text": "VINEWOOD",
+      "phone": "1-999-846-39663",
+      "verified": true
+    },
+    {
+      "id": "v-pcj",
+      "title": {
+        "fr": "Moto PCJ-600",
+        "en": "PCJ-600 motorcycle"
+      },
+      "description": {
+        "fr": "Fait apparaître une moto sportive.",
+        "en": "Spawns a sport motorcycle."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R1",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "R2",
+        "GAUCHE",
+        "DROITE",
+        "CARRE",
+        "DROITE",
+        "L2",
+        "L1",
+        "L1"
+      ],
+      "text": "ROCKET",
+      "phone": "1-999-762-538",
+      "verified": true
+    },
+    {
+      "id": "v-sanchez",
+      "title": {
+        "fr": "Moto cross Sanchez",
+        "en": "Sanchez dirt bike"
+      },
+      "description": {
+        "fr": "Fait apparaître une moto tout-terrain.",
+        "en": "Spawns a dirt bike."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "CROIX",
+        "L1",
+        "ROND",
+        "ROND",
+        "L1",
+        "ROND",
+        "R1",
+        "R2",
+        "L2",
+        "L1",
+        "L1"
+      ],
+      "text": "OFFROAD",
+      "phone": "1-999-633-7623",
+      "verified": true
+    },
+    {
+      "id": "v-bmx",
+      "title": {
+        "fr": "Vélo BMX",
+        "en": "BMX bike"
+      },
+      "description": {
+        "fr": "Fait apparaître un vélo BMX.",
+        "en": "Spawns a BMX bike."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "CARRE",
+        "ROND",
+        "TRIANGLE",
+        "R1",
+        "R2"
+      ],
+      "text": "BANDIT",
+      "phone": "1-999-226-348",
+      "verified": true
+    },
+    {
+      "id": "v-caddy",
+      "title": {
+        "fr": "Voiturette de golf",
+        "en": "Golf caddy"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiturette de golf.",
+        "en": "Spawns a golf cart."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "L1",
+        "GAUCHE",
+        "R1",
+        "L2",
+        "CROIX",
+        "R1",
+        "L1",
+        "ROND",
+        "CROIX"
+      ],
+      "text": "HOLEIN1",
+      "phone": "1-999-4653-46-1",
+      "verified": true
+    },
+    {
+      "id": "v-duster",
+      "title": {
+        "fr": "Avion Duster",
+        "en": "Duster plane"
+      },
+      "description": {
+        "fr": "Fait apparaître un petit avion d'épandage.",
+        "en": "Spawns a small crop duster plane."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "DROITE",
+        "GAUCHE",
+        "R1",
+        "R1",
+        "R1",
+        "GAUCHE",
+        "TRIANGLE",
+        "TRIANGLE",
+        "CROIX",
+        "ROND",
+        "L1",
+        "L1"
+      ],
+      "text": "FLYSPRAY",
+      "phone": "1-999-359-77729",
+      "verified": true
+    },
+    {
+      "id": "v-stunt",
+      "title": {
+        "fr": "Avion de voltige",
+        "en": "Stunt plane"
+      },
+      "description": {
+        "fr": "Fait apparaître un avion de voltige.",
+        "en": "Spawns a stunt plane."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "DROITE",
+        "L1",
+        "L2",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "L1",
+        "GAUCHE",
+        "GAUCHE",
+        "CROIX",
+        "TRIANGLE"
+      ],
+      "text": "BARNSTORM",
+      "phone": "1-999-2276-78676",
+      "verified": true
+    },
+    {
+      "id": "v-trashmaster",
+      "title": {
+        "fr": "Camion poubelle",
+        "en": "Garbage truck"
+      },
+      "description": {
+        "fr": "Fait apparaître un camion poubelle.",
+        "en": "Spawns a garbage truck."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "R1",
+        "ROND",
+        "R1",
+        "GAUCHE",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "ROND",
+        "DROITE"
+      ],
+      "text": "TRASHED",
+      "phone": "1-999-872-433",
+      "verified": true
+    },
+    {
+      "id": "v-duke",
+      "title": {
+        "fr": "Duke O'Death (téléphone)",
+        "en": "Duke O'Death (phone)"
+      },
+      "description": {
+        "fr": "Fait apparaître une muscle car blindée.",
+        "en": "Spawns an armored muscle car."
+      },
+      "category": "vehicules",
+      "phone": "1-999-3328-4227",
+      "notes": {
+        "fr": "Disponible uniquement par téléphone, et seulement après avoir débloqué ce véhicule (bonus des joueurs ayant transféré leur progression).",
+        "en": "Phone only, and only once this vehicle is unlocked (a bonus for players who transferred their progress)."
+      },
+      "verified": true
+    },
+    {
+      "id": "v-kraken",
+      "title": {
+        "fr": "Sous-marin Kraken (téléphone)",
+        "en": "Kraken submarine (phone)"
+      },
+      "description": {
+        "fr": "Fait apparaître un sous-marin (à utiliser près de l'eau).",
+        "en": "Spawns a submarine (use near water)."
+      },
+      "category": "vehicules",
+      "phone": "1-999-282-2537",
+      "notes": {
+        "fr": "Disponible uniquement par téléphone, et seulement après avoir débloqué ce véhicule (bonus des joueurs ayant transféré leur progression).",
+        "en": "Phone only, and only once this vehicle is unlocked (a bonus for players who transferred their progress)."
+      },
+      "verified": true
+    },
+    {
+      "id": "v-dodo",
+      "title": {
+        "fr": "Hydravion Dodo (téléphone)",
+        "en": "Dodo seaplane (phone)"
+      },
+      "description": {
+        "fr": "Fait apparaître un hydravion.",
+        "en": "Spawns a seaplane."
+      },
+      "category": "vehicules",
+      "phone": "1-999-398-4628",
+      "notes": {
+        "fr": "Disponible uniquement par téléphone, et seulement après avoir débloqué ce véhicule (bonus des joueurs ayant transféré leur progression).",
+        "en": "Phone only, and only once this vehicle is unlocked (a bonus for players who transferred their progress)."
+      },
+      "verified": true
+    },
+    {
+      "id": "meteo",
+      "title": {
+        "fr": "Changer la météo",
+        "en": "Change weather"
+      },
+      "description": {
+        "fr": "Fait défiler les types de météo à chaque activation.",
+        "en": "Cycles through weather types each time it is used."
+      },
+      "category": "monde",
+      "buttons": [
+        "R2",
+        "CROIX",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "CARRE"
+      ],
+      "text": "MAKEITRAIN",
+      "phone": "1-999-625-348-7246",
+      "verified": true
+    },
+    {
+      "id": "gravite-lunaire",
+      "title": {
+        "fr": "Gravité lunaire",
+        "en": "Moon gravity"
+      },
+      "description": {
+        "fr": "Réduit la gravité : objets et véhicules flottent plus longtemps.",
+        "en": "Lowers gravity so objects and vehicles float longer."
+      },
+      "category": "monde",
+      "buttons": [
+        "GAUCHE",
+        "GAUCHE",
+        "L1",
+        "R1",
+        "L1",
+        "DROITE",
+        "GAUCHE",
+        "L1",
+        "GAUCHE"
+      ],
+      "text": "FLOATER",
+      "phone": "1-999-356-2837",
+      "verified": true
+    },
+    {
+      "id": "voitures-glissantes",
+      "title": {
+        "fr": "Voitures glissantes",
+        "en": "Slippery cars"
+      },
+      "description": {
+        "fr": "Les véhicules adhèrent beaucoup moins à la route.",
+        "en": "Vehicles lose most of their grip on the road."
+      },
+      "category": "monde",
+      "buttons": [
+        "TRIANGLE",
+        "R1",
+        "R1",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "R2",
+        "L1"
+      ],
+      "text": "SNOWDAY",
+      "phone": "1-999-766-9329",
+      "verified": true
+    },
+    {
+      "id": "ralenti",
+      "title": {
+        "fr": "Ralenti",
+        "en": "Slow motion"
+      },
+      "description": {
+        "fr": "Ralentit tout le jeu. Jusqu'à 3 activations pour accentuer, la 4e annule.",
+        "en": "Slows down the whole game. Stack up to 3 times; the 4th use cancels it."
+      },
+      "category": "fun",
+      "buttons": [
+        "TRIANGLE",
+        "GAUCHE",
+        "DROITE",
+        "DROITE",
+        "CARRE",
+        "R2",
+        "R1"
+      ],
+      "text": "SLOWMO",
+      "phone": "1-999-756-966",
+      "verified": true
+    }
+  ],
+  "tips": [
+    {
+      "id": "argent-bourse",
+      "title": {
+        "fr": "Gagner des milliards en Bourse",
+        "en": "Make billions on the stock market"
+      },
+      "mission": {
+        "fr": "Assassinats de Lester",
+        "en": "Lester's assassinations"
+      },
+      "body": {
+        "fr": "Les 5 contrats d'assassinat de Lester font bouger la Bourse : bien utilisés, ce sont de loin le meilleur moyen de devenir riche en mode histoire.\n\n1. Hôtel (obligatoire, pendant l'histoire) : avant la mission, investis tout l'argent de tes 3 personnages dans Betta Pharmaceuticals (BET, BAWSAQ). Après la mission, vends quand le cours a bien monté puis achète Bilkington (BIL, LCN).\n2. Garde les 4 autres contrats pour APRÈS le dernier braquage (le Gros Coup) : tu auras alors beaucoup plus d'argent à placer.\n3. Multi-cibles : avant → Debonaire (DEB, LCN) ; après → Redwood (RWC, LCN).\n4. Vice : avant → Fruit (FRT, BAWSAQ) ; après → Facade (FAC, BAWSAQ).\n5. Bus : après → Vapid (VAP, BAWSAQ).\n6. Chantier : avant → GoldCoast (GCD, LCN).\n\nPour faire avancer le temps, fais dormir ton personnage et sauvegarde, puis vérifie le cours. Vends au pic. Les gains varient selon les versions du jeu : sauvegarde avant d'investir pour pouvoir recommencer.",
+        "en": "Lester's 5 assassination contracts move the stock market: used well, they are by far the best way to get rich in story mode.\n\n1. Hotel (mandatory, during the story): before the mission, invest all 3 characters' money in Betta Pharmaceuticals (BET, BAWSAQ). After it, sell once the price has climbed, then buy Bilkington (BIL, LCN).\n2. Keep the other 4 contracts for AFTER the final heist (The Big Score): you will have far more money to invest.\n3. Multi Target: before → Debonaire (DEB, LCN); after → Redwood (RWC, LCN).\n4. Vice: before → Fruit (FRT, BAWSAQ); after → Facade (FAC, BAWSAQ).\n5. Bus: after → Vapid (VAP, BAWSAQ).\n6. Construction: before → GoldCoast (GCD, LCN).\n\nTo pass time, sleep with your character and save, then check the price. Sell at the peak. Gains vary between game versions: save before investing so you can retry."
+      }
+    },
+    {
+      "id": "argent-depenses",
+      "title": {
+        "fr": "Ne pas dépenser trop tôt",
+        "en": "Don't spend too early"
+      },
+      "mission": {
+        "fr": "Argent",
+        "en": "Money"
+      },
+      "body": {
+        "fr": "Au début de l'histoire, l'argent est rare. Évite d'acheter des propriétés, des voitures de luxe ou des améliorations coûteuses avant d'avoir terminé le dernier braquage et les contrats de Lester (voir l'astuce Bourse).\n\nUne fois riche, les propriétés de Franklin et Trevor rapportent un revenu chaque semaine et débloquent de petites missions.",
+        "en": "Money is scarce early in the story. Avoid buying properties, luxury cars or expensive upgrades before finishing the final heist and Lester's contracts (see the stock market tip).\n\nOnce you are rich, properties bought by Franklin and Trevor pay a weekly income and unlock small side missions."
+      }
+    },
+    {
+      "id": "recherche",
+      "title": {
+        "fr": "Semer la police rapidement",
+        "en": "Lose the police fast"
+      },
+      "mission": {
+        "fr": "Niveau de recherche",
+        "en": "Wanted level"
+      },
+      "body": {
+        "fr": "• Sors de la zone de recherche (le cercle sur la mini-carte) sans être vu : les étoiles clignotent puis disparaissent.\n• Casse la ligne de vue : tunnels, ponts, parkings, buissons, ruelles.\n• Arrête-toi et reste immobile dans une cachette : les policiers passent sans te voir.\n• Change de véhicule hors de leur vue.\n• Un passage chez Los Santos Customs fait disparaître les étoiles si aucun policier ne te voit entrer.\n\nRemarque : impossible de changer de personnage tant que tu es recherché.",
+        "en": "• Leave the search area (the circle on the minimap) without being seen: the stars flash, then disappear.\n• Break line of sight: tunnels, bridges, parking garages, bushes, alleys.\n• Stop and stay still in a hiding spot: officers drive past without spotting you.\n• Swap vehicles out of their sight.\n• Driving into Los Santos Customs clears your wanted level if no officer sees you enter.\n\nNote: you can't switch characters while you are wanted."
+      }
+    },
+    {
+      "id": "sante",
+      "title": {
+        "fr": "Garder la santé et l'armure au max",
+        "en": "Keep health and armor topped up"
+      },
+      "mission": {
+        "fr": "Survie",
+        "en": "Survival"
+      },
+      "body": {
+        "fr": "• La santé remonte seule, mais seulement jusqu'à la moitié de la jauge.\n• Les snacks achetés en magasin (et gardés dans l'inventaire des armes) redonnent de la santé en pleine fusillade.\n• Achète un gilet pare-balles chez Ammu-Nation avant chaque mission importante.\n• À couvert, la santé n'est pas plus rapide, mais tu prends beaucoup moins de balles : utilise systématiquement les abris.",
+        "en": "• Health regenerates on its own, but only up to half the bar.\n• Snacks bought in stores (kept in your weapon wheel) restore health mid-fight.\n• Buy body armor at Ammu-Nation before every major mission.\n• Cover doesn't heal faster, but you take far fewer bullets: always use it."
+      }
+    },
+    {
+      "id": "competences",
+      "title": {
+        "fr": "Améliorer les compétences des personnages",
+        "en": "Level up your characters' skills"
+      },
+      "mission": {
+        "fr": "Statistiques",
+        "en": "Stats"
+      },
+      "body": {
+        "fr": "• Tir : stand de tir d'Ammu-Nation, et chaque tir réussi en mission.\n• Conduite : rouler vite sans accident, faire des wheelies et des sauts.\n• Pilotage : l'école de pilotage de l'aéroport (et chaque vol).\n• Endurance : courir, nager, faire du vélo.\n• Capacité pulmonaire : nager sous l'eau.\n• Force : combats au corps à corps, tennis, golf.\n\nUn personnage bien entraîné vise mieux, encaisse mieux et conduit plus précisément.",
+        "en": "• Shooting: the Ammu-Nation shooting range, and every successful shot in missions.\n• Driving: drive fast without crashing, do wheelies and jumps.\n• Flying: the airport flight school (and every flight).\n• Stamina: running, swimming, cycling.\n• Lung capacity: swimming underwater.\n• Strength: melee fights, tennis, golf.\n\nA well-trained character aims better, takes more hits and drives more precisely."
+      }
+    },
+    {
+      "id": "capacites-speciales",
+      "title": {
+        "fr": "Bien utiliser les capacités spéciales",
+        "en": "Make the most of special abilities"
+      },
+      "mission": {
+        "fr": "Personnages",
+        "en": "Characters"
+      },
+      "body": {
+        "fr": "• Michael : ralentit le temps pendant la visée, idéal pour les fusillades difficiles.\n• Franklin : ralentit le temps au volant, parfait pour les courses-poursuites et les virages serrés.\n• Trevor : fureur, il inflige plus de dégâts et en reçoit moins.\n\nLa jauge se remplit en utilisant le personnage. Garde-la pour les passages critiques plutôt que de la vider dès le début.",
+        "en": "• Michael: slows time while aiming, ideal for tough shootouts.\n• Franklin: slows time while driving, perfect for chases and tight turns.\n• Trevor: rage mode, deals more damage and takes less.\n\nThe bar fills as you play that character. Save it for critical moments instead of using it right away."
+      }
+    },
+    {
+      "id": "braquage-equipe",
+      "title": {
+        "fr": "Choisir son équipe de braquage",
+        "en": "Picking your heist crew"
+      },
+      "mission": {
+        "fr": "Braquages",
+        "en": "Heists"
+      },
+      "body": {
+        "fr": "Les membres d'équipe bon marché prennent une petite part du butin mais font des erreurs (perte d'une partie de l'argent, sortie ratée). Les experts coûtent plus cher mais sécurisent le coup.\n\nAstuce : un membre bon marché qui survit à un braquage gagne en compétence. Engage-le dès le premier braquage pour l'avoir efficace et pas cher lors des suivants. Certains bons coéquipiers se recrutent en aidant des inconnus lors d'événements aléatoires dans la rue.",
+        "en": "Cheap crew members take a small cut but make mistakes (losing part of the money, botched escape). Experts cost more but secure the job.\n\nTip: a cheap member who survives a heist gains skill. Hire them from the first heist so they are effective and cheap for later ones. Some good crew members can be recruited by helping strangers during random street events."
+      }
+    },
+    {
+      "id": "sauvegarde",
+      "title": {
+        "fr": "Sauvegarder souvent",
+        "en": "Save often"
+      },
+      "mission": {
+        "fr": "Général",
+        "en": "General"
+      },
+      "body": {
+        "fr": "Utilise la sauvegarde rapide depuis le téléphone, ou dors dans une planque. Sauvegarde toujours avant :\n• d'activer des codes de triche (ils désactivent les trophées/succès jusqu'au rechargement) ;\n• d'investir en Bourse ;\n• de lancer une mission difficile ou un braquage.",
+        "en": "Use quick save from the phone, or sleep in a safehouse. Always save before:\n• using cheat codes (they disable trophies/achievements until you reload);\n• investing in the stock market;\n• starting a hard mission or heist."
+      }
+    },
+    {
+      "id": "vehicules-garage",
+      "title": {
+        "fr": "Ne plus perdre ses voitures",
+        "en": "Stop losing your cars"
+      },
+      "mission": {
+        "fr": "Véhicules",
+        "en": "Vehicles"
+      },
+      "body": {
+        "fr": "Une voiture laissée dans la rue peut disparaître. Gare tes véhicules préférés dans le garage de ta planque pour les conserver.\n\nUn véhicule personnel détruit ou perdu peut être récupéré à la fourrière, contre une petite somme. Les véhicules modifiés chez Los Santos Customs sont aussi plus résistants (blindage, pneus pare-balles).",
+        "en": "A car left on the street can disappear. Park your favorite vehicles in your safehouse garage to keep them.\n\nA lost or destroyed personal vehicle can be picked up at the impound lot for a small fee. Vehicles upgraded at Los Santos Customs are also tougher (armor, bulletproof tires)."
+      }
+    },
+    {
+      "id": "collectibles",
+      "title": {
+        "fr": "Collectibles et récompenses",
+        "en": "Collectibles and rewards"
+      },
+      "mission": {
+        "fr": "100 %",
+        "en": "100%"
+      },
+      "body": {
+        "fr": "• 50 pièces de vaisseau spatial (avec Franklin, après avoir rencontré Omega) : débloque un véhicule spécial.\n• 50 fragments de lettre (avec n'importe quel personnage) : révèlent l'identité d'un meurtrier.\n• 30 barils de déchets nucléaires (au sous-marin, pour Trevor) : récompense en argent.\n• 50 sauts acrobatiques, 50 passages sous les ponts, 15 vols au couteau entre des immeubles : nécessaires pour le 100 %.\n\nAstuce : une carte interactive en ligne aide à repérer les emplacements.",
+        "en": "• 50 spaceship parts (as Franklin, after meeting Omega): unlocks a special vehicle.\n• 50 letter scraps (any character): reveal a murderer's identity.\n• 30 nuclear waste barrels (with the submarine, as Trevor): cash reward.\n• 50 stunt jumps, 50 under-the-bridge flights, 15 knife flights between buildings: required for 100%.\n\nTip: an online interactive map helps you find the locations."
+      }
+    },
+    {
+      "id": "changer-perso",
+      "title": {
+        "fr": "Changer de personnage intelligemment",
+        "en": "Switch characters wisely"
+      },
+      "mission": {
+        "fr": "Personnages",
+        "en": "Characters"
+      },
+      "body": {
+        "fr": "Changer de personnage déplace souvent la caméra vers une scène de vie amusante, et permet de « téléporter » ton action ailleurs sur la carte.\n\n• Pour te rapprocher d'une mission, passe au personnage qui est déjà à côté.\n• Les icônes de mission de chaque personnage n'apparaissent que quand tu le contrôles : change régulièrement pour ne rien rater.",
+        "en": "Switching characters often drops you into a fun slice-of-life scene and lets you \"teleport\" your action elsewhere on the map.\n\n• To get closer to a mission, switch to the character who is already nearby.\n• Each character's mission icons only show up while you control them: switch regularly so you don't miss anything."
+      }
+    }
+  ]
+}

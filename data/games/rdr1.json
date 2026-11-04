@@ -1,0 +1,343 @@
+{
+  "version": 1,
+  "updated": "2026-11-04",
+  "notice": {
+    "fr": "Pour saisir un code : Pause → Options → Triches (bouton Triangle / Y), entrer la phrase exactement, ponctuation comprise (majuscules sans importance), puis activer le code. Les codes actifs désactivent la sauvegarde automatique et les trophées/succès. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
+    "en": "To enter a code: Pause → Options → Cheats (Triangle / Y button), type the phrase exactly, punctuation included (case doesn't matter), then turn it on. Active cheats disable autosave and trophies/achievements. Unofficial guide, not affiliated with Rockstar Games or Take-Two Interactive."
+  },
+  "categories": [
+    {
+      "id": "joueur",
+      "name": {
+        "fr": "Joueur",
+        "en": "Player"
+      }
+    },
+    {
+      "id": "armes",
+      "name": {
+        "fr": "Armes",
+        "en": "Weapons"
+      }
+    },
+    {
+      "id": "chevaux",
+      "name": {
+        "fr": "Chevaux & véhicules",
+        "en": "Horses & vehicles"
+      }
+    },
+    {
+      "id": "argent",
+      "name": {
+        "fr": "Argent & recherche",
+        "en": "Money & bounty"
+      }
+    },
+    {
+      "id": "monde",
+      "name": {
+        "fr": "Monde & tenues",
+        "en": "World & outfits"
+      }
+    },
+    {
+      "id": "fun",
+      "name": {
+        "fr": "Fun",
+        "en": "Fun"
+      }
+    }
+  ],
+  "codes": [
+    {
+      "id": "invincible",
+      "title": {
+        "fr": "Invincibilité",
+        "en": "Invincibility"
+      },
+      "description": {
+        "fr": "Le personnage ne subit plus de dégâts.",
+        "en": "Your character takes no damage."
+      },
+      "category": "joueur",
+      "phrase": "He gives strength to the weak",
+      "verified": true
+    },
+    {
+      "id": "deadeye",
+      "title": {
+        "fr": "Sang-froid infini",
+        "en": "Infinite Dead Eye"
+      },
+      "description": {
+        "fr": "La jauge de Sang-froid (Dead Eye) ne se vide plus.",
+        "en": "The Dead Eye meter never drains."
+      },
+      "category": "joueur",
+      "phrase": "I don't understand Imnfinity",
+      "notes": {
+        "fr": "La faute d'orthographe « Imnfinity » fait partie du code : tape-le exactement ainsi.",
+        "en": "The misspelling “Imnfinity” is part of the code: type it exactly like that."
+      },
+      "verified": true
+    },
+    {
+      "id": "munitions",
+      "title": {
+        "fr": "Munitions infinies",
+        "en": "Infinite ammo"
+      },
+      "description": {
+        "fr": "Les munitions ne s'épuisent plus.",
+        "en": "Ammo never runs out."
+      },
+      "category": "armes",
+      "phrase": "Abundance is everywhere",
+      "verified": true
+    },
+    {
+      "id": "armes-base",
+      "title": {
+        "fr": "Armes de base",
+        "en": "Basic guns"
+      },
+      "description": {
+        "fr": "Donne un fusil de chasse, une carabine et un pistolet.",
+        "en": "Gives a shotgun, a rifle and a pistol."
+      },
+      "category": "armes",
+      "phrase": "It's my constitutional right",
+      "verified": true
+    },
+    {
+      "id": "armes-plus",
+      "title": {
+        "fr": "Six armes de plus",
+        "en": "Six more guns"
+      },
+      "description": {
+        "fr": "Ajoute six armes à feu supplémentaires.",
+        "en": "Adds six more firearms."
+      },
+      "category": "armes",
+      "phrase": "I'm an American. I need guns",
+      "verified": true
+    },
+    {
+      "id": "endurance-cheval",
+      "title": {
+        "fr": "Endurance infinie du cheval",
+        "en": "Infinite horse stamina"
+      },
+      "description": {
+        "fr": "Ton cheval ne se fatigue plus.",
+        "en": "Your horse never tires."
+      },
+      "category": "chevaux",
+      "phrase": "Make hay while the Sun shines",
+      "verified": true
+    },
+    {
+      "id": "cheval",
+      "title": {
+        "fr": "Faire apparaître un cheval",
+        "en": "Spawn a horse"
+      },
+      "description": {
+        "fr": "Un cheval au hasard apparaît à proximité.",
+        "en": "A random horse appears nearby."
+      },
+      "category": "chevaux",
+      "phrase": "Beasts and Man together",
+      "verified": true
+    },
+    {
+      "id": "attelage",
+      "title": {
+        "fr": "Faire apparaître un attelage",
+        "en": "Spawn a coach"
+      },
+      "description": {
+        "fr": "Une diligence, un chariot ou une charrette apparaît à proximité.",
+        "en": "A stagecoach, wagon or cart appears nearby."
+      },
+      "category": "chevaux",
+      "phrase": "Now who put that there?",
+      "verified": true
+    },
+    {
+      "id": "argent",
+      "title": {
+        "fr": "Obtenir 500 $",
+        "en": "Get $500"
+      },
+      "description": {
+        "fr": "Ajoute 500 $.",
+        "en": "Adds $500."
+      },
+      "category": "argent",
+      "phrase": "The root of all evil, we thank you!",
+      "verified": true
+    },
+    {
+      "id": "prime-moins",
+      "title": {
+        "fr": "Réduire la prime de 500 $",
+        "en": "Lower bounty by $500"
+      },
+      "description": {
+        "fr": "Diminue ta prime de 500 $.",
+        "en": "Reduces your bounty by $500."
+      },
+      "category": "argent",
+      "phrase": "They sell souls cheap here",
+      "verified": true
+    },
+    {
+      "id": "prime-immunite",
+      "title": {
+        "fr": "Effacer la prime et immunité",
+        "en": "Clear bounty and immunity"
+      },
+      "description": {
+        "fr": "Efface ta prime et t'évite toute nouvelle prime.",
+        "en": "Clears your bounty and prevents new ones."
+      },
+      "category": "argent",
+      "phrase": "I wish I worked for Uncle Sam",
+      "verified": true
+    },
+    {
+      "id": "renommee-max",
+      "title": {
+        "fr": "Renommée maximum",
+        "en": "Max fame"
+      },
+      "description": {
+        "fr": "Règle la renommée au maximum.",
+        "en": "Sets fame to the maximum."
+      },
+      "category": "argent",
+      "phrase": "I am one of them famous fellas",
+      "verified": true
+    },
+    {
+      "id": "renommee-zero",
+      "title": {
+        "fr": "Renommée à zéro",
+        "en": "Zero fame"
+      },
+      "description": {
+        "fr": "Remet la renommée à zéro.",
+        "en": "Resets fame to zero."
+      },
+      "category": "argent",
+      "phrase": "Humility before the Lord",
+      "verified": true
+    },
+    {
+      "id": "zones",
+      "title": {
+        "fr": "Débloquer les zones",
+        "en": "Unlock areas"
+      },
+      "description": {
+        "fr": "Ouvre les zones de la carte (sauf West Elizabeth).",
+        "en": "Opens map areas (except West Elizabeth)."
+      },
+      "category": "monde",
+      "phrase": "You got yourself a pair of fine eyes",
+      "verified": true
+    },
+    {
+      "id": "tenues-elegantes",
+      "title": {
+        "fr": "Tenues élégantes",
+        "en": "Fine outfits"
+      },
+      "description": {
+        "fr": "Débloque plusieurs tenues élégantes.",
+        "en": "Unlocks several fine outfits."
+      },
+      "category": "monde",
+      "phrase": "Don't you look fine and dandy",
+      "verified": true
+    },
+    {
+      "id": "tenues-gang",
+      "title": {
+        "fr": "Tenues de gang",
+        "en": "Gang outfits"
+      },
+      "description": {
+        "fr": "Débloque les tenues de gang.",
+        "en": "Unlocks gang outfits."
+      },
+      "category": "monde",
+      "phrase": "You think you tough, mister?",
+      "verified": true
+    },
+    {
+      "id": "uniformes",
+      "title": {
+        "fr": "Uniformes",
+        "en": "Uniforms"
+      },
+      "description": {
+        "fr": "Débloque les tenues d'armée, du Bureau et de marshal.",
+        "en": "Unlocks army, Bureau and marshal outfits."
+      },
+      "category": "monde",
+      "phrase": "I love a man in uniform",
+      "verified": true
+    },
+    {
+      "id": "sepia",
+      "title": {
+        "fr": "Filtre sépia",
+        "en": "Sepia filter"
+      },
+      "description": {
+        "fr": "Applique un filtre sépia à l'image.",
+        "en": "Applies a sepia filter to the picture."
+      },
+      "category": "fun",
+      "phrase": "The old ways is the best ways",
+      "verified": true
+    },
+    {
+      "id": "ivre",
+      "title": {
+        "fr": "Mode ivre",
+        "en": "Drunk mode"
+      },
+      "description": {
+        "fr": "La caméra tangue comme si le personnage était ivre.",
+        "en": "The camera sways as if your character were drunk."
+      },
+      "category": "fun",
+      "phrase": "I'm drunk as a skunk and twice as smelly",
+      "verified": true
+    },
+    {
+      "id": "jack",
+      "title": {
+        "fr": "Jouer Jack (fin de l'histoire)",
+        "en": "Play as Jack (story ends)"
+      },
+      "description": {
+        "fr": "Termine automatiquement l'histoire et te fait jouer Jack.",
+        "en": "Auto-completes the story and lets you play as Jack."
+      },
+      "category": "fun",
+      "phrase": "Oh my son, my blessed son",
+      "notes": {
+        "fr": "À utiliser sur une sauvegarde séparée : la progression de l'histoire est validée d'un coup.",
+        "en": "Use it on a separate save: it completes the whole story at once."
+      },
+      "verified": true
+    }
+  ],
+  "tips": []
+}

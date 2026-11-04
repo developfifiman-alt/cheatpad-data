@@ -1,10 +1,13 @@
 {
-  "version": 1,
+  "version": 4,
   "games": [
     {
       "id": "gta6",
       "name": "GTA 6",
-      "subtitle": "Codes de triche et astuces de missions",
+      "subtitle": {
+        "fr": "Codes de triche et astuces de missions",
+        "en": "Cheat codes and mission tips"
+      },
       "platforms": [
         "playstation",
         "xbox"
@@ -13,17 +16,49 @@
       "accent": "#FF3D8B"
     },
     {
-      "id": "demo-pc",
-      "name": "EXEMPLE – Jeu PC",
-      "subtitle": "Jeu fictif pour tester les codes à taper au clavier",
+      "id": "gta5",
+      "name": "GTA 5",
+      "subtitle": {
+        "fr": "Tous les codes du mode histoire",
+        "en": "All story mode cheats"
+      },
       "platforms": [
-        "pc",
         "playstation",
         "xbox",
-        "switch"
+        "pc"
       ],
-      "file": "games/demo-pc.json",
-      "accent": "#22D3EE"
-    }
-  ]
+      "file": "games/gta5.json",
+      "accent": "#5EE0A8"
+    },
+    {
+      "id": "rdr2",
+      "name": "Red Dead Redemption 2",
+      "subtitle": {
+        "fr": "Tous les codes du mode histoire",
+        "en": "All story mode cheats"
+      },
+      "platforms": [
+        "playstation",
+        "xbox",
+        "pc"
+      ],
+      "file": "games/rdr2.json",
+      "accent": "#E8584A"
+    },
+    {
+      "id": "rdr1",
+      "name": "Red Dead Redemption",
+      "subtitle": {
+        "fr": "Tous les codes de triche",
+        "en": "All cheat codes"
+      },
+      "platforms": [
+        "playstation",
+        "xbox",
+        "switch",
+        "pc"
+      ],
+      "file": "games/rdr1.json",
+      "accent": "#F2A541"
+    }]
 }

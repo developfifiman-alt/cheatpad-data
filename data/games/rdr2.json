@@ -1,0 +1,605 @@
+{
+  "version": 1,
+  "updated": "2026-11-04",
+  "notice": {
+    "fr": "Mode histoire uniquement. Pour saisir un code : Pause → Réglages → Triches (bouton Triangle / Y), puis entrer la phrase exactement, ponctuation comprise, et activer le code. Certains codes doivent d'abord être débloqués en achetant des journaux (voir la fiche). Activer un code désactive la sauvegarde et les trophées/succès tant qu'il est actif. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
+    "en": "Story mode only. To enter a code: Pause → Settings → Cheats (Triangle / Y button), type the phrase exactly, punctuation included, then turn the cheat on. Some cheats must first be unlocked by buying newspapers (see each code). Active cheats disable saving and trophies/achievements. Unofficial guide, not affiliated with Rockstar Games or Take-Two Interactive."
+  },
+  "categories": [
+    {
+      "id": "joueur",
+      "name": {
+        "fr": "Joueur",
+        "en": "Player"
+      }
+    },
+    {
+      "id": "armes",
+      "name": {
+        "fr": "Armes",
+        "en": "Weapons"
+      }
+    },
+    {
+      "id": "chevaux",
+      "name": {
+        "fr": "Chevaux & véhicules",
+        "en": "Horses & vehicles"
+      }
+    },
+    {
+      "id": "argent",
+      "name": {
+        "fr": "Argent & recherche",
+        "en": "Money & bounty"
+      }
+    },
+    {
+      "id": "monde",
+      "name": {
+        "fr": "Monde & tenues",
+        "en": "World & outfits"
+      }
+    },
+    {
+      "id": "fun",
+      "name": {
+        "fr": "Fun",
+        "en": "Fun"
+      }
+    }
+  ],
+  "codes": [
+    {
+      "id": "max-barres",
+      "title": {
+        "fr": "Barres au maximum",
+        "en": "Max all cores"
+      },
+      "description": {
+        "fr": "Remplit la santé, l'endurance et la Sang-froid (Dead Eye).",
+        "en": "Refills health, stamina and Dead Eye."
+      },
+      "category": "joueur",
+      "phrase": "You flourish before you die",
+      "verified": true
+    },
+    {
+      "id": "niveaux-barres",
+      "title": {
+        "fr": "Augmenter les barres",
+        "en": "Increase bar levels"
+      },
+      "description": {
+        "fr": "Augmente le niveau des barres de santé, endurance et Sang-froid.",
+        "en": "Raises the level of the health, stamina and Dead Eye bars."
+      },
+      "category": "joueur",
+      "phrase": "Seek all the bounty of this place",
+      "verified": true
+    },
+    {
+      "id": "fortifier",
+      "title": {
+        "fr": "Fortifier les barres",
+        "en": "Fortify bars"
+      },
+      "description": {
+        "fr": "Renforce (dore) les barres du personnage.",
+        "en": "Fortifies (gold) your character's bars."
+      },
+      "category": "joueur",
+      "phrase": "You Seek More Than The World Offers",
+      "notes": {
+        "fr": "À débloquer d'abord : journal disponible après la mission « The King's Son » (chapitre 6).",
+        "en": "Unlock first: newspaper after the mission “The King's Son” (Chapter 6)."
+      },
+      "verified": true
+    },
+    {
+      "id": "endurance-infinie",
+      "title": {
+        "fr": "Endurance infinie",
+        "en": "Infinite stamina"
+      },
+      "description": {
+        "fr": "L'endurance du personnage ne baisse plus.",
+        "en": "Your character's stamina never drains."
+      },
+      "category": "joueur",
+      "phrase": "The lucky be strong evermore",
+      "notes": {
+        "fr": "À débloquer d'abord : journal disponible après le chapitre 5.",
+        "en": "Unlock first: newspaper after Chapter 5."
+      },
+      "verified": true
+    },
+    {
+      "id": "deadeye-infini",
+      "title": {
+        "fr": "Sang-froid infini",
+        "en": "Infinite Dead Eye"
+      },
+      "description": {
+        "fr": "La jauge de Sang-froid (Dead Eye) ne se vide plus.",
+        "en": "The Dead Eye meter never drains."
+      },
+      "category": "joueur",
+      "phrase": "Be greedy only for foresight",
+      "verified": true
+    },
+    {
+      "id": "deadeye-1",
+      "title": {
+        "fr": "Sang-froid niveau 1",
+        "en": "Dead Eye level 1"
+      },
+      "description": {
+        "fr": "Règle le Sang-froid au niveau 1.",
+        "en": "Sets Dead Eye to level 1."
+      },
+      "category": "joueur",
+      "phrase": "Guide me better",
+      "verified": true
+    },
+    {
+      "id": "deadeye-2",
+      "title": {
+        "fr": "Sang-froid niveau 2",
+        "en": "Dead Eye level 2"
+      },
+      "description": {
+        "fr": "Règle le Sang-froid au niveau 2.",
+        "en": "Sets Dead Eye to level 2."
+      },
+      "category": "joueur",
+      "phrase": "Make me better",
+      "verified": true
+    },
+    {
+      "id": "deadeye-3",
+      "title": {
+        "fr": "Sang-froid niveau 3",
+        "en": "Dead Eye level 3"
+      },
+      "description": {
+        "fr": "Règle le Sang-froid au niveau 3.",
+        "en": "Sets Dead Eye to level 3."
+      },
+      "category": "joueur",
+      "phrase": "I shall be better",
+      "verified": true
+    },
+    {
+      "id": "deadeye-4",
+      "title": {
+        "fr": "Sang-froid niveau 4",
+        "en": "Dead Eye level 4"
+      },
+      "description": {
+        "fr": "Règle le Sang-froid au niveau 4.",
+        "en": "Sets Dead Eye to level 4."
+      },
+      "category": "joueur",
+      "phrase": "I still seek more",
+      "verified": true
+    },
+    {
+      "id": "deadeye-5",
+      "title": {
+        "fr": "Sang-froid niveau 5",
+        "en": "Dead Eye level 5"
+      },
+      "description": {
+        "fr": "Règle le Sang-froid au niveau maximum.",
+        "en": "Sets Dead Eye to the max level."
+      },
+      "category": "joueur",
+      "phrase": "I seek and I find",
+      "verified": true
+    },
+    {
+      "id": "honneur-haut",
+      "title": {
+        "fr": "Honneur au maximum",
+        "en": "High honor"
+      },
+      "description": {
+        "fr": "Fait passer l'honneur au niveau le plus haut.",
+        "en": "Sets honor to the highest level."
+      },
+      "category": "joueur",
+      "phrase": "Virtue Unearned is not virtue",
+      "notes": {
+        "fr": "À débloquer d'abord : journal disponible après la mission « Urban Pleasures » (chapitre 4).",
+        "en": "Unlock first: newspaper after the mission “Urban Pleasures” (Chapter 4)."
+      },
+      "verified": true
+    },
+    {
+      "id": "honneur-bas",
+      "title": {
+        "fr": "Baisser l'honneur",
+        "en": "Lower honor"
+      },
+      "description": {
+        "fr": "Fait baisser l'honneur.",
+        "en": "Lowers your honor."
+      },
+      "category": "joueur",
+      "phrase": "You revel in your disgrace, I see",
+      "verified": true
+    },
+    {
+      "id": "honneur-reset",
+      "title": {
+        "fr": "Réinitialiser l'honneur",
+        "en": "Reset honor"
+      },
+      "description": {
+        "fr": "Remet l'honneur au niveau neutre.",
+        "en": "Resets honor to neutral."
+      },
+      "category": "joueur",
+      "phrase": "Balance. All is balance",
+      "verified": true
+    },
+    {
+      "id": "recettes",
+      "title": {
+        "fr": "Toutes les recettes",
+        "en": "All recipes"
+      },
+      "description": {
+        "fr": "Débloque toutes les recettes de cuisine et d'artisanat.",
+        "en": "Unlocks every cooking and crafting recipe."
+      },
+      "category": "joueur",
+      "phrase": "Eat of Knowledge",
+      "verified": true
+    },
+    {
+      "id": "camp",
+      "title": {
+        "fr": "Améliorations du camp",
+        "en": "Camp upgrades"
+      },
+      "description": {
+        "fr": "Achète toutes les améliorations du camp.",
+        "en": "Buys every camp upgrade."
+      },
+      "category": "joueur",
+      "phrase": "Share",
+      "verified": true
+    },
+    {
+      "id": "armes-simples",
+      "title": {
+        "fr": "Armes simples",
+        "en": "Simple weapons"
+      },
+      "description": {
+        "fr": "Donne un lot d'armes simples.",
+        "en": "Gives a set of simple weapons."
+      },
+      "category": "armes",
+      "phrase": "A simple life, a beautiful death",
+      "verified": true
+    },
+    {
+      "id": "armes-lourdes",
+      "title": {
+        "fr": "Armes lourdes",
+        "en": "Heavy weapons"
+      },
+      "description": {
+        "fr": "Donne un lot d'armes lourdes.",
+        "en": "Gives a set of heavy weapons."
+      },
+      "category": "armes",
+      "phrase": "Greed is American Virtue",
+      "notes": {
+        "fr": "À débloquer d'abord : journal disponible après la mission « Advertising, the New American Art » (chapitre 3).",
+        "en": "Unlock first: newspaper after the mission “Advertising, the New American Art” (Chapter 3)."
+      },
+      "verified": true
+    },
+    {
+      "id": "armes-discretes",
+      "title": {
+        "fr": "Armes discrètes",
+        "en": "Stealth weapons"
+      },
+      "description": {
+        "fr": "Donne un lot d'armes silencieuses (arcs, couteaux de lancer…).",
+        "en": "Gives a set of silent weapons (bows, throwing knives…)."
+      },
+      "category": "armes",
+      "phrase": "Death is silence",
+      "verified": true
+    },
+    {
+      "id": "armes-pistolero",
+      "title": {
+        "fr": "Armes de pistolero",
+        "en": "Gunslinger weapons"
+      },
+      "description": {
+        "fr": "Donne un lot de revolvers et pistolets.",
+        "en": "Gives a set of revolvers and pistols."
+      },
+      "category": "armes",
+      "phrase": "History is written by fools",
+      "verified": true
+    },
+    {
+      "id": "munitions",
+      "title": {
+        "fr": "Munitions infinies",
+        "en": "Infinite ammo"
+      },
+      "description": {
+        "fr": "Les munitions ne s'épuisent plus.",
+        "en": "Ammo never runs out."
+      },
+      "category": "armes",
+      "phrase": "Abundance is the dullest desire",
+      "notes": {
+        "fr": "À débloquer d'abord : journal n° 27 du New Hanover Gazette, à acheter à Valentine.",
+        "en": "Unlock first: New Hanover Gazette No. 27, bought in Valentine."
+      },
+      "verified": true
+    },
+    {
+      "id": "argent",
+      "title": {
+        "fr": "Obtenir 500 $",
+        "en": "Get $500"
+      },
+      "description": {
+        "fr": "Ajoute 500 $ (une seule fois par partie).",
+        "en": "Adds $500 (once per save)."
+      },
+      "category": "argent",
+      "phrase": "Greed is now a virtue",
+      "verified": true
+    },
+    {
+      "id": "recherche-plus",
+      "title": {
+        "fr": "Augmenter la recherche",
+        "en": "Raise wanted level"
+      },
+      "description": {
+        "fr": "Fait monter le niveau de recherche.",
+        "en": "Raises your wanted level."
+      },
+      "category": "argent",
+      "phrase": "You want punishment",
+      "verified": true
+    },
+    {
+      "id": "recherche-moins",
+      "title": {
+        "fr": "Baisser la recherche",
+        "en": "Lower wanted level"
+      },
+      "description": {
+        "fr": "Fait baisser le niveau de recherche.",
+        "en": "Lowers your wanted level."
+      },
+      "category": "argent",
+      "phrase": "You want freedom",
+      "verified": true
+    },
+    {
+      "id": "primes",
+      "title": {
+        "fr": "Effacer les primes",
+        "en": "Clear bounties"
+      },
+      "description": {
+        "fr": "Efface les primes et lève les bouclages des villes.",
+        "en": "Clears bounties and lifts town lockdowns."
+      },
+      "category": "argent",
+      "phrase": "You want everyone to go away",
+      "verified": true
+    },
+    {
+      "id": "carte",
+      "title": {
+        "fr": "Révéler toute la carte",
+        "en": "Reveal the map"
+      },
+      "description": {
+        "fr": "Dévoile l'intégralité de la carte.",
+        "en": "Reveals the whole map."
+      },
+      "category": "monde",
+      "phrase": "You Long for Sight but See Nothing",
+      "notes": {
+        "fr": "À débloquer d'abord : journal disponible après la mission « Blood Feuds, Ancient and Modern » (chapitre 3).",
+        "en": "Unlock first: newspaper after the mission “Blood Feuds, Ancient and Modern” (Chapter 3)."
+      },
+      "verified": true
+    },
+    {
+      "id": "tenues",
+      "title": {
+        "fr": "Toutes les tenues",
+        "en": "All outfits"
+      },
+      "description": {
+        "fr": "Débloque toutes les tenues.",
+        "en": "Unlocks every outfit."
+      },
+      "category": "monde",
+      "phrase": "Vanity. All is vanity",
+      "verified": true
+    },
+    {
+      "id": "lien-cheval",
+      "title": {
+        "fr": "Lien avec le cheval",
+        "en": "Horse bonding"
+      },
+      "description": {
+        "fr": "Augmente le lien avec ton cheval.",
+        "en": "Increases your bond with your horse."
+      },
+      "category": "chevaux",
+      "phrase": "My kingdom is a horse",
+      "verified": true
+    },
+    {
+      "id": "sifflet",
+      "title": {
+        "fr": "Sifflet longue distance",
+        "en": "Long-range whistle"
+      },
+      "description": {
+        "fr": "Ton cheval entend ton sifflet de n'importe où.",
+        "en": "Your horse hears your whistle from anywhere."
+      },
+      "category": "chevaux",
+      "phrase": "Better than my dog",
+      "verified": true
+    },
+    {
+      "id": "cheval-course",
+      "title": {
+        "fr": "Cheval de course",
+        "en": "Race horse"
+      },
+      "description": {
+        "fr": "Fait apparaître un cheval de course.",
+        "en": "Spawns a race horse."
+      },
+      "category": "chevaux",
+      "phrase": "Run! Run! Run!",
+      "verified": true
+    },
+    {
+      "id": "cheval-guerre",
+      "title": {
+        "fr": "Cheval de guerre",
+        "en": "War horse"
+      },
+      "description": {
+        "fr": "Fait apparaître un cheval de guerre.",
+        "en": "Spawns a war horse."
+      },
+      "category": "chevaux",
+      "phrase": "You are a beast built for war",
+      "notes": {
+        "fr": "À débloquer d'abord : journal disponible après l'épilogue.",
+        "en": "Unlock first: newspaper after the Epilogue."
+      },
+      "verified": true
+    },
+    {
+      "id": "cheval-superieur",
+      "title": {
+        "fr": "Cheval supérieur",
+        "en": "Superior horse"
+      },
+      "description": {
+        "fr": "Fait apparaître un cheval de qualité supérieure.",
+        "en": "Spawns a superior horse."
+      },
+      "category": "chevaux",
+      "phrase": "You want more than you have",
+      "verified": true
+    },
+    {
+      "id": "cheval-aleatoire",
+      "title": {
+        "fr": "Cheval au hasard",
+        "en": "Random horse"
+      },
+      "description": {
+        "fr": "Fait apparaître un cheval au hasard.",
+        "en": "Spawns a random horse."
+      },
+      "category": "chevaux",
+      "phrase": "You want something new",
+      "verified": true
+    },
+    {
+      "id": "diligence",
+      "title": {
+        "fr": "Diligence",
+        "en": "Stagecoach"
+      },
+      "description": {
+        "fr": "Fait apparaître une diligence.",
+        "en": "Spawns a stagecoach."
+      },
+      "category": "chevaux",
+      "phrase": "The best of the old ways",
+      "verified": true
+    },
+    {
+      "id": "chariot",
+      "title": {
+        "fr": "Chariot",
+        "en": "Wagon"
+      },
+      "description": {
+        "fr": "Fait apparaître un chariot.",
+        "en": "Spawns a wagon."
+      },
+      "category": "chevaux",
+      "phrase": "Keep your dreams simple",
+      "verified": true
+    },
+    {
+      "id": "buggy",
+      "title": {
+        "fr": "Buggy",
+        "en": "Buggy"
+      },
+      "description": {
+        "fr": "Fait apparaître un buggy.",
+        "en": "Spawns a buggy."
+      },
+      "category": "chevaux",
+      "phrase": "Keep your dreams light",
+      "verified": true
+    },
+    {
+      "id": "cirque",
+      "title": {
+        "fr": "Chariot de cirque",
+        "en": "Circus wagon"
+      },
+      "description": {
+        "fr": "Fait apparaître un chariot de cirque.",
+        "en": "Spawns a circus wagon."
+      },
+      "category": "chevaux",
+      "phrase": "Would you be happier as a clown?",
+      "notes": {
+        "fr": "À débloquer d'abord : journal disponible après l'épilogue.",
+        "en": "Unlock first: newspaper after the Epilogue."
+      },
+      "verified": true
+    },
+    {
+      "id": "ivre",
+      "title": {
+        "fr": "Mode ivre",
+        "en": "Drunk mode"
+      },
+      "description": {
+        "fr": "Le personnage devient ivre.",
+        "en": "Makes your character drunk."
+      },
+      "category": "fun",
+      "phrase": "A fool on command",
+      "verified": true
+    }
+  ],
+  "tips": []
+}
