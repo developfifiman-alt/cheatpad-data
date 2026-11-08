@@ -1,0 +1,629 @@
+{
+  "version": 2,
+  "updated": "2026-11-06",
+  "notice": {
+    "fr": "Sur console : entrer la séquence rapidement pendant le jeu (pas dans un menu). Sur PC : taper le mot directement pendant le jeu, sans ouvrir de console. Les codes désactivent les trophées/succès de la Definitive Edition, et certains ne peuvent pas être annulés : sauvegarde avant de les utiliser. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
+    "en": "On console: enter the sequence quickly during gameplay (not in a menu). On PC: type the word directly during gameplay, no console needed. Cheats disable trophies/achievements in the Definitive Edition, and some cannot be turned off: save before using them. Unofficial guide, not affiliated with Rockstar Games or Take-Two Interactive."
+  },
+  "categories": [
+    {
+      "id": "joueur",
+      "name": {
+        "fr": "Joueur",
+        "en": "Player"
+      }
+    },
+    {
+      "id": "armes",
+      "name": {
+        "fr": "Armes",
+        "en": "Weapons"
+      }
+    },
+    {
+      "id": "vehicules",
+      "name": {
+        "fr": "Véhicules",
+        "en": "Vehicles"
+      }
+    },
+    {
+      "id": "monde",
+      "name": {
+        "fr": "Monde & météo",
+        "en": "World & weather"
+      }
+    },
+    {
+      "id": "fun",
+      "name": {
+        "fr": "Fun",
+        "en": "Fun"
+      }
+    }
+  ],
+  "codes": [
+    {
+      "id": "sante",
+      "title": {
+        "fr": "Santé au maximum",
+        "en": "Full health"
+      },
+      "description": {
+        "fr": "Remplit la santé et répare le véhicule.",
+        "en": "Restores health and repairs your vehicle."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R2",
+        "R2",
+        "L1",
+        "R1",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT"
+      ],
+      "text": "GESUNDHEIT",
+      "verified": true
+    },
+    {
+      "id": "armure",
+      "title": {
+        "fr": "Armure au maximum",
+        "en": "Full armor"
+      },
+      "description": {
+        "fr": "Remplit le gilet pare-balles.",
+        "en": "Fills your body armor."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R2",
+        "R2",
+        "L1",
+        "L2",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT"
+      ],
+      "text": "TURTOISE",
+      "notes": {
+        "fr": "Sur PC, selon la version : TURTOISE ou TORTOISE.",
+        "en": "On PC, depending on the version: TURTOISE or TORTOISE."
+      },
+      "verified": true
+    },
+    {
+      "id": "armes",
+      "title": {
+        "fr": "Toutes les armes",
+        "en": "All weapons"
+      },
+      "description": {
+        "fr": "Donne toutes les armes avec des munitions.",
+        "en": "Gives every weapon with ammo."
+      },
+      "category": "armes",
+      "buttons": [
+        "R2",
+        "R2",
+        "L1",
+        "R2",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT"
+      ],
+      "text": "GUNSGUNSGUNS",
+      "verified": true
+    },
+    {
+      "id": "argent",
+      "title": {
+        "fr": "Obtenir 250 000 $",
+        "en": "Get $250,000"
+      },
+      "description": {
+        "fr": "Ajoute 250 000 $.",
+        "en": "Adds $250,000."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R2",
+        "R2",
+        "L1",
+        "L1",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT"
+      ],
+      "text": "IFIWEREARICHMAN",
+      "verified": true
+    },
+    {
+      "id": "recherche-plus",
+      "title": {
+        "fr": "Augmenter la recherche",
+        "en": "Raise wanted level"
+      },
+      "description": {
+        "fr": "Ajoute deux étoiles de recherche.",
+        "en": "Adds two wanted stars."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R2",
+        "R2",
+        "L1",
+        "R2",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE"
+      ],
+      "text": "MOREPOLICEPLEASE",
+      "verified": true
+    },
+    {
+      "id": "recherche-moins",
+      "title": {
+        "fr": "Supprimer la recherche",
+        "en": "Clear wanted level"
+      },
+      "description": {
+        "fr": "Retire toutes les étoiles de recherche.",
+        "en": "Removes all wanted stars."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R2",
+        "R2",
+        "L1",
+        "R2",
+        "HAUT",
+        "BAS",
+        "HAUT",
+        "BAS",
+        "HAUT",
+        "BAS"
+      ],
+      "text": "NOPOLICEPLEASE",
+      "verified": true
+    },
+    {
+      "id": "grosse-tete",
+      "title": {
+        "fr": "Grosses têtes",
+        "en": "Big head mode"
+      },
+      "description": {
+        "fr": "Les personnages ont une tête énorme.",
+        "en": "Characters get huge heads."
+      },
+      "category": "fun",
+      "buttons": [
+        "HAUT",
+        "HAUT",
+        "BAS",
+        "BAS",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "ROND",
+        "CROIX"
+      ],
+      "text": "EXPANDDOME",
+      "notes": {
+        "fr": "Uniquement dans la Definitive Edition.",
+        "en": "Definitive Edition only."
+      },
+      "verified": true
+    },
+    {
+      "id": "rhino",
+      "title": {
+        "fr": "Tank Rhino",
+        "en": "Rhino tank"
+      },
+      "description": {
+        "fr": "Fait apparaître un tank.",
+        "en": "Spawns a tank."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "ROND",
+        "ROND",
+        "ROND",
+        "ROND",
+        "ROND",
+        "R1",
+        "L2",
+        "L1",
+        "TRIANGLE",
+        "ROND",
+        "TRIANGLE"
+      ],
+      "text": "GIVEUSATANK",
+      "verified": true
+    },
+    {
+      "id": "detruire",
+      "title": {
+        "fr": "Détruire tous les véhicules",
+        "en": "Destroy all vehicles"
+      },
+      "description": {
+        "fr": "Fait exploser les véhicules autour de toi.",
+        "en": "Blows up the vehicles around you."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "L2",
+        "R2",
+        "L1",
+        "R1",
+        "L2",
+        "R2",
+        "TRIANGLE",
+        "CARRE",
+        "ROND",
+        "TRIANGLE",
+        "L2",
+        "L1"
+      ],
+      "text": "BANGBANGBANG",
+      "verified": true
+    },
+    {
+      "id": "tenue-route",
+      "title": {
+        "fr": "Meilleure tenue de route",
+        "en": "Improved car handling"
+      },
+      "description": {
+        "fr": "Les voitures adhèrent mieux à la route.",
+        "en": "Cars grip the road better."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R1",
+        "L1",
+        "R2",
+        "L1",
+        "GAUCHE",
+        "R1",
+        "R1",
+        "TRIANGLE"
+      ],
+      "text": "CORNERSLIKEMAD",
+      "verified": true
+    },
+    {
+      "id": "voitures-volantes",
+      "title": {
+        "fr": "Voitures volantes",
+        "en": "Flying cars"
+      },
+      "description": {
+        "fr": "Les voitures peuvent s'envoler.",
+        "en": "Cars can take off and fly."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "DROITE",
+        "R2",
+        "ROND",
+        "R1",
+        "L2",
+        "BAS",
+        "L1",
+        "R1"
+      ],
+      "text": "CHITTYCHITTYBB",
+      "verified": true
+    },
+    {
+      "id": "meteo-soleil",
+      "title": {
+        "fr": "Météo : ensoleillé",
+        "en": "Weather: sunny"
+      },
+      "description": {
+        "fr": "Passe à un temps ensoleillé.",
+        "en": "Switches to sunny weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "R2",
+        "R1",
+        "L2",
+        "TRIANGLE"
+      ],
+      "text": "SKINCANCERFORME",
+      "verified": true
+    },
+    {
+      "id": "meteo-nuages",
+      "title": {
+        "fr": "Météo : nuageux",
+        "en": "Weather: cloudy"
+      },
+      "description": {
+        "fr": "Passe à un temps nuageux.",
+        "en": "Switches to cloudy weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "R2",
+        "R1",
+        "L2",
+        "CARRE"
+      ],
+      "text": "ILIKESCOTLAND",
+      "verified": true
+    },
+    {
+      "id": "meteo-brouillard",
+      "title": {
+        "fr": "Météo : brouillard",
+        "en": "Weather: foggy"
+      },
+      "description": {
+        "fr": "Passe à un temps brumeux.",
+        "en": "Switches to foggy weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "R2",
+        "R1",
+        "L2",
+        "CROIX"
+      ],
+      "text": "PEASOUP",
+      "verified": true
+    },
+    {
+      "id": "meteo-pluie",
+      "title": {
+        "fr": "Météo : pluie",
+        "en": "Weather: rain"
+      },
+      "description": {
+        "fr": "Passe à un temps pluvieux.",
+        "en": "Switches to rainy weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "R2",
+        "R1",
+        "L2",
+        "ROND"
+      ],
+      "text": "ILOVESCOTLAND",
+      "verified": true
+    },
+    {
+      "id": "horloge",
+      "title": {
+        "fr": "Accélérer l'horloge",
+        "en": "Speed up the clock"
+      },
+      "description": {
+        "fr": "Le temps passe beaucoup plus vite dans le jeu.",
+        "en": "In-game time passes much faster."
+      },
+      "category": "monde",
+      "buttons": [
+        "ROND",
+        "ROND",
+        "ROND",
+        "CARRE",
+        "CARRE",
+        "CARRE",
+        "CARRE",
+        "CARRE",
+        "L1",
+        "TRIANGLE",
+        "ROND",
+        "TRIANGLE"
+      ],
+      "text": "MADWEATHER",
+      "verified": true
+    },
+    {
+      "id": "ralenti",
+      "title": {
+        "fr": "Ralenti",
+        "en": "Slow motion"
+      },
+      "description": {
+        "fr": "Ralentit tout le jeu.",
+        "en": "Slows down the whole game."
+      },
+      "category": "fun",
+      "buttons": [
+        "TRIANGLE",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "CARRE",
+        "R1",
+        "R2"
+      ],
+      "text": "BOOOOORING",
+      "verified": true
+    },
+    {
+      "id": "accelere",
+      "title": {
+        "fr": "Jeu accéléré",
+        "en": "Fast motion"
+      },
+      "description": {
+        "fr": "Accélère tout le jeu.",
+        "en": "Speeds up the whole game."
+      },
+      "category": "fun",
+      "buttons": [
+        "TRIANGLE",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "CARRE",
+        "L1",
+        "L2"
+      ],
+      "text": "TIMEFLIESWHENYOU",
+      "verified": true
+    },
+    {
+      "id": "emeute",
+      "title": {
+        "fr": "Émeute",
+        "en": "Pedestrians riot"
+      },
+      "description": {
+        "fr": "Les passants se battent entre eux. Ne peut pas être annulé.",
+        "en": "Pedestrians fight each other. Cannot be turned off."
+      },
+      "category": "fun",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "GAUCHE",
+        "HAUT",
+        "CROIX",
+        "R1",
+        "R2",
+        "L2",
+        "L1"
+      ],
+      "text": "ITSALLGOINGMAAAD",
+      "verified": true
+    },
+    {
+      "id": "pietons-attaquent",
+      "title": {
+        "fr": "Les passants t'attaquent",
+        "en": "Pedestrians attack you"
+      },
+      "description": {
+        "fr": "Les passants deviennent hostiles. Ne peut pas être annulé.",
+        "en": "Pedestrians turn hostile. Cannot be turned off."
+      },
+      "category": "fun",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "GAUCHE",
+        "HAUT",
+        "CROIX",
+        "R1",
+        "R2",
+        "L1",
+        "L2"
+      ],
+      "text": "NOBODYLIKESME",
+      "verified": true
+    },
+    {
+      "id": "pietons-armes",
+      "title": {
+        "fr": "Passants armés",
+        "en": "Armed pedestrians"
+      },
+      "description": {
+        "fr": "Les passants portent des armes. Ne peut pas être annulé.",
+        "en": "Pedestrians carry weapons. Cannot be turned off."
+      },
+      "category": "fun",
+      "buttons": [
+        "R2",
+        "R1",
+        "TRIANGLE",
+        "CROIX",
+        "L2",
+        "L1",
+        "HAUT",
+        "BAS"
+      ],
+      "text": "WEAPONSFORALL",
+      "verified": true
+    }
+  ],
+  "tips": [],
+  "packs": [
+    {
+      "id": "equipement",
+      "title": {
+        "fr": "Équipement complet",
+        "en": "Full kit"
+      },
+      "description": {
+        "fr": "Santé, armure, toutes les armes et 250 000 $.",
+        "en": "Health, armor, every weapon and $250,000."
+      },
+      "codes": [
+        "sante",
+        "armure",
+        "armes",
+        "argent"
+      ]
+    },
+    {
+      "id": "assaut",
+      "title": {
+        "fr": "Assaut",
+        "en": "All-out assault"
+      },
+      "description": {
+        "fr": "Toutes les armes, un tank et la police à tes trousses.",
+        "en": "Every weapon, a tank and the police on your tail."
+      },
+      "codes": [
+        "armes",
+        "rhino",
+        "recherche-plus"
+      ]
+    }
+  ]
+}

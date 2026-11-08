@@ -1,0 +1,291 @@
+{
+  "version": 2,
+  "updated": "2026-11-06",
+  "notice": {
+    "fr": "Pour utiliser un code : sors le téléphone de Niko (flèche du haut sur console), compose le numéro et appelle. Les codes empêchent l'obtention de certains trophées/succès pendant la partie : sauvegarde avant. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
+    "en": "To use a code: take out Niko's phone (up on the D-pad on console), dial the number and call. Cheats block some trophies/achievements for that session: save first. Unofficial guide, not affiliated with Rockstar Games or Take-Two Interactive."
+  },
+  "categories": [
+    {
+      "id": "joueur",
+      "name": {
+        "fr": "Joueur",
+        "en": "Player"
+      }
+    },
+    {
+      "id": "armes",
+      "name": {
+        "fr": "Armes",
+        "en": "Weapons"
+      }
+    },
+    {
+      "id": "vehicules",
+      "name": {
+        "fr": "Véhicules",
+        "en": "Vehicles"
+      }
+    },
+    {
+      "id": "monde",
+      "name": {
+        "fr": "Monde & météo",
+        "en": "World & weather"
+      }
+    },
+    {
+      "id": "fun",
+      "name": {
+        "fr": "Fun",
+        "en": "Fun"
+      }
+    }
+  ],
+  "codes": [
+    {
+      "id": "sante-armure",
+      "title": {
+        "fr": "Santé et armure",
+        "en": "Health and armor"
+      },
+      "description": {
+        "fr": "Remplit la santé et l'armure.",
+        "en": "Restores health and armor."
+      },
+      "category": "joueur",
+      "phone": "362-555-0100",
+      "verified": true
+    },
+    {
+      "id": "sante-munitions",
+      "title": {
+        "fr": "Santé, armure et munitions",
+        "en": "Health, armor and ammo"
+      },
+      "description": {
+        "fr": "Remplit santé, armure et munitions, et répare le véhicule.",
+        "en": "Restores health, armor and ammo, and repairs your vehicle."
+      },
+      "category": "joueur",
+      "phone": "482-555-0100",
+      "verified": true
+    },
+    {
+      "id": "armes-1",
+      "title": {
+        "fr": "Armes : lot 1",
+        "en": "Weapons set 1"
+      },
+      "description": {
+        "fr": "Donne un premier lot d'armes avec des munitions.",
+        "en": "Gives a first set of weapons with ammo."
+      },
+      "category": "armes",
+      "phone": "486-555-0150",
+      "verified": true
+    },
+    {
+      "id": "armes-2",
+      "title": {
+        "fr": "Armes : lot 2",
+        "en": "Weapons set 2"
+      },
+      "description": {
+        "fr": "Donne un second lot d'armes avec des munitions.",
+        "en": "Gives a second set of weapons with ammo."
+      },
+      "category": "armes",
+      "phone": "486-555-0100",
+      "verified": true
+    },
+    {
+      "id": "recherche-moins",
+      "title": {
+        "fr": "Supprimer la recherche",
+        "en": "Clear wanted level"
+      },
+      "description": {
+        "fr": "Retire toutes les étoiles de recherche.",
+        "en": "Removes all wanted stars."
+      },
+      "category": "joueur",
+      "phone": "267-555-0100",
+      "verified": true
+    },
+    {
+      "id": "recherche-plus",
+      "title": {
+        "fr": "Augmenter la recherche",
+        "en": "Raise wanted level"
+      },
+      "description": {
+        "fr": "Ajoute une étoile de recherche à chaque appel.",
+        "en": "Adds one wanted star per call."
+      },
+      "category": "joueur",
+      "phone": "267-555-0150",
+      "verified": true
+    },
+    {
+      "id": "meteo",
+      "title": {
+        "fr": "Changer la météo",
+        "en": "Change weather"
+      },
+      "description": {
+        "fr": "Fait défiler les types de météo à chaque appel.",
+        "en": "Cycles through weather types with each call."
+      },
+      "category": "monde",
+      "phone": "468-555-0100",
+      "verified": true
+    },
+    {
+      "id": "annihilator",
+      "title": {
+        "fr": "Hélicoptère Annihilator",
+        "en": "Annihilator helicopter"
+      },
+      "description": {
+        "fr": "Fait apparaître un hélicoptère d'attaque.",
+        "en": "Spawns an attack helicopter."
+      },
+      "category": "vehicules",
+      "phone": "359-555-0100",
+      "verified": true
+    },
+    {
+      "id": "comet",
+      "title": {
+        "fr": "Voiture de sport Comet",
+        "en": "Comet sports car"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture de sport.",
+        "en": "Spawns a sports car."
+      },
+      "category": "vehicules",
+      "phone": "227-555-0175",
+      "verified": true
+    },
+    {
+      "id": "supergt",
+      "title": {
+        "fr": "Voiture de sport Super GT",
+        "en": "Super GT sports car"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture de sport.",
+        "en": "Spawns a sports car."
+      },
+      "category": "vehicules",
+      "phone": "227-555-0168",
+      "verified": true
+    },
+    {
+      "id": "turismo",
+      "title": {
+        "fr": "Voiture de sport Turismo",
+        "en": "Turismo sports car"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture de sport.",
+        "en": "Spawns a sports car."
+      },
+      "category": "vehicules",
+      "phone": "227-555-0147",
+      "verified": true
+    },
+    {
+      "id": "buffalo",
+      "title": {
+        "fr": "FIB Buffalo",
+        "en": "FIB Buffalo"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture banalisée du FIB.",
+        "en": "Spawns an unmarked FIB car."
+      },
+      "category": "vehicules",
+      "phone": "227-555-0100",
+      "verified": true
+    },
+    {
+      "id": "cognoscenti",
+      "title": {
+        "fr": "Berline Cognoscenti",
+        "en": "Cognoscenti sedan"
+      },
+      "description": {
+        "fr": "Fait apparaître une berline de luxe.",
+        "en": "Spawns a luxury sedan."
+      },
+      "category": "vehicules",
+      "phone": "227-555-0142",
+      "verified": true
+    },
+    {
+      "id": "nrg",
+      "title": {
+        "fr": "Moto NRG-900",
+        "en": "NRG-900 motorcycle"
+      },
+      "description": {
+        "fr": "Fait apparaître une moto sportive.",
+        "en": "Spawns a sport motorcycle."
+      },
+      "category": "vehicules",
+      "phone": "625-555-0100",
+      "verified": true
+    },
+    {
+      "id": "sanchez",
+      "title": {
+        "fr": "Moto cross Sanchez",
+        "en": "Sanchez dirt bike"
+      },
+      "description": {
+        "fr": "Fait apparaître une moto tout-terrain.",
+        "en": "Spawns a dirt bike."
+      },
+      "category": "vehicules",
+      "phone": "625-555-0150",
+      "verified": true
+    }
+  ],
+  "tips": [],
+  "packs": [
+    {
+      "id": "equipement",
+      "title": {
+        "fr": "Équipement complet",
+        "en": "Full kit"
+      },
+      "description": {
+        "fr": "Santé, armure et munitions, puis un lot d'armes. Compose chaque numéro, puis appuie sur « Continuer ».",
+        "en": "Health, armor and ammo, then a weapons set. Dial each number, then press “Continue”."
+      },
+      "codes": [
+        "sante-munitions",
+        "armes-2"
+      ]
+    },
+    {
+      "id": "fuite",
+      "title": {
+        "fr": "Grande évasion",
+        "en": "Great escape"
+      },
+      "description": {
+        "fr": "Efface ta recherche et fuis en hélicoptère ou à moto.",
+        "en": "Clear your wanted level and escape by helicopter or motorcycle."
+      },
+      "codes": [
+        "recherche-moins",
+        "annihilator",
+        "nrg"
+      ]
+    }
+  ]
+}

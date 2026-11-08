@@ -1,0 +1,1212 @@
+{
+  "version": 2,
+  "updated": "2026-11-06",
+  "notice": {
+    "fr": "Sur console : entrer la séquence rapidement pendant le jeu (pas dans un menu). Sur PC : taper le mot directement pendant le jeu, sans ouvrir de console. Les codes désactivent les trophées/succès de la Definitive Edition, et certains ne peuvent pas être annulés : sauvegarde avant de les utiliser. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
+    "en": "On console: enter the sequence quickly during gameplay (not in a menu). On PC: type the word directly during gameplay, no console needed. Cheats disable trophies/achievements in the Definitive Edition, and some cannot be turned off: save before using them. Unofficial guide, not affiliated with Rockstar Games or Take-Two Interactive."
+  },
+  "categories": [
+    {
+      "id": "joueur",
+      "name": {
+        "fr": "Joueur",
+        "en": "Player"
+      }
+    },
+    {
+      "id": "armes",
+      "name": {
+        "fr": "Armes",
+        "en": "Weapons"
+      }
+    },
+    {
+      "id": "vehicules",
+      "name": {
+        "fr": "Véhicules",
+        "en": "Vehicles"
+      }
+    },
+    {
+      "id": "monde",
+      "name": {
+        "fr": "Monde & météo",
+        "en": "World & weather"
+      }
+    },
+    {
+      "id": "fun",
+      "name": {
+        "fr": "Fun",
+        "en": "Fun"
+      }
+    }
+  ],
+  "codes": [
+    {
+      "id": "sante",
+      "title": {
+        "fr": "Santé au maximum",
+        "en": "Full health"
+      },
+      "description": {
+        "fr": "Remplit la santé et répare le véhicule.",
+        "en": "Restores health and repairs your vehicle."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R1",
+        "R2",
+        "L1",
+        "ROND",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT"
+      ],
+      "text": "ASPIRINE",
+      "verified": true
+    },
+    {
+      "id": "armure",
+      "title": {
+        "fr": "Armure au maximum",
+        "en": "Full armor"
+      },
+      "description": {
+        "fr": "Remplit le gilet pare-balles.",
+        "en": "Fills your body armor."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R1",
+        "R2",
+        "L1",
+        "CROIX",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT"
+      ],
+      "text": "PRECIOUSPROTECTION",
+      "verified": true
+    },
+    {
+      "id": "armes-1",
+      "title": {
+        "fr": "Armes : lot 1",
+        "en": "Weapons set 1"
+      },
+      "description": {
+        "fr": "Donne un premier lot d'armes légères.",
+        "en": "Gives a first set of light weapons."
+      },
+      "category": "armes",
+      "buttons": [
+        "R1",
+        "R2",
+        "L1",
+        "R2",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT"
+      ],
+      "text": "THUGSTOOLS",
+      "verified": true
+    },
+    {
+      "id": "armes-2",
+      "title": {
+        "fr": "Armes : lot 2",
+        "en": "Weapons set 2"
+      },
+      "description": {
+        "fr": "Donne un lot d'armes professionnelles.",
+        "en": "Gives a set of professional weapons."
+      },
+      "category": "armes",
+      "buttons": [
+        "R1",
+        "R2",
+        "L1",
+        "R2",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "BAS",
+        "GAUCHE"
+      ],
+      "text": "PROFESSIONALTOOLS",
+      "verified": true
+    },
+    {
+      "id": "armes-3",
+      "title": {
+        "fr": "Armes : lot 3",
+        "en": "Weapons set 3"
+      },
+      "description": {
+        "fr": "Donne un lot d'armes lourdes.",
+        "en": "Gives a set of heavy weapons."
+      },
+      "category": "armes",
+      "buttons": [
+        "R1",
+        "R2",
+        "L1",
+        "R2",
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "BAS",
+        "BAS"
+      ],
+      "text": "NUTTERTOOLS",
+      "verified": true
+    },
+    {
+      "id": "recherche-plus",
+      "title": {
+        "fr": "Augmenter la recherche",
+        "en": "Raise wanted level"
+      },
+      "description": {
+        "fr": "Ajoute deux étoiles de recherche.",
+        "en": "Adds two wanted stars."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R1",
+        "R1",
+        "ROND",
+        "R2",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE"
+      ],
+      "text": "YOUWONTTAKEMEALIVE",
+      "verified": true
+    },
+    {
+      "id": "recherche-moins",
+      "title": {
+        "fr": "Supprimer la recherche",
+        "en": "Clear wanted level"
+      },
+      "description": {
+        "fr": "Retire toutes les étoiles de recherche.",
+        "en": "Removes all wanted stars."
+      },
+      "category": "joueur",
+      "buttons": [
+        "R1",
+        "R1",
+        "ROND",
+        "R2",
+        "HAUT",
+        "BAS",
+        "HAUT",
+        "BAS",
+        "HAUT",
+        "BAS"
+      ],
+      "text": "LEAVEMEALONE",
+      "verified": true
+    },
+    {
+      "id": "grosse-tete",
+      "title": {
+        "fr": "Grosses têtes",
+        "en": "Big head mode"
+      },
+      "description": {
+        "fr": "Les personnages ont une tête énorme.",
+        "en": "Characters get huge heads."
+      },
+      "category": "fun",
+      "buttons": [
+        "HAUT",
+        "HAUT",
+        "BAS",
+        "BAS",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE",
+        "DROITE",
+        "ROND",
+        "CROIX"
+      ],
+      "text": "EXPANDDOME",
+      "notes": {
+        "fr": "Uniquement dans la Definitive Edition.",
+        "en": "Definitive Edition only."
+      },
+      "verified": true
+    },
+    {
+      "id": "perso-lance",
+      "title": {
+        "fr": "Jouer Lance Vance",
+        "en": "Play as Lance Vance"
+      },
+      "description": {
+        "fr": "Change l'apparence du personnage.",
+        "en": "Changes your character's look."
+      },
+      "category": "fun",
+      "buttons": [
+        "ROND",
+        "L2",
+        "GAUCHE",
+        "CROIX",
+        "R1",
+        "L1",
+        "CROIX",
+        "L1"
+      ],
+      "text": "LOOKLIKELANCE",
+      "verified": true
+    },
+    {
+      "id": "perso-diaz",
+      "title": {
+        "fr": "Jouer Ricardo Diaz",
+        "en": "Play as Ricardo Diaz"
+      },
+      "description": {
+        "fr": "Change l'apparence du personnage.",
+        "en": "Changes your character's look."
+      },
+      "category": "fun",
+      "buttons": [
+        "L1",
+        "L2",
+        "R1",
+        "R2",
+        "BAS",
+        "L1",
+        "R2",
+        "L2"
+      ],
+      "text": "CHEATSHAVEBEENCRACKED",
+      "verified": true
+    },
+    {
+      "id": "perso-phil",
+      "title": {
+        "fr": "Jouer Phil Cassidy",
+        "en": "Play as Phil Cassidy"
+      },
+      "description": {
+        "fr": "Change l'apparence du personnage.",
+        "en": "Changes your character's look."
+      },
+      "category": "fun",
+      "buttons": [
+        "DROITE",
+        "R1",
+        "HAUT",
+        "R2",
+        "L1",
+        "DROITE",
+        "R1",
+        "L1",
+        "DROITE",
+        "ROND"
+      ],
+      "text": "ONEARMEDBANDIT",
+      "verified": true
+    },
+    {
+      "id": "perso-rosenberg",
+      "title": {
+        "fr": "Jouer Ken Rosenberg",
+        "en": "Play as Ken Rosenberg"
+      },
+      "description": {
+        "fr": "Change l'apparence du personnage.",
+        "en": "Changes your character's look."
+      },
+      "category": "fun",
+      "buttons": [
+        "DROITE",
+        "L1",
+        "HAUT",
+        "L2",
+        "L1",
+        "DROITE",
+        "R1",
+        "L1",
+        "CROIX",
+        "R1"
+      ],
+      "text": "MYSONISALAWYER",
+      "verified": true
+    },
+    {
+      "id": "rhino",
+      "title": {
+        "fr": "Tank Rhino",
+        "en": "Rhino tank"
+      },
+      "description": {
+        "fr": "Fait apparaître un tank.",
+        "en": "Spawns a tank."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "ROND",
+        "L1",
+        "ROND",
+        "ROND",
+        "ROND",
+        "L1",
+        "L2",
+        "R1",
+        "TRIANGLE",
+        "ROND",
+        "TRIANGLE"
+      ],
+      "text": "PANZER",
+      "verified": true
+    },
+    {
+      "id": "bloodring-a",
+      "title": {
+        "fr": "Bloodring Banger (A)",
+        "en": "Bloodring Banger (A)"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture de stock-car.",
+        "en": "Spawns a demolition derby car."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "HAUT",
+        "DROITE",
+        "DROITE",
+        "L1",
+        "DROITE",
+        "HAUT",
+        "CARRE",
+        "L2"
+      ],
+      "text": "TRAVELINSTYLE",
+      "verified": true
+    },
+    {
+      "id": "bloodring-b",
+      "title": {
+        "fr": "Bloodring Banger (B)",
+        "en": "Bloodring Banger (B)"
+      },
+      "description": {
+        "fr": "Fait apparaître une autre voiture de stock-car.",
+        "en": "Spawns another demolition derby car."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "BAS",
+        "R1",
+        "ROND",
+        "L2",
+        "L2",
+        "CROIX",
+        "R1",
+        "L1",
+        "GAUCHE",
+        "GAUCHE"
+      ],
+      "text": "GETTHEREQUICKLY",
+      "verified": true
+    },
+    {
+      "id": "hotring-a",
+      "title": {
+        "fr": "Hotring Racer (A)",
+        "en": "Hotring Racer (A)"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiture de course.",
+        "en": "Spawns a race car."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R1",
+        "ROND",
+        "R2",
+        "DROITE",
+        "L1",
+        "L2",
+        "CROIX",
+        "CROIX",
+        "CARRE",
+        "R1"
+      ],
+      "text": "GETTHEREVERYFASTINDEED",
+      "verified": true
+    },
+    {
+      "id": "hotring-b",
+      "title": {
+        "fr": "Hotring Racer (B)",
+        "en": "Hotring Racer (B)"
+      },
+      "description": {
+        "fr": "Fait apparaître une autre voiture de course.",
+        "en": "Spawns another race car."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R2",
+        "L1",
+        "ROND",
+        "DROITE",
+        "L1",
+        "R1",
+        "DROITE",
+        "HAUT",
+        "ROND",
+        "R2"
+      ],
+      "text": "GETTHEREAMAZINGLYFAST",
+      "verified": true
+    },
+    {
+      "id": "corbillard",
+      "title": {
+        "fr": "Corbillard de Romero",
+        "en": "Romero's hearse"
+      },
+      "description": {
+        "fr": "Fait apparaître un corbillard.",
+        "en": "Spawns a hearse."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "BAS",
+        "R2",
+        "BAS",
+        "R1",
+        "L2",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "GAUCHE",
+        "DROITE"
+      ],
+      "text": "THELASTRIDE",
+      "verified": true
+    },
+    {
+      "id": "limo",
+      "title": {
+        "fr": "Limousine Love Fist",
+        "en": "Love Fist limo"
+      },
+      "description": {
+        "fr": "Fait apparaître une limousine.",
+        "en": "Spawns a limousine."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R2",
+        "HAUT",
+        "L2",
+        "GAUCHE",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "ROND",
+        "DROITE"
+      ],
+      "text": "ROCKANDROLLCAR",
+      "verified": true
+    },
+    {
+      "id": "trashmaster",
+      "title": {
+        "fr": "Camion poubelle",
+        "en": "Trashmaster"
+      },
+      "description": {
+        "fr": "Fait apparaître un camion poubelle.",
+        "en": "Spawns a garbage truck."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "R1",
+        "ROND",
+        "R1",
+        "GAUCHE",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "ROND",
+        "DROITE"
+      ],
+      "text": "RUBBISHCAR",
+      "verified": true
+    },
+    {
+      "id": "sabre",
+      "title": {
+        "fr": "Sabre Turbo",
+        "en": "Sabre Turbo"
+      },
+      "description": {
+        "fr": "Fait apparaître une muscle car.",
+        "en": "Spawns a muscle car."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "DROITE",
+        "L2",
+        "BAS",
+        "L2",
+        "L2",
+        "CROIX",
+        "R1",
+        "L1",
+        "ROND",
+        "GAUCHE"
+      ],
+      "text": "GETTHEREFAST",
+      "verified": true
+    },
+    {
+      "id": "caddy",
+      "title": {
+        "fr": "Voiturette de golf",
+        "en": "Golf caddy"
+      },
+      "description": {
+        "fr": "Fait apparaître une voiturette de golf.",
+        "en": "Spawns a golf cart."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "ROND",
+        "L1",
+        "HAUT",
+        "R1",
+        "L2",
+        "CROIX",
+        "R1",
+        "L1",
+        "ROND",
+        "CROIX"
+      ],
+      "text": "BETTERTHANWALKING",
+      "verified": true
+    },
+    {
+      "id": "hunter",
+      "title": {
+        "fr": "Hélicoptère Hunter (PC)",
+        "en": "Hunter helicopter (PC)"
+      },
+      "description": {
+        "fr": "Fait apparaître un hélicoptère d'attaque.",
+        "en": "Spawns an attack helicopter."
+      },
+      "category": "vehicules",
+      "text": "AMERICAHELICOPTER",
+      "platforms": [
+        "pc"
+      ],
+      "verified": true
+    },
+    {
+      "id": "skimmer",
+      "title": {
+        "fr": "Hydravion Skimmer (PC)",
+        "en": "Skimmer seaplane (PC)"
+      },
+      "description": {
+        "fr": "Fait apparaître un hydravion.",
+        "en": "Spawns a seaplane."
+      },
+      "category": "vehicules",
+      "text": "FLYINGWAYS",
+      "platforms": [
+        "pc"
+      ],
+      "verified": true
+    },
+    {
+      "id": "detruire",
+      "title": {
+        "fr": "Détruire tous les véhicules",
+        "en": "Destroy all vehicles"
+      },
+      "description": {
+        "fr": "Fait exploser les véhicules autour de toi.",
+        "en": "Blows up the vehicles around you."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R2",
+        "L2",
+        "R1",
+        "L1",
+        "L2",
+        "R2",
+        "CARRE",
+        "TRIANGLE",
+        "ROND",
+        "TRIANGLE",
+        "L2",
+        "L1"
+      ],
+      "text": "BIGBANG",
+      "verified": true
+    },
+    {
+      "id": "tenue-route",
+      "title": {
+        "fr": "Meilleure tenue de route",
+        "en": "Improved car handling"
+      },
+      "description": {
+        "fr": "Les voitures adhèrent mieux à la route.",
+        "en": "Cars grip the road better."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "TRIANGLE",
+        "R1",
+        "R1",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "R2",
+        "L1"
+      ],
+      "text": "GRIPISEVERYTHING",
+      "verified": true
+    },
+    {
+      "id": "rouler-eau",
+      "title": {
+        "fr": "Rouler sur l'eau",
+        "en": "Drive on water"
+      },
+      "description": {
+        "fr": "Les voitures peuvent rouler sur l'eau.",
+        "en": "Cars can drive on water."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "DROITE",
+        "R2",
+        "ROND",
+        "R1",
+        "L2",
+        "CARRE",
+        "R1",
+        "R2"
+      ],
+      "text": "SEAWAYS",
+      "verified": true
+    },
+    {
+      "id": "voitures-volantes",
+      "title": {
+        "fr": "Voitures volantes",
+        "en": "Flying cars"
+      },
+      "description": {
+        "fr": "Les voitures peuvent s'envoler.",
+        "en": "Cars can take off and fly."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "DROITE",
+        "R2",
+        "ROND",
+        "R1",
+        "L2",
+        "BAS",
+        "L1",
+        "R1"
+      ],
+      "text": "COMEFLYWITHME",
+      "verified": true
+    },
+    {
+      "id": "bateaux-volants",
+      "title": {
+        "fr": "Bateaux volants",
+        "en": "Flying boats"
+      },
+      "description": {
+        "fr": "Les bateaux peuvent s'envoler.",
+        "en": "Boats can take off and fly."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "R2",
+        "ROND",
+        "HAUT",
+        "L1",
+        "DROITE",
+        "R1",
+        "DROITE",
+        "HAUT",
+        "CARRE",
+        "TRIANGLE"
+      ],
+      "text": "AIRSHIP",
+      "verified": true
+    },
+    {
+      "id": "trafic-noir",
+      "title": {
+        "fr": "Circulation : voitures noires",
+        "en": "Traffic: black cars"
+      },
+      "description": {
+        "fr": "Toutes les voitures en circulation sont noires.",
+        "en": "All traffic cars are black."
+      },
+      "category": "monde",
+      "buttons": [
+        "ROND",
+        "L2",
+        "HAUT",
+        "R1",
+        "GAUCHE",
+        "CROIX",
+        "R1",
+        "L1",
+        "GAUCHE",
+        "ROND"
+      ],
+      "text": "IWANTITPAINTEDBLACK",
+      "verified": true
+    },
+    {
+      "id": "trafic-rose",
+      "title": {
+        "fr": "Circulation : voitures roses",
+        "en": "Traffic: pink cars"
+      },
+      "description": {
+        "fr": "Toutes les voitures en circulation sont roses.",
+        "en": "All traffic cars are pink."
+      },
+      "category": "monde",
+      "buttons": [
+        "ROND",
+        "L1",
+        "BAS",
+        "L2",
+        "GAUCHE",
+        "CROIX",
+        "R1",
+        "L1",
+        "DROITE",
+        "ROND"
+      ],
+      "text": "AHAIRDRESSERSCAR",
+      "verified": true
+    },
+    {
+      "id": "conducteurs-agressifs",
+      "title": {
+        "fr": "Conducteurs agressifs",
+        "en": "Aggressive drivers"
+      },
+      "description": {
+        "fr": "Les automobilistes conduisent de façon brutale.",
+        "en": "Drivers become reckless."
+      },
+      "category": "monde",
+      "buttons": [
+        "R2",
+        "ROND",
+        "R1",
+        "L2",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "R2",
+        "L2"
+      ],
+      "text": "MIAMITRAFFIC",
+      "verified": true
+    },
+    {
+      "id": "feux-verts",
+      "title": {
+        "fr": "Feux toujours verts",
+        "en": "Always green lights"
+      },
+      "description": {
+        "fr": "Tous les feux de circulation restent au vert.",
+        "en": "All traffic lights stay green."
+      },
+      "category": "monde",
+      "buttons": [
+        "DROITE",
+        "R1",
+        "HAUT",
+        "L2",
+        "L2",
+        "GAUCHE",
+        "R1",
+        "L1",
+        "R1",
+        "R1"
+      ],
+      "text": "GREENLIGHT",
+      "verified": true
+    },
+    {
+      "id": "meteo-tres-soleil",
+      "title": {
+        "fr": "Météo : très ensoleillé",
+        "en": "Weather: very sunny"
+      },
+      "description": {
+        "fr": "Passe à un grand soleil.",
+        "en": "Switches to very sunny weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "R2",
+        "CROIX",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "BAS"
+      ],
+      "text": "ALOVELYDAY",
+      "verified": true
+    },
+    {
+      "id": "meteo-soleil",
+      "title": {
+        "fr": "Météo : ensoleillé",
+        "en": "Weather: sunny"
+      },
+      "description": {
+        "fr": "Passe à un temps ensoleillé.",
+        "en": "Switches to sunny weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "R2",
+        "CROIX",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "TRIANGLE"
+      ],
+      "text": "APLEASANTDAY",
+      "verified": true
+    },
+    {
+      "id": "meteo-nuages",
+      "title": {
+        "fr": "Météo : nuageux",
+        "en": "Weather: cloudy"
+      },
+      "description": {
+        "fr": "Passe à un temps nuageux.",
+        "en": "Switches to cloudy weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "R2",
+        "CROIX",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "CARRE"
+      ],
+      "text": "ABITDRIEG",
+      "verified": true
+    },
+    {
+      "id": "meteo-brouillard",
+      "title": {
+        "fr": "Météo : brouillard",
+        "en": "Weather: foggy"
+      },
+      "description": {
+        "fr": "Passe à un temps brumeux.",
+        "en": "Switches to foggy weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "R2",
+        "CROIX",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "CROIX"
+      ],
+      "text": "CANTSEEATHING",
+      "verified": true
+    },
+    {
+      "id": "meteo-pluie",
+      "title": {
+        "fr": "Météo : pluie",
+        "en": "Weather: rain"
+      },
+      "description": {
+        "fr": "Passe à un temps pluvieux.",
+        "en": "Switches to rainy weather."
+      },
+      "category": "monde",
+      "buttons": [
+        "R2",
+        "CROIX",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "ROND"
+      ],
+      "text": "CATSANDDOGS",
+      "verified": true
+    },
+    {
+      "id": "horloge",
+      "title": {
+        "fr": "Accélérer l'horloge",
+        "en": "Speed up the clock"
+      },
+      "description": {
+        "fr": "Le temps passe beaucoup plus vite dans le jeu.",
+        "en": "In-game time passes much faster."
+      },
+      "category": "monde",
+      "buttons": [
+        "ROND",
+        "ROND",
+        "L1",
+        "CARRE",
+        "L1",
+        "CARRE",
+        "CARRE",
+        "CARRE",
+        "L1",
+        "TRIANGLE",
+        "ROND",
+        "TRIANGLE"
+      ],
+      "text": "LIFEISPASSINGMEBY",
+      "verified": true
+    },
+    {
+      "id": "ralenti",
+      "title": {
+        "fr": "Ralenti",
+        "en": "Slow motion"
+      },
+      "description": {
+        "fr": "Ralentit tout le jeu.",
+        "en": "Slows down the whole game."
+      },
+      "category": "fun",
+      "buttons": [
+        "TRIANGLE",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "CARRE",
+        "R2",
+        "R1"
+      ],
+      "text": "BOOOOOORING",
+      "verified": true
+    },
+    {
+      "id": "accelere",
+      "title": {
+        "fr": "Jeu accéléré",
+        "en": "Fast motion"
+      },
+      "description": {
+        "fr": "Accélère tout le jeu.",
+        "en": "Speeds up the whole game."
+      },
+      "category": "fun",
+      "buttons": [
+        "TRIANGLE",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "L2",
+        "L1",
+        "CARRE"
+      ],
+      "text": "ONSPEED",
+      "verified": true
+    },
+    {
+      "id": "emeute",
+      "title": {
+        "fr": "Émeute",
+        "en": "Pedestrians riot"
+      },
+      "description": {
+        "fr": "Les passants se battent entre eux. Ne peut pas être annulé.",
+        "en": "Pedestrians fight each other. Cannot be turned off."
+      },
+      "category": "fun",
+      "buttons": [
+        "BAS",
+        "GAUCHE",
+        "HAUT",
+        "GAUCHE",
+        "CROIX",
+        "R2",
+        "R1",
+        "L2",
+        "L1"
+      ],
+      "text": "FIGHTFIGHTFIGHT",
+      "verified": true
+    },
+    {
+      "id": "pietons-attaquent",
+      "title": {
+        "fr": "Les passants t'attaquent",
+        "en": "Pedestrians attack you"
+      },
+      "description": {
+        "fr": "Les passants deviennent hostiles. Ne peut pas être annulé.",
+        "en": "Pedestrians turn hostile. Cannot be turned off."
+      },
+      "category": "fun",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "HAUT",
+        "HAUT",
+        "CROIX",
+        "R2",
+        "R1",
+        "L2",
+        "L2"
+      ],
+      "text": "NOBODYLIKESME",
+      "verified": true
+    },
+    {
+      "id": "pietons-armes",
+      "title": {
+        "fr": "Passants armés",
+        "en": "Armed pedestrians"
+      },
+      "description": {
+        "fr": "Les passants portent des armes. Ne peut pas être annulé.",
+        "en": "Pedestrians carry weapons. Cannot be turned off."
+      },
+      "category": "fun",
+      "buttons": [
+        "R2",
+        "R1",
+        "CROIX",
+        "TRIANGLE",
+        "CROIX",
+        "TRIANGLE",
+        "HAUT",
+        "BAS"
+      ],
+      "text": "OURGODGIVENRIGHTTOBEARARMS",
+      "verified": true
+    }
+  ],
+  "tips": [],
+  "packs": [
+    {
+      "id": "equipement",
+      "title": {
+        "fr": "Équipement complet",
+        "en": "Full kit"
+      },
+      "description": {
+        "fr": "Santé, armure, armes lourdes et un tank.",
+        "en": "Health, armor, heavy weapons and a tank."
+      },
+      "codes": [
+        "sante",
+        "armure",
+        "armes-3",
+        "rhino"
+      ]
+    },
+    {
+      "id": "ville-folle",
+      "title": {
+        "fr": "Ville folle",
+        "en": "Crazy city"
+      },
+      "description": {
+        "fr": "Voitures roses et volantes, conducteurs agressifs et grand soleil.",
+        "en": "Pink flying cars, reckless drivers and bright sunshine."
+      },
+      "codes": [
+        "trafic-rose",
+        "voitures-volantes",
+        "conducteurs-agressifs",
+        "meteo-tres-soleil"
+      ]
+    },
+    {
+      "id": "cascadeur",
+      "title": {
+        "fr": "Cascadeur",
+        "en": "Stuntman"
+      },
+      "description": {
+        "fr": "Meilleure tenue de route, conduite sur l'eau et bateaux volants.",
+        "en": "Better handling, driving on water and flying boats."
+      },
+      "codes": [
+        "tenue-route",
+        "rouler-eau",
+        "bateaux-volants"
+      ]
+    }
+  ]
+}

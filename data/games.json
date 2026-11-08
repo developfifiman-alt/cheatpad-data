@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "games": [
     {
       "id": "gta6",
@@ -29,6 +29,69 @@
       ],
       "file": "games/gta5.json",
       "accent": "#5EE0A8"
+    },
+    {
+      "id": "gtasa",
+      "name": "GTA San Andreas",
+      "subtitle": {
+        "fr": "Tous les codes de triche",
+        "en": "All cheat codes"
+      },
+      "platforms": [
+        "playstation",
+        "xbox",
+        "switch",
+        "pc"
+      ],
+      "file": "games/gtasa.json",
+      "accent": "#F59E0B"
+    },
+    {
+      "id": "gtavc",
+      "name": "GTA Vice City",
+      "subtitle": {
+        "fr": "Tous les codes de triche",
+        "en": "All cheat codes"
+      },
+      "platforms": [
+        "playstation",
+        "xbox",
+        "switch",
+        "pc"
+      ],
+      "file": "games/gtavc.json",
+      "accent": "#EC4899"
+    },
+    {
+      "id": "gta4",
+      "name": "GTA 4",
+      "subtitle": {
+        "fr": "Tous les numéros de triche",
+        "en": "All cheat phone numbers"
+      },
+      "platforms": [
+        "playstation",
+        "xbox",
+        "pc"
+      ],
+      "file": "games/gta4.json",
+      "accent": "#94A3B8"
+    },
+    {
+      "id": "gta3",
+      "name": "GTA 3",
+      "subtitle": {
+        "fr": "Tous les codes de triche",
+        "en": "All cheat codes"
+      },
+      "platforms": [
+        "playstation",
+        "xbox",
+        "switch",
+        "pc"
+      ],
+      "file": "games/gta3.json",
+      "accent": "#60A5FA"
     },
     {
       "id": "rdr2",

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-11-04",
   "notice": {
     "fr": "Pour saisir un code : Pause → Options → Triches (bouton Triangle / Y), entrer la phrase exactement, ponctuation comprise (majuscules sans importance), puis activer le code. Les codes actifs désactivent la sauvegarde automatique et les trophées/succès. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -339,5 +339,40 @@
       "verified": true
     }
   ],
-  "tips": []
+  "tips": [],
+  "packs": [
+    {
+      "id": "hors-la-loi",
+      "title": {
+        "fr": "Hors-la-loi intouchable",
+        "en": "Untouchable outlaw"
+      },
+      "description": {
+        "fr": "Invincibilité, Sang-froid infini, munitions infinies et un arsenal complet.",
+        "en": "Invincibility, infinite Dead Eye, infinite ammo and a full arsenal."
+      },
+      "codes": [
+        "invincible",
+        "deadeye",
+        "munitions",
+        "armes-base",
+        "armes-plus"
+      ]
+    },
+    {
+      "id": "cavalier",
+      "title": {
+        "fr": "Grand cavalier",
+        "en": "Master rider"
+      },
+      "description": {
+        "fr": "Un cheval qui ne se fatigue jamais.",
+        "en": "A horse that never gets tired."
+      },
+      "codes": [
+        "cheval",
+        "endurance-cheval"
+      ]
+    }
+  ]
 }

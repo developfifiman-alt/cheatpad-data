@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "updated": "2026-11-04",
   "notice": {
     "fr": "Codes du mode histoire uniquement (pas dans GTA Online). Sur console : entrer la séquence rapidement en jeu. Sur PC : appuyer sur la touche ² (ou ~) pour ouvrir la console, puis taper le code. Sur toutes les plateformes, on peut aussi composer le numéro sur le téléphone du personnage. Activer un code désactive les trophées/succès jusqu'au rechargement de la partie. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -1109,6 +1109,928 @@
         "fr": "Changer de personnage déplace souvent la caméra vers une scène de vie amusante, et permet de « téléporter » ton action ailleurs sur la carte.\n\n• Pour te rapprocher d'une mission, passe au personnage qui est déjà à côté.\n• Les icônes de mission de chaque personnage n'apparaissent que quand tu le contrôles : change régulièrement pour ne rien rater.",
         "en": "Switching characters often drops you into a fun slice-of-life scene and lets you \"teleport\" your action elsewhere on the map.\n\n• To get closer to a mission, switch to the character who is already nearby.\n• Each character's mission icons only show up while you control them: switch regularly so you don't miss anything."
       }
+    }
+  ],
+  "packs": [
+    {
+      "id": "chaos",
+      "title": {
+        "fr": "Mode chaos",
+        "en": "Chaos mode"
+      },
+      "description": {
+        "fr": "Invincible, armé jusqu'aux dents, avec des balles explosives… et la police aux trousses.",
+        "en": "Invincible, armed to the teeth, with explosive rounds… and the police on your tail."
+      },
+      "codes": [
+        "invincibilite",
+        "armes",
+        "munitions-explosives",
+        "augmenter-recherche"
+      ]
+    },
+    {
+      "id": "super-heros",
+      "title": {
+        "fr": "Super-héros",
+        "en": "Superhero"
+      },
+      "description": {
+        "fr": "Saute, cours et nage comme un surhomme, avec des coups de poing explosifs.",
+        "en": "Jump, run and swim like a superhuman, with explosive punches."
+      },
+      "codes": [
+        "invincibilite",
+        "super-saut",
+        "course-rapide",
+        "nage-rapide",
+        "poings-explosifs"
+      ]
+    },
+    {
+      "id": "pilote",
+      "title": {
+        "fr": "Pilote",
+        "en": "Pilot"
+      },
+      "description": {
+        "fr": "Un hélicoptère, un parachute, puis le grand saut depuis le ciel.",
+        "en": "A helicopter, a parachute, then a big jump from the sky."
+      },
+      "codes": [
+        "v-buzzard",
+        "parachute",
+        "chute-libre"
+      ]
+    },
+    {
+      "id": "ambiance",
+      "title": {
+        "fr": "Monde déjanté",
+        "en": "Wacky world"
+      },
+      "description": {
+        "fr": "Gravité lunaire, routes glissantes, météo qui change et ralenti.",
+        "en": "Moon gravity, slippery roads, changing weather and slow motion."
+      },
+      "codes": [
+        "gravite-lunaire",
+        "voitures-glissantes",
+        "meteo",
+        "ralenti"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "pieces-vaisseau",
+      "title": {
+        "fr": "Pièces de vaisseau",
+        "en": "Spaceship parts"
+      },
+      "character": {
+        "fr": "Franklin uniquement",
+        "en": "Franklin only"
+      },
+      "unlock": {
+        "fr": "Visibles après la première rencontre de Franklin avec Omega.",
+        "en": "Visible after Franklin first meets Omega."
+      },
+      "reward": {
+        "fr": "Un véhicule spécial et la fin de l'histoire d'Omega.",
+        "en": "A special vehicle and the end of Omega's story."
+      },
+      "note": {
+        "fr": "Plusieurs pièces sont sous l'eau : prévois une tenue de plongée ou un sous-marin. Liste classée du sud au nord de la carte.",
+        "en": "Several parts are underwater: bring scuba gear or a submarine. Listed from the south to the north of the map."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Derrière le hangar le plus au sud de l'aéroport.",
+            "en": "Behind the southernmost airport hangar."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Sous l'eau, au coin sud-est des quais.",
+            "en": "Underwater, at the southeast corner of the docks."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "Sur un îlot rocheux en mer, à l'est du port de Terminal.",
+            "en": "On a rocky islet out at sea, east of the Terminal docks."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Dans un gros tuyau, entre les réservoirs de gaz.",
+            "en": "Inside a large pipe between the gas tanks."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "El Burro Heights",
+          "hint": {
+            "fr": "Dans un tuyau d'évacuation au bord de l'eau.",
+            "en": "In a storm drain pipe on the shoreline."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Rancho",
+          "hint": {
+            "fr": "Au pied d'une grande structure métallique, Dutch London Street.",
+            "en": "At the foot of a tall metal structure on Dutch London Street."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "El Burro Heights",
+          "hint": {
+            "fr": "Près d'un conteneur vert, sur le champ pétrolifère.",
+            "en": "By a green shipping container in the oil field."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Davis",
+          "hint": {
+            "fr": "Sur l'héliport du toit de l'hôpital.",
+            "en": "On the hospital's rooftop helipad."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Strawberry",
+          "hint": {
+            "fr": "Dans le campement de sans-abri sous la voie rapide.",
+            "en": "In the homeless camp under the freeway."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Vespucci Canals",
+          "hint": {
+            "fr": "En haut du panneau publicitaire, au-dessus du magasin d'alcool.",
+            "en": "On top of the billboard above the liquor store."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Murrieta Heights",
+          "hint": {
+            "fr": "Sur les passerelles du barrage, près d'El Rancho Boulevard.",
+            "en": "On the dam catwalks near El Rancho Boulevard."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "Sur la petite tour au milieu du lac Vinewood.",
+            "en": "On the small tower in the middle of Lake Vinewood."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Tongva Hills",
+          "hint": {
+            "fr": "Dans une petite grotte, sur une colline boisée.",
+            "en": "In a small cave on a wooded hillside."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Textile City",
+          "hint": {
+            "fr": "Par terre dans une ruelle, près du café Bean Machine.",
+            "en": "On the ground in an alley near the Bean Machine café."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Sur le toit du Penris Building.",
+            "en": "On the roof of the Penris Building."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Dans la station de métro en travaux sous le Penris Building.",
+            "en": "In the unfinished subway station below the Penris Building."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Richards Majestic",
+          "hint": {
+            "fr": "Sur le balcon d'une maison de décor, dans les studios de cinéma.",
+            "en": "On the balcony of a movie-set house at the film studio."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Burton",
+          "hint": {
+            "fr": "Dans les massifs du niveau supérieur de Rockford Plaza.",
+            "en": "In the bushes on the upper level of Rockford Plaza."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Burton",
+          "hint": {
+            "fr": "Dans une piscine vide sur un toit, près de Los Santos Customs.",
+            "en": "In an empty rooftop pool near Los Santos Customs."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Sur l'îlot au milieu de l'étang du golf.",
+            "en": "On the island in the golf course pond."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Land Act Dam",
+          "hint": {
+            "fr": "Sous l'eau, sous le ponton en bois du réservoir.",
+            "en": "Underwater, below the reservoir's wooden jetty."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "Au bout des tuyaux d'évacuation, au nord du réservoir.",
+            "en": "At the end of the drainage pipes, north of the reservoir."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "Sous l'eau, au pied du barrage du lac Vinewood.",
+            "en": "Underwater, at the foot of the Lake Vinewood dam."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "Sous une arche rocheuse naturelle, sur la côte est.",
+            "en": "Under a natural rock arch on the east coast."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Richman Glen",
+          "hint": {
+            "fr": "Dans le parc du centre de désintoxication.",
+            "en": "In the grounds of the rehab center."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Galileo Observatory",
+          "hint": {
+            "fr": "Sur la terrasse du toit de l'observatoire.",
+            "en": "On the observatory's roof terrace."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Banham Canyon",
+          "hint": {
+            "fr": "Dans le jardin d'une maison à flanc de colline.",
+            "en": "In the backyard of a hillside house."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Ron Alternates Wind Farm",
+          "hint": {
+            "fr": "Sous l'eau, dans une grotte marine de la côte est.",
+            "en": "Underwater, in a sea cave on the east coast."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Au bord d'une falaise, dans un virage de la route en lacets.",
+            "en": "On a cliff edge at a hairpin bend of the winding road."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Tongva Hills",
+          "hint": {
+            "fr": "Entre les rangées de vignes du domaine viticole.",
+            "en": "Between the vine rows of the vineyard."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Tongva Valley",
+          "hint": {
+            "fr": "Sous l'eau, dans le bassin au pied de la cascade.",
+            "en": "Underwater, in the pool at the foot of the waterfall."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Derrière une maison, près du circuit Redwood Lights.",
+            "en": "Behind a house near the Redwood Lights Track."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Sur le porche d'une maison abandonnée.",
+            "en": "On the porch of an abandoned house."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Au nord de la route 68, près de l'aérodrome de Sandy Shores.",
+            "en": "North of Route 68, near the Sandy Shores Airfield."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Au pied de l'antenne la plus à l'ouest de la station satellite.",
+            "en": "By the westernmost dish of the satellite station."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Sous un petit pont de chemin de terre.",
+            "en": "Under a small dirt-road bridge."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Sur la berge, là où la rivière rejoint l'Alamo Sea.",
+            "en": "On the riverbank where the river meets the Alamo Sea."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Sandy Shores",
+          "hint": {
+            "fr": "Au sommet du plus haut rocher, au sud de la ville.",
+            "en": "On top of the tallest rock, south of town."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Mount Josiah",
+          "hint": {
+            "fr": "Sur les pentes isolées de la montagne.",
+            "en": "On the remote mountain slopes."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Sandy Shores",
+          "hint": {
+            "fr": "Au sommet d'une colline, à l'est de la ville.",
+            "en": "On a hilltop east of town."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Alamo Sea",
+          "hint": {
+            "fr": "Sous l'eau, dans une baie du lac.",
+            "en": "Underwater, in a bay of the lake."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Cassidy Creek",
+          "hint": {
+            "fr": "Sur l'île du ruisseau, sous le pont ferroviaire.",
+            "en": "On the creek island under the railway bridge."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "San Chianski Mountain Range",
+          "hint": {
+            "fr": "Dans un hangar à bateaux, au bout de la route côtière est.",
+            "en": "In a boat shed at the end of the east coast road."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Raton Canyon",
+          "hint": {
+            "fr": "Sur les poutres sous le pont de la Great Ocean Highway.",
+            "en": "On the beams under the Great Ocean Highway bridge."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Grapeseed",
+          "hint": {
+            "fr": "Entre les enclos à vaches de la ferme.",
+            "en": "Between the cow pens on the farm."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Paleto Cove",
+          "hint": {
+            "fr": "Sur la pointe de terre qui avance dans la crique.",
+            "en": "On the headland jutting into the cove."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "Dans une remise, sur le chemin de ferme près de Braddock Pass.",
+            "en": "In a shed on the farm road near Braddock Pass."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Paleto Forest",
+          "hint": {
+            "fr": "Dans le lit d'un ruisseau, à l'est de la route.",
+            "en": "In a stream bed east of the highway."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Au 3e étage de la tour de la caserne de pompiers.",
+            "en": "On the 3rd floor of the fire station tower."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "Dans une grange délabrée, à l'est de Paleto Bay.",
+            "en": "In a run-down barn east of Paleto Bay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fragments-lettre",
+      "title": {
+        "fr": "Fragments de lettre",
+        "en": "Letter scraps"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Disponibles dès le début de l'histoire.",
+        "en": "Available from the start of the story."
+      },
+      "reward": {
+        "fr": "Révèle l'identité d'un meurtrier.",
+        "en": "Reveals the identity of a murderer."
+      },
+      "note": {
+        "fr": "Liste classée du sud au nord de la carte.",
+        "en": "Listed from the south to the north of the map."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "En haut d'une pile de conteneurs, Buccaneer Way.",
+            "en": "On top of a container stack on Buccaneer Way."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Par terre, à l'entrée du métro du terminal 4.",
+            "en": "On the ground at the Terminal 4 subway entrance."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Devant le remorqueur en cale sèche.",
+            "en": "In front of the dry-docked tugboat."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Sur le toit du bar-restaurant Sightings.",
+            "en": "On the roof of the Sightings bar-restaurant."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Dans le tunnel ferroviaire sous Popular Street.",
+            "en": "In the railway tunnel under Popular Street."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "El Burro Heights",
+          "hint": {
+            "fr": "Dans un bus accidenté, à la casse du champ pétrolifère.",
+            "en": "Inside a wrecked bus at the oil field scrapyard."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Davis",
+          "hint": {
+            "fr": "Dans le jardin d'une maison de Grove Street.",
+            "en": "In a house backyard on Grove Street."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Davis",
+          "hint": {
+            "fr": "Dans une benne du parking du centre commercial.",
+            "en": "In a dumpster in the mall parking lot."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Vespucci Beach",
+          "hint": {
+            "fr": "Au fond du bowl du skatepark.",
+            "en": "At the bottom of the skate park bowl."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Sur une petite île en mer, au sud-est du QG du NOOSE.",
+            "en": "On a small island out at sea, southeast of NOOSE HQ."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Dans le tunnel des canaux, sous Palomino Avenue.",
+            "en": "In the canal tunnel under Palomino Avenue."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Del Perro Pier",
+          "hint": {
+            "fr": "Sur le balcon du restaurant de fruits de mer de la jetée.",
+            "en": "On the balcony of the seafood restaurant on the pier."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Sur le tablier du pont de Vespucci Boulevard.",
+            "en": "On the deck of the Vespucci Boulevard bridge."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "En haut d'une grue jaune, sur le chantier près de la Maze Bank.",
+            "en": "At the top of a yellow crane on the building site near Maze Bank."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Richards Majestic",
+          "hint": {
+            "fr": "Dans un escalier extérieur des studios de cinéma.",
+            "en": "On an outdoor staircase at the film studio."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Alta",
+          "hint": {
+            "fr": "Au fond de la fosse d'un chantier, Power Street.",
+            "en": "At the bottom of a construction pit on Power Street."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "East Vinewood",
+          "hint": {
+            "fr": "Sur la plateforme du canal de crue de la rivière.",
+            "en": "On the platform of the river's flood channel."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Sur l'îlot de l'étang du cimetière.",
+            "en": "On the island in the cemetery pond."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Hawick",
+          "hint": {
+            "fr": "Sur la rampe de skate installée sur un toit.",
+            "en": "On the half-pipe on a rooftop skate park."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Au bar de la piscine du club de plage.",
+            "en": "At the pool bar of the beach club."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Burton",
+          "hint": {
+            "fr": "Près du barbecue, dans la cour d'une résidence.",
+            "en": "By the barbecue in an apartment courtyard."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "East Vinewood",
+          "hint": {
+            "fr": "Dans les tribunes de l'hippodrome.",
+            "en": "In the racetrack grandstand."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Au centre du labyrinthe de haies du Kortz Center.",
+            "en": "In the middle of the Kortz Center hedge maze."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Lake Vinewood Estates",
+          "hint": {
+            "fr": "Dans une salle de jeux extérieure d'une grande villa.",
+            "en": "In the outdoor games room of a large mansion."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "En haut de la lettre « I » du panneau Vinewood.",
+            "en": "On top of the letter “I” of the Vinewood sign."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Tongva Valley",
+          "hint": {
+            "fr": "Près de la pancarte d'un stand de fruits au bord de la route.",
+            "en": "By the sign of a roadside fruit stand."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "Près d'un stand de jus, sur le sentier de l'observatoire.",
+            "en": "Near a juice stand on the observatory trail."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Palmer-Taylor Power Station",
+          "hint": {
+            "fr": "Sur un îlot rocheux à l'est de la centrale.",
+            "en": "On a rocky island east of the power station."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Great Chaparral",
+          "hint": {
+            "fr": "À l'entrée d'une mine abandonnée.",
+            "en": "At the entrance of an abandoned mine."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "San Chianski Mountain Range",
+          "hint": {
+            "fr": "Dans une crique au niveau de la mer, à l'est du parc éolien.",
+            "en": "In a sea-level cove east of the wind farm."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Great Chaparral",
+          "hint": {
+            "fr": "Derrière un panneau publicitaire, près d'une ferme abandonnée.",
+            "en": "Behind a billboard near an abandoned farm."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Redwood Lights Track",
+          "hint": {
+            "fr": "Au milieu d'une grande cuve ronde, sur le chantier.",
+            "en": "In the middle of a large round tank on the work site."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Lago Zancudo",
+          "hint": {
+            "fr": "Au bord de l'eau, dans le marais près de la base militaire.",
+            "en": "At the water's edge in the marsh near the military base."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Sous le pont de la route 68.",
+            "en": "Under the Route 68 bridge."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Great Chaparral",
+          "hint": {
+            "fr": "Dans le cimetière de l'église.",
+            "en": "In the church graveyard."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Harmony",
+          "hint": {
+            "fr": "Sur le toit du plus haut bâtiment de la cimenterie.",
+            "en": "On the roof of the cement works' tallest building."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Sandy Shores",
+          "hint": {
+            "fr": "Sur un gros rocher au sud-ouest de l'aérodrome.",
+            "en": "On a large rock southwest of the airfield."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Sandy Shores",
+          "hint": {
+            "fr": "Dans la piscine vide d'un motel abandonné.",
+            "en": "In the empty pool of an abandoned motel."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Raton Canyon",
+          "hint": {
+            "fr": "En haut d'une falaise qui domine Cassidy Creek.",
+            "en": "On a clifftop overlooking Cassidy Creek."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Alamo Sea",
+          "hint": {
+            "fr": "Sur la rive nord-ouest du lac.",
+            "en": "On the lake's northwest shore."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Galilee",
+          "hint": {
+            "fr": "Sur le côté est du magasin de bateaux.",
+            "en": "On the east side of the boat shop."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Chiliad Mountain State Wilderness",
+          "hint": {
+            "fr": "Au pied de l'antenne, au-dessus du camp de la secte.",
+            "en": "By the antenna above the cult camp."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Grapeseed",
+          "hint": {
+            "fr": "Dans un tunnel de culture blanc, à la ferme.",
+            "en": "Inside a white crop tunnel at the farm."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Côté mer du phare, au niveau de l'eau.",
+            "en": "On the sea side of the lighthouse, at water level."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Paleto Forest",
+          "hint": {
+            "fr": "Entre les arbres, au nord de la scierie.",
+            "en": "Among the trees, north of the sawmill."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "Sur la plateforme du téléphérique, au sommet.",
+            "en": "On the cable car platform at the summit."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Sur la terrasse surélevée d'une maison de plage.",
+            "en": "On the raised deck of a beach house."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "À l'entrée d'un campement de fortune au pied de la montagne.",
+            "en": "At the entrance of a makeshift camp at the foot of the mountain."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Procopio Beach",
+          "hint": {
+            "fr": "Devant les toilettes publiques de l'aire de repos.",
+            "en": "In front of the public restroom at the rest stop."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Dans une maison délabrée, au nord de la ville.",
+            "en": "In a dilapidated house in the north of town."
+          }
+        }
+      ]
     }
   ]
 }

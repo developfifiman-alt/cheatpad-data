@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-11-04",
   "notice": {
     "fr": "Mode histoire uniquement. Pour saisir un code : Pause → Réglages → Triches (bouton Triangle / Y), puis entrer la phrase exactement, ponctuation comprise, et activer le code. Certains codes doivent d'abord être débloqués en achetant des journaux (voir la fiche). Activer un code désactive la sauvegarde et les trophées/succès tant qu'il est actif. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -601,5 +601,56 @@
       "verified": true
     }
   ],
-  "tips": []
+  "tips": [],
+  "packs": [
+    {
+      "id": "cowboy",
+      "title": {
+        "fr": "Cow-boy invincible",
+        "en": "Unstoppable cowboy"
+      },
+      "description": {
+        "fr": "Barres au maximum, Sang-froid infini, munitions infinies et armes lourdes. Certains codes doivent d'abord être débloqués.",
+        "en": "Max cores, infinite Dead Eye, infinite ammo and heavy weapons. Some cheats must be unlocked first."
+      },
+      "codes": [
+        "max-barres",
+        "deadeye-infini",
+        "munitions",
+        "armes-lourdes"
+      ]
+    },
+    {
+      "id": "cavalier",
+      "title": {
+        "fr": "Grand cavalier",
+        "en": "Master rider"
+      },
+      "description": {
+        "fr": "Un cheval supérieur, un lien fort et un sifflet qui porte partout.",
+        "en": "A superior horse, a strong bond and a whistle that carries everywhere."
+      },
+      "codes": [
+        "cheval-superieur",
+        "lien-cheval",
+        "sifflet"
+      ]
+    },
+    {
+      "id": "explorateur",
+      "title": {
+        "fr": "Explorateur",
+        "en": "Explorer"
+      },
+      "description": {
+        "fr": "Toute la carte révélée, toutes les tenues et toutes les recettes.",
+        "en": "Whole map revealed, all outfits and all recipes."
+      },
+      "codes": [
+        "carte",
+        "tenues",
+        "recettes"
+      ]
+    }
+  ]
 }
