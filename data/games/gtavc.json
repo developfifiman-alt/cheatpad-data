@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-06",
   "notice": {
     "fr": "Sur console : entrer la séquence rapidement pendant le jeu (pas dans un menu). Sur PC : taper le mot directement pendant le jeu, sans ouvrir de console. Les codes désactivent les trophées/succès de la Definitive Edition, et certains ne peuvent pas être annulés : sauvegarde avant de les utiliser. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -1206,6 +1206,833 @@
         "tenue-route",
         "rouler-eau",
         "bateaux-volants"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "colis-caches",
+      "title": {
+        "fr": "Colis cachés",
+        "en": "Hidden packages"
+      },
+      "character": {
+        "fr": "Tommy",
+        "en": "Tommy"
+      },
+      "unlock": {
+        "fr": "Les colis sont des statuettes. Les îles s'ouvrent au fil de l'histoire.",
+        "en": "The packages are small statuettes. The islands open up as the story progresses."
+      },
+      "reward": {
+        "fr": "100 $ par colis, des armes puis des véhicules dans les planques tous les 10 colis (gilet, tronçonneuse, Python, lance-flammes, sniper, minigun, lance-roquettes, hélicoptère, tank, hélicoptère d'attaque) et 100 000 $ de bonus.",
+        "en": "$100 per package, weapons then vehicles at safehouses every 10 packages (armor, chainsaw, Python, flamethrower, sniper, minigun, rocket launcher, helicopter, tank, attack helicopter) and a $100,000 bonus."
+      },
+      "note": {
+        "fr": "Cette liste repose surtout sur une seule source détaillée : signale toute erreur.",
+        "en": "This list relies mainly on one detailed source: report any mistake."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Ocean Beach",
+          "hint": {
+            "fr": "Sous une maison sur pilotis, dans la baie.",
+            "en": "Under a stilt house in the bay."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Ocean Beach",
+          "hint": {
+            "fr": "Dans les rochers près du bâtiment à héliport.",
+            "en": "In the rocks by the helipad building."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Ocean Beach",
+          "hint": {
+            "fr": "Devant le bâtiment à héliport.",
+            "en": "In front of the helipad building."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Ocean Beach",
+          "hint": {
+            "fr": "Au pied du phare.",
+            "en": "At the foot of the lighthouse."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Ocean Beach",
+          "hint": {
+            "fr": "Dans le parking souterrain de la marina.",
+            "en": "In the marina's underground parking."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Ocean Beach",
+          "hint": {
+            "fr": "Derrière le bâtiment ouest de l'hôpital.",
+            "en": "Behind the hospital's west building."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Ocean Beach",
+          "hint": {
+            "fr": "Sous le pont sud.",
+            "en": "Under the south bridge."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Sur un toit au sud-est du parking du centre commercial.",
+            "en": "On a roof southeast of the mall parking lot."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Derrière un bâtiment rose près du cabinet d'avocat.",
+            "en": "Behind a pink building near the law office."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Sur un toit près du siège d'une société de sécurité.",
+            "en": "On a roof near a security company's headquarters."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Derrière la planque de Washington Street.",
+            "en": "Behind the Washington Street safehouse."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Derrière le pont au nord du cabinet d'avocat.",
+            "en": "Behind the bridge north of the law office."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Sur un toit au sud du commissariat.",
+            "en": "On a roof south of the police station."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Dans une cabane de maître-nageur, sur la plage.",
+            "en": "In a lifeguard hut on the beach."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "À l'intérieur du commissariat.",
+            "en": "Inside the police station."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Starview Heights",
+          "hint": {
+            "fr": "Dans la résidence en face de la quincaillerie.",
+            "en": "In the complex across from the hardware store."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Starview Heights",
+          "hint": {
+            "fr": "Dans les douches de la résidence, au nord-ouest.",
+            "en": "In the complex showers, northwest side."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Starview Heights",
+          "hint": {
+            "fr": "Sous la travée est du pont de l'île.",
+            "en": "Under the east span of the island bridge."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Washington Beach",
+          "hint": {
+            "fr": "Derrière le siège d'une société de livraison.",
+            "en": "Behind a delivery company's headquarters."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "En haut du chantier de construction.",
+            "en": "At the top of the construction site."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Sur une jetée au nord-ouest du chantier.",
+            "en": "On a jetty northwest of the construction site."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Sur le toit d'un penthouse au sud du Malibu Club.",
+            "en": "On a penthouse roof south of the Malibu Club."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Derrière le Malibu Club.",
+            "en": "Behind the Malibu Club."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Sur le toit d'un penthouse au nord du Malibu Club.",
+            "en": "On a penthouse roof north of the Malibu Club."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Derrière un immeuble, près d'une piscine.",
+            "en": "Behind a building by a pool."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Du côté sud d'une résidence.",
+            "en": "On the south side of an apartment complex."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "À l'intérieur de la pizzeria.",
+            "en": "Inside the pizzeria."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "À l'intérieur de la bijouterie.",
+            "en": "Inside the jewelry store."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Dans l'appartement d'une amie de Tommy.",
+            "en": "In the apartment of one of Tommy's friends."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Sur les toits empruntés lors d'une course-poursuite à pied.",
+            "en": "On the rooftops used in a foot chase mission."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Dans une cour, derrière un palmier près du Pay 'n' Spray.",
+            "en": "In a courtyard behind a palm tree near Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Dans les buissons d'un hôtel, côté est.",
+            "en": "In a hotel's bushes, east side."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Sur le plongeoir de la piscine d'un hôtel.",
+            "en": "On a hotel pool's diving board."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Derrière le pilier est du pont nord.",
+            "en": "Behind the north bridge's east support."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Derrière un panneau publicitaire, près de la piste de moto.",
+            "en": "Behind a billboard near the dirt track."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Derrière un bâtiment au sud de la planque de Vice Point.",
+            "en": "Behind a building south of the Vice Point safehouse."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Contre le mur extérieur nord du centre commercial.",
+            "en": "Against the mall's north outer wall."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Au 1er étage du centre commercial, côté est.",
+            "en": "On the mall's upper floor, east side."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "À l'étage d'une boutique de vêtements du centre commercial.",
+            "en": "Upstairs in a mall clothing store."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Vice Point",
+          "hint": {
+            "fr": "Au rez-de-chaussée du parking du centre commercial.",
+            "en": "On the ground floor of the mall parking lot."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Prawn Island",
+          "hint": {
+            "fr": "Dans une pièce cachée d'une planque.",
+            "en": "In a hidden room of a hideout."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Prawn Island",
+          "hint": {
+            "fr": "Sur le balcon de la villa la plus à l'ouest.",
+            "en": "On the balcony of the westernmost mansion."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Prawn Island",
+          "hint": {
+            "fr": "Dans une ruelle au sud-ouest.",
+            "en": "In an alley in the southwest."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "InterGlobal Studios",
+          "hint": {
+            "fr": "Sur un plateau de tournage (studio C).",
+            "en": "On a film set (Stage C)."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "InterGlobal Studios",
+          "hint": {
+            "fr": "Sur un toit à côté du studio D.",
+            "en": "On a roof next to Stage D."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Leaf Links",
+          "hint": {
+            "fr": "Sur le practice du golf.",
+            "en": "On the golf driving range."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Leaf Links",
+          "hint": {
+            "fr": "Dans un bunker à l'ouest du club-house.",
+            "en": "In a sand trap west of the clubhouse."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Leaf Links",
+          "hint": {
+            "fr": "Sous le pont du golf.",
+            "en": "Under the golf course bridge."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Leaf Links",
+          "hint": {
+            "fr": "Sur un petit îlot au sud.",
+            "en": "On a small island to the south."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Leaf Links",
+          "hint": {
+            "fr": "Sur le pont en bois au sud.",
+            "en": "On the southern wooden bridge."
+          }
+        },
+        {
+          "id": "51",
+          "zone": "Starfish Island",
+          "hint": {
+            "fr": "Dans la propriété Vercetti, côté ouest.",
+            "en": "In the Vercetti Estate, west side."
+          }
+        },
+        {
+          "id": "52",
+          "zone": "Starfish Island",
+          "hint": {
+            "fr": "Dans la propriété Vercetti, côté est.",
+            "en": "In the Vercetti Estate, east side."
+          }
+        },
+        {
+          "id": "53",
+          "zone": "Starfish Island",
+          "hint": {
+            "fr": "Près de la piscine en forme de logo d'une villa.",
+            "en": "By a mansion's logo-shaped pool."
+          }
+        },
+        {
+          "id": "54",
+          "zone": "Starfish Island",
+          "hint": {
+            "fr": "Au fond d'une piscine, à l'est.",
+            "en": "At the bottom of a pool on the east side."
+          }
+        },
+        {
+          "id": "55",
+          "zone": "Starfish Island",
+          "hint": {
+            "fr": "Devant la porte d'une villa verte.",
+            "en": "At the front door of a green mansion."
+          }
+        },
+        {
+          "id": "56",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Derrière un bâtiment à l'est de la tour de la télé.",
+            "en": "Behind a building east of the TV tower."
+          }
+        },
+        {
+          "id": "57",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Près d'une sculpture devant un immeuble de bureaux.",
+            "en": "By a sculpture outside an office building."
+          }
+        },
+        {
+          "id": "58",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Dans une ruelle devant la résidence Hyman.",
+            "en": "In an alley in front of the Hyman Condo."
+          }
+        },
+        {
+          "id": "59",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Sur le parking nord-ouest du stade.",
+            "en": "In the stadium's northwest parking lot."
+          }
+        },
+        {
+          "id": "60",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Dans le garage des ambulances de l'hôpital.",
+            "en": "In the hospital's ambulance garage."
+          }
+        },
+        {
+          "id": "61",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "En haut de la tour de la télé, sous l'héliport.",
+            "en": "At the top of the TV tower, under the helipad."
+          }
+        },
+        {
+          "id": "62",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Dans des bureaux d'un immeuble du centre.",
+            "en": "In an office building downtown."
+          }
+        },
+        {
+          "id": "63",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Derrière un hôtel.",
+            "en": "Behind a hotel."
+          }
+        },
+        {
+          "id": "64",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Au bord de l'eau, au nord-ouest de chez Phil.",
+            "en": "By the water, northwest of Phil's place."
+          }
+        },
+        {
+          "id": "65",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Dans une cabane en bois chez Phil.",
+            "en": "Inside a wooden shack at Phil's place."
+          }
+        },
+        {
+          "id": "66",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Dans une ruelle au nord de la compagnie de taxis.",
+            "en": "In an alley north of the cab company."
+          }
+        },
+        {
+          "id": "67",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Dans l'escalier d'une vieille maison derrière la compagnie de taxis.",
+            "en": "On the staircase of an old house behind the cab company."
+          }
+        },
+        {
+          "id": "68",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Dans un bâtiment à côté du pavillon au bord du fleuve.",
+            "en": "In a building next to the riverside pavilion."
+          }
+        },
+        {
+          "id": "69",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Dans le cimetière derrière les pompes funèbres.",
+            "en": "In the graveyard behind the funeral home."
+          }
+        },
+        {
+          "id": "70",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Dans un bâtiment accessible par le toit de l'imprimerie.",
+            "en": "In a building reached via the print works roof."
+          }
+        },
+        {
+          "id": "71",
+          "zone": "Little Haiti",
+          "hint": {
+            "fr": "Sous un panneau publicitaire de plage.",
+            "en": "Under a beach-themed billboard."
+          }
+        },
+        {
+          "id": "72",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "Dans une maison bleue à vendre, au sud de l'imprimerie.",
+            "en": "In a blue house for sale, south of the print works."
+          }
+        },
+        {
+          "id": "73",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "À l'intérieur de la laverie.",
+            "en": "Inside the laundromat."
+          }
+        },
+        {
+          "id": "74",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "En face du café.",
+            "en": "Across from the café."
+          }
+        },
+        {
+          "id": "75",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "Près d'un panneau publicitaire de taxis, accès par le toit.",
+            "en": "By a cab company billboard, reached via the roof."
+          }
+        },
+        {
+          "id": "76",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "Sur un toit au sud du café.",
+            "en": "On a roof south of the café."
+          }
+        },
+        {
+          "id": "77",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "À l'intérieur de l'épicerie fine.",
+            "en": "Inside the delicatessen."
+          }
+        },
+        {
+          "id": "78",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "Dans la salle d'exposition du concessionnaire.",
+            "en": "In the car dealership showroom."
+          }
+        },
+        {
+          "id": "79",
+          "zone": "Viceport",
+          "hint": {
+            "fr": "Près des maisons au nord des portes du port.",
+            "en": "By the houses north of the port gates."
+          }
+        },
+        {
+          "id": "80",
+          "zone": "Viceport",
+          "hint": {
+            "fr": "À bord d'un navire, près des portes du port.",
+            "en": "Aboard a ship near the port gates."
+          }
+        },
+        {
+          "id": "81",
+          "zone": "Viceport",
+          "hint": {
+            "fr": "Derrière le panneau du bâtiment de l'autorité portuaire.",
+            "en": "Behind the port authority building sign."
+          }
+        },
+        {
+          "id": "82",
+          "zone": "Viceport",
+          "hint": {
+            "fr": "À bord d'un cargo, au sud de l'autorité portuaire.",
+            "en": "Aboard a freighter south of the port authority."
+          }
+        },
+        {
+          "id": "83",
+          "zone": "Viceport",
+          "hint": {
+            "fr": "À l'ouest du Pay 'n' Spray du port.",
+            "en": "West of the port's Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "84",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sur le parking du poste de police de l'aéroport, au sud-ouest.",
+            "en": "In the airport police station lot, southwest."
+          }
+        },
+        {
+          "id": "85",
+          "zone": "Little Havana",
+          "hint": {
+            "fr": "Entre des réservoirs de carburant, près du concessionnaire.",
+            "en": "Between fuel tanks near the car dealership."
+          }
+        },
+        {
+          "id": "86",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sur les quais du terminal de fret, au sud-est.",
+            "en": "On the docks by the southeast freight terminal."
+          }
+        },
+        {
+          "id": "87",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sur le toit du terminal de fret.",
+            "en": "On the freight terminal roof."
+          }
+        },
+        {
+          "id": "88",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sur l'héliport sud-est.",
+            "en": "On the southeast helipad."
+          }
+        },
+        {
+          "id": "89",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Dans un hangar d'une compagnie aérienne, au sud-est.",
+            "en": "In an airline hangar, southeast."
+          }
+        },
+        {
+          "id": "90",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Près des passerelles du terminal, au sud-ouest.",
+            "en": "By the terminal jet bridges, southwest."
+          }
+        },
+        {
+          "id": "91",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sur un avion stationné au sud du terminal.",
+            "en": "On top of a parked plane south of the terminal."
+          }
+        },
+        {
+          "id": "92",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sous un avion stationné au sud du terminal.",
+            "en": "Under a parked plane south of the terminal."
+          }
+        },
+        {
+          "id": "93",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sous les ailes d'un avion, dans le hangar ouest.",
+            "en": "Under a plane's wings in the west hangar."
+          }
+        },
+        {
+          "id": "94",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Derrière la caserne de pompiers, à l'ouest du terminal.",
+            "en": "Behind the fire station west of the terminal."
+          }
+        },
+        {
+          "id": "95",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sur le toit du terminal.",
+            "en": "On the terminal roof."
+          }
+        },
+        {
+          "id": "96",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Derrière un comptoir d'enregistrement.",
+            "en": "Behind a check-in counter."
+          }
+        },
+        {
+          "id": "97",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Dans la partie nord-ouest du terminal.",
+            "en": "In the northwest part of the terminal."
+          }
+        },
+        {
+          "id": "98",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Derrière un panneau publicitaire de voyages.",
+            "en": "Behind a travel billboard."
+          }
+        },
+        {
+          "id": "99",
+          "zone": "Escobar International",
+          "hint": {
+            "fr": "Sous un avion derrière le terminal nord.",
+            "en": "Under a plane behind the north terminal."
+          }
+        },
+        {
+          "id": "100",
+          "zone": "Fort Baxter",
+          "hint": {
+            "fr": "Derrière le panneau d'entrée de la base aérienne.",
+            "en": "Behind the air base entrance sign."
+          }
+        }
       ]
     }
   ]

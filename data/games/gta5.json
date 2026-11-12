@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 7,
   "updated": "2026-11-04",
   "notice": {
     "fr": "Codes du mode histoire uniquement (pas dans GTA Online). Sur console : entrer la séquence rapidement en jeu. Sur PC : appuyer sur la touche ² (ou ~) pour ouvrir la console, puis taper le code. Sur toutes les plateformes, on peut aussi composer le numéro sur le téléphone du personnage. Activer un code désactive les trophées/succès jusqu'au rechargement de la partie. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -2028,6 +2028,2590 @@
           "hint": {
             "fr": "Dans une maison délabrée, au nord de la ville.",
             "en": "In a dilapidated house in the north of town."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dechets-nucleaires",
+      "title": {
+        "fr": "Déchets nucléaires",
+        "en": "Nuclear waste"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Acheter le quai Sonar Collections (Paleto Cove), en vente après le braquage Merryweather. Tous les barils sont sous l'eau : utilise le sous-marin du quai.",
+        "en": "Buy the Sonar Collections dock (Paleto Cove), on sale after the Merryweather heist. Every barrel is underwater: use the dock's submarine."
+      },
+      "reward": {
+        "fr": "23 000 $ par baril, plus 250 000 $ de bonus pour les 30.",
+        "en": "$23,000 per barrel, plus a $250,000 bonus for all 30."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Paleto Cove",
+          "hint": {
+            "fr": "Sous l'eau, juste au nord du quai de Sonar Collections.",
+            "en": "Underwater, just north of the Sonar Collections dock."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "Au large, au nord-ouest du bout de la jetée de Del Perro.",
+            "en": "Offshore, northwest of the end of Del Perro Pier."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Au nord-ouest de l'île au large de Palomino.",
+            "en": "Northwest of the island off Palomino."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Au sud-est de l'île de Palomino Highlands.",
+            "en": "Southeast of the Palomino Highlands island."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Au large de la pointe sud de Palomino Highlands.",
+            "en": "Off the southern tip of Palomino Highlands."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Contre la paroi rocheuse de la côte nord.",
+            "en": "Against the rock face on the north shore."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Paleto Forest",
+          "hint": {
+            "fr": "À l'ouest de la langue de sable de Paleto Forest.",
+            "en": "West of the Paleto Forest sand spit."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Côte nord, tout près du baril précédent.",
+            "en": "North shore, close to the previous barrel."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Procopio Beach",
+          "hint": {
+            "fr": "Au nord-nord-est de la boucle de route de Procopio.",
+            "en": "North-northeast of the Procopio road loop."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Procopio Beach",
+          "hint": {
+            "fr": "Au nord de la boucle de Procopio, dans une crevasse rocheuse.",
+            "en": "North of the Procopio loop, in a rocky crevice."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Chumash",
+          "hint": {
+            "fr": "Dans les hauts-fonds, au sud de la jetée de Chumash.",
+            "en": "In the shallows, south of the Chumash pier."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Procopio Beach",
+          "hint": {
+            "fr": "Au nord de la boucle de Procopio, sous une arche rocheuse.",
+            "en": "North of the Procopio loop, under a rock arch."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Au large du bout ouest de la piste de la base.",
+            "en": "Off the west end of the base runway."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Au sud-ouest de la piste de la base.",
+            "en": "Southwest of the base runway."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "North Chumash",
+          "hint": {
+            "fr": "À l'ouest de North Chumash, sur un rebord rocheux.",
+            "en": "West of North Chumash, on a rock ledge."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Au sud de l'embouchure de la rivière.",
+            "en": "South of the river mouth."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Humane Labs",
+          "hint": {
+            "fr": "À l'entrée de la baie, à l'est du laboratoire.",
+            "en": "At the mouth of the bay, east of the lab."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Au nord de Mount Gordo, sur un rebord de falaise.",
+            "en": "North of Mount Gordo, on a cliff ledge."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Au nord de Mount Gordo, sur un autre rebord.",
+            "en": "North of Mount Gordo, on another ledge."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Au large, au sud du country club.",
+            "en": "Offshore, south of the country club."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "North Chumash",
+          "hint": {
+            "fr": "À l'ouest de North Chumash, près du baril n° 15.",
+            "en": "West of North Chumash, near barrel #15."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Au large du côté ouest de Paleto Bay.",
+            "en": "Off the west side of Paleto Bay."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Lago Zancudo",
+          "hint": {
+            "fr": "Dans l'eau trouble entre l'embouchure et la piste.",
+            "en": "In the murky water between the river mouth and the runway."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "Au pied des piliers, au bout de la jetée de Del Perro.",
+            "en": "By the pilings at the end of Del Perro Pier."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Près des rochers de la plage, vers le Pipeline Inn.",
+            "en": "Near the beach rocks by the Pipeline Inn."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Humane Labs",
+          "hint": {
+            "fr": "Tout au fond de la baie du laboratoire.",
+            "en": "At the far inner end of the lab's bay."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Humane Labs",
+          "hint": {
+            "fr": "Au milieu de la baie du laboratoire.",
+            "en": "In the middle of the lab's bay."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "À la pointe sud de Palomino, à l'est du port.",
+            "en": "At the south tip of Palomino, east of the port."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "Près de l'épave d'avion, à l'est du port.",
+            "en": "Near the plane wreck east of the port."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "Au large de la jetée de Del Perro, après le baril n° 2.",
+            "en": "Off Del Perro Pier, beyond barrel #2."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pieces-sous-marin",
+      "title": {
+        "fr": "Pièces de sous-marin",
+        "en": "Submarine parts"
+      },
+      "character": {
+        "fr": "Michael (les autres peuvent les ramasser, mais seul Michael termine l'histoire)",
+        "en": "Michael (others can pick them up, but only Michael finishes the story)"
+      },
+      "unlock": {
+        "fr": "Après la rencontre avec Abigail, qui lance cette quête. Toutes les pièces sont sous l'eau : utilise le sous-marin du quai Sonar Collections.",
+        "en": "After meeting Abigail, who starts this quest. Every part is underwater: use the Sonar Collections dock submarine."
+      },
+      "reward": {
+        "fr": "Débloque la dernière mission d'Abigail.",
+        "en": "Unlocks Abigail's final mission."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Épave d'avion à l'ouest de Paleto Bay.",
+            "en": "Plane wreck west of Paleto Bay."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Même épave, près du fuselage.",
+            "en": "Same wreck, by the fuselage."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Même épave, sous le fuselage.",
+            "en": "Same wreck, under the fuselage."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Épave d'avion au sud de Palomino Highlands.",
+            "en": "Plane wreck south of Palomino Highlands."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Même épave d'avion, autre morceau.",
+            "en": "Same plane wreck, another piece."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "NOOSE HQ",
+          "hint": {
+            "fr": "Épave de cargo à l'est du QG du NOOSE.",
+            "en": "Freighter wreck east of NOOSE HQ."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "NOOSE HQ",
+          "hint": {
+            "fr": "Même cargo, plus près du QG.",
+            "en": "Same freighter, closer to HQ."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "NOOSE HQ",
+          "hint": {
+            "fr": "Même cargo, près des deux pièces précédentes.",
+            "en": "Same freighter, near the two previous pieces."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Navire coulé à l'ouest de la base.",
+            "en": "Sunken ship west of the base."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Même navire, à son extrémité nord.",
+            "en": "Same ship, at its north end."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "Près d'une conduite au fond de l'eau, au sud du port.",
+            "en": "By a seabed pipe south of the port."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "Planches immergées à l'est du cargo Daisy Lee.",
+            "en": "Sunken planks east of the Daisy Lee freighter."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "À la poupe du cargo Ocean Motion.",
+            "en": "At the stern of the Ocean Motion freighter."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "Le long de la coque du cargo Ocean Motion.",
+            "en": "Alongside the Ocean Motion freighter."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "À la proue du cargo Ocean Motion.",
+            "en": "At the bow of the Ocean Motion freighter."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Sous le pont routier, près d'un bras de grue cassé.",
+            "en": "Under the road bridge, near a broken crane arm."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Dans le canal d'évacuation, près d'une structure rouillée.",
+            "en": "In the storm drain canal, by a rusty frame."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Restes d'une jetée en bois immergée.",
+            "en": "Remains of a sunken wooden pier."
+          }
+        },
+        {
+          "id": "19",
+          "zone": {
+            "fr": "Port de Los Santos",
+            "en": "Port of Los Santos"
+          },
+          "hint": {
+            "fr": "Sous une arche rocheuse au sud du port.",
+            "en": "Under a rock arch south of the port."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Banning",
+          "hint": {
+            "fr": "Entre les poutres de soutien d'une jetée.",
+            "en": "Between a pier's support beams."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Structure rouillée immergée près de l'aéroport.",
+            "en": "Rusty underwater frame near the airport."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Épave d'avion de ligne au nord-ouest de la base.",
+            "en": "Airliner wreck northwest of the base."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Même avion de ligne, un peu plus à l'est.",
+            "en": "Same airliner, a bit further east."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Dans le ravin sous l'épave de l'avion cargo.",
+            "en": "In the ravine below the cargo plane wreck."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Dans l'avion cargo coulé.",
+            "en": "Inside the sunken cargo plane."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "À l'ouest de la base, près des réacteurs de l'avion.",
+            "en": "West of the base, by the airliner's engines."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Épave d'avion au nord de Mount Gordo.",
+            "en": "Plane wreck north of Mount Gordo."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Un peu au nord de la pièce précédente.",
+            "en": "Just north of the previous piece."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Épave d'avion de Palomino, troisième morceau.",
+            "en": "Palomino plane wreck, third piece."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "NOOSE HQ",
+          "hint": {
+            "fr": "À la proue du cargo coulé, à l'est du QG du NOOSE.",
+            "en": "At the sunken freighter's bow, east of NOOSE HQ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "tracts-epsilon",
+      "title": {
+        "fr": "Tracts Epsilon",
+        "en": "Epsilon tracts"
+      },
+      "character": {
+        "fr": "Michael uniquement",
+        "en": "Michael only"
+      },
+      "unlock": {
+        "fr": "Après une mission Epsilon de Michael. Les tracts se trouvent un par un, dans l'ordre, grâce aux indices reçus par e-mail.",
+        "en": "After one of Michael's Epsilon missions. Tracts are found one at a time, in order, using clues sent by email."
+      },
+      "reward": {
+        "fr": "Le texte complet des tracts sur le site Epsilon (pas d'argent).",
+        "en": "The full tract text on the Epsilon website (no money)."
+      },
+      "note": {
+        "fr": "Respecte l'ordre de la liste : le tract suivant n'apparaît qu'une fois le précédent ramassé.",
+        "en": "Follow the list order: the next tract only appears once the previous one is collected."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "Sur la plateforme d'observation, près de la gare du téléphérique.",
+            "en": "On the viewing platform near the cable car station."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Sous l'eau, devant le vieux bateau à aubes coulé au large de la côte est.",
+            "en": "Underwater, in front of the old sunken paddle steamer off the east coast."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Sur l'île la plus au nord, au large de Paleto Bay.",
+            "en": "On the northernmost island, off Paleto Bay."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "Dans un renfoncement de porte du tunnel routier.",
+            "en": "In a door alcove inside the road tunnel."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Little Seoul",
+          "hint": {
+            "fr": "Au pied de la grande église ancienne, côté nord.",
+            "en": "At the foot of the large old church, north side."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Paleto Cove",
+          "hint": {
+            "fr": "Sur le petit ponton au bout de la jetée de Sonar Collections.",
+            "en": "On the low platform at the end of the Sonar Collections pier."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Richman Glen",
+          "hint": {
+            "fr": "Dans l'allée d'entrée d'une grande villa rouge.",
+            "en": "On the entrance driveway of a large red mansion."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "Au pied du plus grand arbre, près de la plateforme d'observation.",
+            "en": "At the foot of the tallest tree near the viewing platform."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Sur l'héliport du toit de la Maze Bank Tower.",
+            "en": "On the Maze Bank Tower rooftop helipad."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Près d'un tombeau sur l'îlot de l'étang du cimetière.",
+            "en": "Next to a tomb on the cemetery pond island."
+          }
+        }
+      ]
+    },
+    {
+      "id": "peyotl",
+      "title": {
+        "fr": "Plantes de peyotl",
+        "en": "Peyote plants"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Uniquement sur les versions PS4, Xbox One, PC et plus récentes. Absentes sur PS3 et Xbox 360.",
+        "en": "PS4, Xbox One, PC and later versions only. Not on PS3 or Xbox 360."
+      },
+      "reward": {
+        "fr": "Chaque plante te transforme en animal : terrestre, oiseau ou animal marin selon le type.",
+        "en": "Each plant turns you into an animal: land animal, bird or sea creature depending on the type."
+      },
+      "note": {
+        "fr": "Les plantes « Mer » sont sous l'eau et se trouvent avec une tenue de plongée.",
+        "en": "“Sea” plants are underwater: bring scuba gear."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Raton Canyon",
+          "hint": {
+            "fr": "🌵 Terre · Sur une colline boisée, au bout d'un chemin de terre.",
+            "en": "🌵 Land · On a wooded hillside at the end of a dirt trail."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "🌵 Terre · À l'est du tunnel de l'observatoire Galileo.",
+            "en": "🌵 Land · East of the Galileo Observatory tunnel."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "🌵 Terre · Au bord d'un sentier, près d'un petit lac.",
+            "en": "🌵 Land · Beside a trail near a small lake."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Ron Alternates Wind Farm",
+          "hint": {
+            "fr": "🌵 Terre · Au nord du parc de mobil-homes.",
+            "en": "🌵 Land · At the north end of the trailer park."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "El Burro Heights",
+          "hint": {
+            "fr": "🌵 Terre · Sur une aire de stationnement qui domine la côte.",
+            "en": "🌵 Land · In a parking area overlooking the coast."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Mirror Park",
+          "hint": {
+            "fr": "🌵 Terre · Sur le porche arrière d'une maison, à l'est du quartier.",
+            "en": "🌵 Land · On a house's back porch on the east side."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "🌵 Terre · Le long du canal, près d'une clôture.",
+            "en": "🌵 Land · Along the canal, by a fence."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "🌵 Terre · Près d'un bâtiment de Greenwich Parkway.",
+            "en": "🌵 Land · By a building on Greenwich Parkway."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Mount Josiah",
+          "hint": {
+            "fr": "🌵 Terre · Dans les collines, à l'extérieur de la clôture de la base militaire.",
+            "en": "🌵 Land · In the hills outside the military base fence."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Tongva Hills",
+          "hint": {
+            "fr": "🌵 Terre · Près d'un bassin du ruisseau, à l'est du domaine viticole.",
+            "en": "🌵 Land · By a creek pool east of the vineyard."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "🌵 Terre · Sur un chemin du champ pétrolifère, au nord d'Harmony.",
+            "en": "🌵 Land · On an oil field dirt road north of Harmony."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "🌵 Terre · Sur la pente au-dessus des villas d'Hillcrest Avenue.",
+            "en": "🌵 Land · On the slope above the Hillcrest Avenue homes."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "🌵 Terre · Près d'une ferme, à l'est du circuit Redwood Lights.",
+            "en": "🌵 Land · By a farmhouse east of the Redwood Lights Track."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "🌵 Terre · Près d'un banc, sur la boucle du sentier nord.",
+            "en": "🌵 Land · By a bench on the northern trail loop."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "🌵 Terre · À l'est d'un petit bâtiment, au bord du lac Vinewood.",
+            "en": "🌵 Land · East of a small building by Lake Vinewood."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Vespucci Beach",
+          "hint": {
+            "fr": "🕊 Air · Sur le toit d'un hôtel en bord de plage.",
+            "en": "🕊 Air · On the roof of a beachfront hotel."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "NOOSE HQ",
+          "hint": {
+            "fr": "🕊 Air · Sur un minuscule îlot à l'est du QG du NOOSE.",
+            "en": "🕊 Air · On a tiny islet east of NOOSE HQ."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "West Vinewood",
+          "hint": {
+            "fr": "🕊 Air · Au sommet d'un grand hôtel.",
+            "en": "🕊 Air · On top of a large hotel."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Raton Canyon",
+          "hint": {
+            "fr": "🕊 Air · Sur un éperon rocheux au nord du ruisseau.",
+            "en": "🕊 Air · On a rocky outcrop north of the creek."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "🕊 Air · Sur le versant nord-est de la montagne.",
+            "en": "🕊 Air · On the mountain's northeast face."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "🕊 Air · Au sommet, près du bâtiment.",
+            "en": "🕊 Air · At the summit, near the building."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "🌊 Mer (sous l'eau) · Dans le chenal entre l'aéroport et le port.",
+            "en": "🌊 Sea (underwater) · In the channel between the airport and the port."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "🌊 Mer (sous l'eau) · Au large du bout de la jetée de Del Perro.",
+            "en": "🌊 Sea (underwater) · Off the end of Del Perro Pier."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Humane Labs",
+          "hint": {
+            "fr": "🌊 Mer (sous l'eau) · Au large de la côte est, en face du laboratoire.",
+            "en": "🌊 Sea (underwater) · Off the east coast, out from the lab."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Lago Zancudo",
+          "hint": {
+            "fr": "🌊 Mer (sous l'eau) · À l'embouchure de la rivière.",
+            "en": "🌊 Sea (underwater) · At the river mouth."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Alamo Sea",
+          "hint": {
+            "fr": "🌊 Mer (sous l'eau) · Dans une crique au nord-ouest du lac.",
+            "en": "🌊 Sea (underwater) · In an inlet in the northwest corner of the lake."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "🌊 Mer (sous l'eau) · Au large, à l'ouest de Paleto Bay.",
+            "en": "🌊 Sea (underwater) · Offshore, west of Paleto Bay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "colis-caches",
+      "title": {
+        "fr": "Colis cachés",
+        "en": "Hidden packages"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Presque tous sous l'eau : prévois une tenue de plongée ou le sous-marin.",
+        "en": "Almost all underwater: bring scuba gear or the submarine."
+      },
+      "reward": {
+        "fr": "De 7 000 $ à 25 000 $ par colis.",
+        "en": "$7,000 to $25,000 per package."
+      },
+      "note": {
+        "fr": "Bonus hors liste : 4 mallettes de 25 000 $ au camp de la secte Altruist, après l'événement où Trevor y livre des « invités ».",
+        "en": "Bonus not listed: 4 briefcases worth $25,000 at the Altruist cult camp, after the event where Trevor brings them “guests”."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Paleto Cove",
+          "hint": {
+            "fr": "Au fond de l'eau, près d'une queue d'avion détachée (12 000 $).",
+            "en": "On the seabed by a detached plane tail ($12,000)."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "North Chumash",
+          "hint": {
+            "fr": "Dans la cabine d'un avion coulé (12 500 $).",
+            "en": "Inside a sunken plane cabin ($12,500)."
+          }
+        },
+        {
+          "id": "3",
+          "zone": {
+            "fr": "Port de Los Santos",
+            "en": "Port of Los Santos"
+          },
+          "hint": {
+            "fr": "Près d'une épave de pétrolier, au sud du port (11 000 $).",
+            "en": "By a tanker wreck south of the docks ($11,000)."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Fort Zancudo",
+          "hint": {
+            "fr": "Sur un navire échoué près de la base (9 000 $).",
+            "en": "On top of a wrecked ship near the base ($9,000)."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Sur un sous-marin coulé, en eau profonde (25 000 $).",
+            "en": "On a sunken submarine in deep water ($25,000)."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Banning",
+          "hint": {
+            "fr": "Sur un conteneur immergé, au nord-est du port. Pas besoin de plongée (7 500 $).",
+            "en": "On a sunken container northeast of the docks. No diving gear needed ($7,500)."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Murrieta Fields",
+          "hint": {
+            "fr": "Sous l'aile arrière d'une épave d'avion, à l'est du port (16 500 $).",
+            "en": "Under the tail wing of a plane wreck east of the port ($16,500)."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Près de la grande roue du bateau à aubes coulé (7 000 $).",
+            "en": "By the big wheel of the sunken paddle steamer ($7,000)."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "Dans un navire détruit près du QG du NOOSE (20 000 $).",
+            "en": "Inside a wrecked ship near NOOSE HQ ($20,000)."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Ron Alternates Wind Farm",
+          "hint": {
+            "fr": "Dans un conteneur de camion militaire, près des tanks coulés, en eau profonde (10 000 $).",
+            "en": "In a military truck container near sunken tanks, deep water ($10,000)."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Au fond, à l'est, près d'un avion d'épandage rouillé. Attention aux requins (8 000 $).",
+            "en": "On the eastern seabed by a rusty crop duster. Watch out for sharks ($8,000)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sauts-acrobatiques",
+      "title": {
+        "fr": "Sauts acrobatiques",
+        "en": "Stunt jumps"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Disponibles dès le début. Le saut ne compte que si tu atterris sur tes roues et que le ralenti se déclenche.",
+        "en": "Available from the start. A jump only counts if you land on your wheels after the slow-motion kicks in."
+      },
+      "reward": {
+        "fr": "Un succès / trophée pour les 50 (25 suffisent pour le 100 %).",
+        "en": "An achievement / trophy for all 50 (25 are enough for 100%)."
+      },
+      "note": {
+        "fr": "Une moto rapide passe partout. Liste vérifiée sur deux sources.",
+        "en": "A fast motorbike handles them all. List checked against two sources."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Rampe à une entrée de l'aéroport, vers le sud par-dessus la clôture (peut donner 3 étoiles).",
+            "en": "Ramp at an airport gate, south over the fence (may give 3 stars)."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Rampe sur la route périphérique est, vers le nord jusqu'au parking.",
+            "en": "Ramp on the east ring road, north into the parking lot."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Rampe côté ouest : prends-la à fond pour atterrir sur le toit d'un parking.",
+            "en": "West-side ramp: hit it at full speed to land on a parking garage roof."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Banning",
+          "hint": {
+            "fr": "Mur cassé dans une cour industrielle, vers l'ouest au-dessus d'une bouche d'égout.",
+            "en": "Broken wall in an industrial yard, west over a storm drain mouth."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Tas de terre près de Chum Street, vers l'est jusqu'à la route du pont.",
+            "en": "Dirt pile near Chum Street, east up onto the bridge road."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Remorque-rampe au bout du quai, vers le nord au-dessus de l'eau.",
+            "en": "Trailer ramp at the end of the pier, north over the water."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Remorque-rampe au nord du quai, vers le nord-est sur une route surélevée.",
+            "en": "Trailer ramp at the north of the pier, northeast onto a raised road."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Remorque-rampe au bout sud du premier entrepôt, vers le toit voisin.",
+            "en": "Trailer ramp at the south end of the first warehouse, onto the next roof."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Remorque-rampe côté est du quai, vers le toit d'un entrepôt.",
+            "en": "Trailer ramp on the east side of the pier, onto a warehouse roof."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Remorque-rampe près de l'entrepôt sud, vers son toit.",
+            "en": "Trailer ramp by the southern warehouse, onto its roof."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Remorque-rampe au bord est du quai, vers le nord près des silos.",
+            "en": "Trailer ramp on the east edge of the pier, north toward the silos."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Rampe vers l'est près du pont ferroviaire, au-dessus de l'eau.",
+            "en": "Eastbound ramp by the rail bridge, over the water."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Tas de rochers et de terre, vers l'est au-dessus de la route.",
+            "en": "Rock and dirt pile, east over the road."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "Tas de gravats au bord nord, vers l'ouest au-dessus de l'eau jusqu'aux rails.",
+            "en": "Rubble pile on the north edge, west over the water to the tracks."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "El Burro Heights",
+          "hint": {
+            "fr": "Rampe en tôle dans les collines du champ de pétrole, près de la casse.",
+            "en": "Sheet metal ramp in the oil field hills near the scrapyard."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Rancho",
+          "hint": {
+            "fr": "Rampe sur le toit d'un parking, vers le nord-est au-dessus de la fourrière.",
+            "en": "Ramp on a parking garage roof, northeast over the impound lot."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Strawberry",
+          "hint": {
+            "fr": "Rampe sur le toit du parking de l'hôpital, jusqu'à la rue.",
+            "en": "Ramp on the hospital parking garage roof, down to the street."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Strawberry",
+          "hint": {
+            "fr": "Rampe verte chez un vendeur de bateaux, jusqu'à l'autoroute au-dessus.",
+            "en": "Green ramp at a boat dealer, up onto the freeway above."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Rampe d'un parking près de l'armurerie, vers l'ouest.",
+            "en": "Parking garage ramp near the gun shop, heading west."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Rampe métallique entre les deux voies de l'autoroute, vers le nord.",
+            "en": "Metal ramp between the two freeway carriageways, heading north."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Berge du canal jusqu'à l'héliport : moto rapide à fond obligatoire.",
+            "en": "Canal bank to the helipad: needs a fast bike at full speed."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Dalle en béton à l'entrée d'un canal, vers l'est au-dessus du canal.",
+            "en": "Concrete pad at a drain inlet, east over the channel."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Little Seoul",
+          "hint": {
+            "fr": "Au bas d'une bretelle de sortie, à travers la rue jusqu'à la bretelle d'en face.",
+            "en": "At the bottom of an off-ramp, across the street to the opposite on-ramp."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Little Seoul",
+          "hint": {
+            "fr": "Tas de sable et tôle sur un échangeur, atterrissage sur la sortie en dessous.",
+            "en": "Sand pile and metal sheet on an interchange, landing on the exit below."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Little Seoul",
+          "hint": {
+            "fr": "Rampe vers l'ouest derrière des barrières.",
+            "en": "Westbound ramp behind barriers."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Vespucci Canals",
+          "hint": {
+            "fr": "À travers le milieu d'un pavillon en forme de pagode, vers l'ouest.",
+            "en": "Through the middle of a pagoda-style pavilion, heading west."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "Butte herbeuse au-dessus d'une entrée de tunnel, vers l'autoroute en contrebas.",
+            "en": "Grassy rise above a tunnel entrance, down onto the freeway."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Depuis un bâtiment au bord de la plage, vers l'ouest.",
+            "en": "Off a beachfront building, heading west."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Panneau publicitaire effondré sur le toit d'un parking, vers l'est.",
+            "en": "Collapsed billboard on a parking garage roof, heading east."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Mur cassé sur un pont routier, vers l'est.",
+            "en": "Broken wall on a road overpass, heading east."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Rampe vers le sud à l'échangeur, vers le canal du fleuve.",
+            "en": "Southbound ramp at the interchange, toward the river channel."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Textile City",
+          "hint": {
+            "fr": "Rambarde cassée en haut d'un escalier de l'hôpital.",
+            "en": "Broken railing at the top of a hospital staircase."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Vers l'ouest sur un pont autoroutier, au nord d'une tour de bureaux.",
+            "en": "Westbound on a freeway overpass, north of an office tower."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Little Seoul",
+          "hint": {
+            "fr": "Petite rampe métallique au sud de l'autoroute, pour la traverser vers le nord.",
+            "en": "Small metal ramp south of the freeway, jumping north across it."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Burton",
+          "hint": {
+            "fr": "Rampe d'un centre commercial vers l'ouest, par une ouverture dans la glissière.",
+            "en": "Shopping plaza ramp heading west, through a gap in the guardrail."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Vers le sud à travers la cour d'un bâtiment administratif (moto conseillée).",
+            "en": "South through a civic building courtyard (bike recommended)."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Vers l'ouest au-dessus d'une entrée de métro.",
+            "en": "Westbound over a subway entrance."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "GWC and Golfing Society",
+          "hint": {
+            "fr": "Passerelle cassée au-dessus d'un lac, au sud-est du golf.",
+            "en": "Broken footbridge over a lake, southeast of the golf course."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Richman",
+          "hint": {
+            "fr": "À travers des barrières, puis un chemin de terre en descente jusqu'à la rampe.",
+            "en": "Through barriers, then down a dirt path to the ramp."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Rampe de terre en descente, au-dessus d'une route de canyon.",
+            "en": "Downhill dirt ramp over a canyon road."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Ron Alternates Wind Farm",
+          "hint": {
+            "fr": "Route sans issue à l'ouest des éoliennes, au-dessus du train jusqu'à l'autoroute.",
+            "en": "Dead-end road west of the wind farm, over the railway onto the freeway."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Glissière cassée sur l'autoroute vers le sud, atterrissage sous le pont.",
+            "en": "Broken guardrail on the southbound freeway, landing under the overpass."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Du haut d'une falaise jusque dans la prison (donne des étoiles).",
+            "en": "Off a clifftop into the prison (gives a wanted level)."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Vers le nord par-dessus des rochers, au sud de l'aérodrome de Sandy Shores.",
+            "en": "North over rocks, south of Sandy Shores Airfield."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Sandy Shores",
+          "hint": {
+            "fr": "Rampe de ferraille près d'un motel abandonné, vers l'ouest.",
+            "en": "Scrap metal ramp by a derelict motel, heading west."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Alamo Sea",
+          "hint": {
+            "fr": "Butte naturelle côté lac de la route, vers l'ouest.",
+            "en": "Natural rise on the lake side of the road, heading west."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Raton Canyon",
+          "hint": {
+            "fr": "Rocher à droite de la route du col, au-dessus du ravin.",
+            "en": "Rock on the right of the pass road, over the ravine."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Trou dans un pont en bois cassé, au bord de mer.",
+            "en": "Gap in a broken wooden bridge by the sea."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Rampe de terre sur le chantier, vers le sud.",
+            "en": "Dirt ramp at the construction site, heading south."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Mount Gordo",
+          "hint": {
+            "fr": "Après une maison et des barrières, vers l'est au-dessus de l'eau, vers le phare.",
+            "en": "Past a house and barriers, east over the water toward the lighthouse."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sous-les-ponts",
+      "title": {
+        "fr": "Sous les ponts",
+        "en": "Under the bridge"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Disponible dès que tu peux piloter un avion ou un hélicoptère.",
+        "en": "Available as soon as you can fly a plane or helicopter."
+      },
+      "reward": {
+        "fr": "Avec les vols en couteau : un succès / trophée (25 ponts suffisent pour le 100 %). Pas d'argent.",
+        "en": "With the knife flights: an achievement / trophy (25 bridges are enough for 100%). No money."
+      },
+      "note": {
+        "fr": "Un hélicoptère rend tout plus facile. Plusieurs ponts se suivent : regarde les indices « à faire avec ».",
+        "en": "A helicopter makes everything easier. Several bridges come in a row: check the “pair with” hints."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "East Vinewood",
+          "hint": {
+            "fr": "Petit pont routier étroit en amont du fleuve (hélicoptère conseillé).",
+            "en": "Small, tight road bridge on the upper river (helicopter recommended)."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Mirror Park",
+          "hint": {
+            "fr": "Deuxième pont étroit juste après le n° 1 : passe les deux d'une traite.",
+            "en": "Second tight bridge right after #1: clear both in one pass."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "East Vinewood",
+          "hint": {
+            "fr": "Pont routier sur le fleuve, juste en aval du n° 2.",
+            "en": "Road bridge over the river, just downstream of #2."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Sous le grand échangeur autoroutier qui enjambe le fleuve.",
+            "en": "Under the big freeway interchange spanning the river."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Pont routier sur le canal en béton du fleuve.",
+            "en": "Road bridge over the river's concrete channel."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Pont routier juste au nord du pont autoroutier n° 7.",
+            "en": "Road bridge just north of freeway bridge #7."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Pont autoroutier au tablier très large : long passage dessous.",
+            "en": "Freeway bridge with a very wide deck: long pass underneath."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Pont routier près de l'arrivée d'un canal secondaire à l'est.",
+            "en": "Road bridge near where a side channel joins from the east."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Pont routier sur le fleuve, en descendant vers le port.",
+            "en": "Road bridge over the river, heading down toward the port."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Dernier pont routier sur le fleuve avant le port.",
+            "en": "Last road bridge over the river before the port."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Premier des quatre ponts rapprochés à l'embouchure.",
+            "en": "First of four close bridges at the river mouth."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Pont ferroviaire du groupe de quatre.",
+            "en": "Rail bridge in the group of four."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Pont routier entre le pont ferroviaire n° 12 et le n° 14.",
+            "en": "Road bridge between rail bridge #12 and #14."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Grand pont à arche rouge au-dessus du chenal du port.",
+            "en": "Large red arch bridge over the harbor channel."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Lago Zancudo",
+          "hint": {
+            "fr": "Pont de la route côtière à l'embouchure de la rivière.",
+            "en": "Coastal highway bridge at the river mouth."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Raton Canyon",
+          "hint": {
+            "fr": "Grand pont routier en arche, là où la rivière rejoint l'océan.",
+            "en": "Large highway arch bridge where the creek meets the ocean."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Cassidy Creek",
+          "hint": {
+            "fr": "Immense pont ferroviaire au-dessus du canyon.",
+            "en": "Huge rail bridge spanning the canyon."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Pont ferroviaire à la source de la rivière, près du lac : à faire avec le n° 19.",
+            "en": "Rail bridge at the river's source by the lake: pair it with #19."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Pont routier à côté du n° 18 : passe les deux d'un coup.",
+            "en": "Road bridge next to #18: take both in one pass."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "San Chianski Mountain Range",
+          "hint": {
+            "fr": "Pont ferroviaire sur un canal et une route, à l'est de Grapeseed.",
+            "en": "Rail bridge over a canal and road, east of Grapeseed."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Alamo Sea",
+          "hint": {
+            "fr": "Petit pont routier là où la rivière se jette dans le lac.",
+            "en": "Small road bridge where the creek flows into the lake."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Petit pont en bois sur une piste : étroit et facile à rater.",
+            "en": "Small wooden bridge on a dirt track: tight and easy to miss."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Great Chaparral",
+          "hint": {
+            "fr": "Pont routier au-dessus d'une piste de terre (pas d'eau dessous).",
+            "en": "Road bridge over a dirt trail (no water below)."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Ron Alternates Wind Farm",
+          "hint": {
+            "fr": "Pont du côté est du parc éolien.",
+            "en": "Bridge on the east side of the wind farm."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "Arche rocheuse naturelle sur la côte est.",
+            "en": "Natural rock arch on the east coast."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "Pont au-dessus des bretelles d'un échangeur, au nord-est du n° 27.",
+            "en": "Overpass above interchange ramps, northeast of #27."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Palomino Highlands",
+          "hint": {
+            "fr": "Pont ferroviaire au-dessus de l'autoroute : vole bas le long de l'autoroute.",
+            "en": "Rail bridge over the freeway: fly low along the freeway."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Pont suspendu vert au-dessus de l'eau du port.",
+            "en": "Green suspension bridge over the port waters."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Lago Zancudo",
+          "hint": {
+            "fr": "Pont sur la rivière, sur la route qui mène à la base militaire.",
+            "en": "Bridge over the river on the road to the military base."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Banning",
+          "hint": {
+            "fr": "Pont-levant ferroviaire très bas : reste à plat au ras de l'eau.",
+            "en": "Very low rail lift bridge: stay level and skim the water."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Banning",
+          "hint": {
+            "fr": "Pont routier juste à l'est du n° 30 : garde la même hauteur.",
+            "en": "Road bridge just east of #30: keep the same height."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Mount Chiliad",
+          "hint": {
+            "fr": "Pont ferroviaire au-dessus de la route, tout au nord.",
+            "en": "Rail bridge over the road in the far north."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Premier des sept ponts du canal, près de l'héliport de la marina.",
+            "en": "First of seven canal bridges, near the marina helipad."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Pont routier juste après le n° 33.",
+            "en": "Road bridge right after #33."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Pont ferroviaire juste après le n° 34.",
+            "en": "Rail bridge right after #34."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Large pont autoroutier sur le canal.",
+            "en": "Wide freeway bridge over the canal."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Pont routier juste après l'autoroute, en suivant le canal.",
+            "en": "Road bridge just past the freeway, following the canal."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Pont routier sur le canal, à côté de la grande salle de spectacle.",
+            "en": "Road bridge over the canal next to the big arena."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Banning",
+          "hint": {
+            "fr": "Dernier pont du canal, à l'est de la salle de spectacle, avant le port.",
+            "en": "Last canal bridge, east of the arena, before the port."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Banham Canyon",
+          "hint": {
+            "fr": "Passerelle piétonne au-dessus de la route côtière (attention à la circulation).",
+            "en": "Pedestrian footbridge over the coast road (watch the traffic)."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Lago Zancudo",
+          "hint": {
+            "fr": "Pont étroit au-dessus d'un petit ruisseau à rapides.",
+            "en": "Tight bridge over a small creek with rapids."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "Pont autoroutier au-dessus d'une sortie, près des éoliennes : avec le n° 43.",
+            "en": "Freeway bridge over an exit road near the wind farm: pair with #43."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "Pont au-dessus de la même sortie, à côté du n° 42.",
+            "en": "Bridge over the same exit road, next to #42."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Croisement de deux routes : passe sous la voie du dessus.",
+            "en": "Where two highways cross: fly under the upper road."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Pont routier au-dessus de l'autoroute, entre les bretelles.",
+            "en": "Road bridge over the freeway, between the ramps."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "San Chianski Mountain Range",
+          "hint": {
+            "fr": "Pont autoroutier sur le canal à l'est de Grapeseed, près du n° 20.",
+            "en": "Freeway bridge over the canal east of Grapeseed, near #20."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Chiliad Mountain State Wilderness",
+          "hint": {
+            "fr": "Petit pont routier au-dessus d'un ravin rocheux.",
+            "en": "Small road bridge over a rocky ravine."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Murrieta Heights",
+          "hint": {
+            "fr": "Pont au-dessus de l'autoroute, le 2e de la série 49 → 48 → 50 (attention aux lampadaires).",
+            "en": "Overpass above the freeway, 2nd of the 49 → 48 → 50 run (watch the lamp posts)."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Murrieta Heights",
+          "hint": {
+            "fr": "Pont au-dessus de l'autoroute, le 1er de la série en allant vers le sud.",
+            "en": "Overpass above the freeway, 1st of the run heading south."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Murrieta Heights",
+          "hint": {
+            "fr": "Long pont de l'échangeur, le dernier de la série.",
+            "en": "Long interchange overpass, last of the run."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vols-couteau",
+      "title": {
+        "fr": "Vols en couteau",
+        "en": "Knife flights"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Avion obligatoire : passe entre deux bâtiments en inclinant l'appareil à 90°.",
+        "en": "Plane required: fly between two buildings with the wings tilted 90°."
+      },
+      "reward": {
+        "fr": "Avec les ponts : un succès / trophée (8 vols suffisent pour le 100 %).",
+        "en": "With the bridges: an achievement / trophy (8 flights are enough for 100%)."
+      },
+      "note": {
+        "fr": "Un petit avion de voltige est le plus maniable.",
+        "en": "A small stunt plane is the easiest to handle."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Entre les deux tours d'hôtel, côté terre.",
+            "en": "Between the two hotel towers, inland side."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Little Seoul",
+          "hint": {
+            "fr": "Passage étroit entre deux tours identiques.",
+            "en": "Tight squeeze between two matching towers."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "À côté d'une tour résidentielle : le même passage valide le n° 4.",
+            "en": "Beside a residential tower: the same pass clears #4."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "Au bord de la place, à côté d'une tour de banque (même passage que le n° 3).",
+            "en": "At the plaza edge beside a bank tower (same pass as #3)."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Bas, dans une rue étroite, juste au nord des studios de cinéma.",
+            "en": "Low down a narrow street, just north of the film studio."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Entre un hôtel de luxe et l'immeuble d'une chaîne de télé.",
+            "en": "Between a luxury hotel and a TV network building."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "West Vinewood",
+          "hint": {
+            "fr": "Au-dessus du boulevard, à côté du passage n° 8.",
+            "en": "Across the boulevard, next to gap #8."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Entre les grandes tours résidentielles et le long bâtiment au sud.",
+            "en": "Between the tall residential towers and the long building to the south."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Downtown Vinewood",
+          "hint": {
+            "fr": "Dans une ruelle étroite nord-sud entre deux blocs.",
+            "en": "Down a narrow north-south alley between two blocks."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Hawick",
+          "hint": {
+            "fr": "Entre deux grands immeubles collés, à l'est de l'avenue.",
+            "en": "Between two adjoining tall blocks east of the avenue."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Entre les sièges de deux agences fédérales : vire à 90°.",
+            "en": "Between two federal agency headquarters: roll 90°."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Entre un grand bloc et une tour arrondie : le même passage valide le n° 13.",
+            "en": "Between a big block and a rounded tower: the same pass clears #13."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Le long du bord est d'un grand bloc en L (même passage que le n° 12).",
+            "en": "Along the east edge of a large L-shaped block (same pass as #12)."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Au carrefour au sud-est d'un grand bloc : le même passage valide le n° 15.",
+            "en": "At the junction southeast of a big block: the same pass clears #15."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "En remontant la rue entre deux blocs (même passage que le n° 14).",
+            "en": "Up the street between two blocks (same pass as #14)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosaiques-singe",
+      "title": {
+        "fr": "Mosaïques de singe",
+        "en": "Monkey mosaics"
+      },
+      "character": {
+        "fr": "Michael, Franklin ou Trevor",
+        "en": "Michael, Franklin or Trevor"
+      },
+      "unlock": {
+        "fr": "Uniquement sur PS4, Xbox One, PC et plus récent, après la première mission. Prends chaque mosaïque en photo avec le téléphone, en entier dans le cadre.",
+        "en": "PS4, Xbox One, PC and later only, after the first mission. Photograph each mosaic with the phone, fully in frame."
+      },
+      "reward": {
+        "fr": "Des tenues de singe pour Trevor.",
+        "en": "Monkey outfits for Trevor."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Strawberry",
+          "hint": {
+            "fr": "Peint à la bombe, au bout d'une ruelle entre l'autoroute et sa bretelle.",
+            "en": "Spray-painted, at the end of an alley between the freeway and its off-ramp."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Murrieta Heights",
+          "hint": {
+            "fr": "Mur couvert de graffitis sous l'échangeur.",
+            "en": "Graffiti-covered wall below the interchange."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Strawberry",
+          "hint": {
+            "fr": "Dans le campement de sans-abri sous l'autoroute, près du n° 1.",
+            "en": "In the homeless camp under the freeway, next to #1."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "West Vinewood",
+          "hint": {
+            "fr": "Au-dessus de la vitrine d'une boutique de BD.",
+            "en": "Above a comic book store front."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Sur le côté de l'escalier qui mène à la passerelle piétonne.",
+            "en": "Side of the stairway leading to the footbridge."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Tataviam Mountains",
+          "hint": {
+            "fr": "À l'arrière de la supérette de l'aire pour routiers.",
+            "en": "Back of the truck stop convenience store."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Zancudo River",
+          "hint": {
+            "fr": "Derrière les boutiques de la route 68, à l'est de la base militaire.",
+            "en": "Behind the Route 68 shops, east of the military base."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Rancho",
+          "hint": {
+            "fr": "Muret près d'un restaurant et d'un panneau publicitaire.",
+            "en": "Low wall by a diner and a billboard."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Mirror Park",
+          "hint": {
+            "fr": "Toilettes publiques au bord du lac.",
+            "en": "Public restrooms by the lake."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Pilier d'un mur près d'une sortie d'autoroute.",
+            "en": "Wall pillar by a freeway exit."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Grapeseed",
+          "hint": {
+            "fr": "Derrière le bâtiment en face de la station-service, au nord-ouest.",
+            "en": "Behind the building across from the gas station, northwest."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Sandy Shores",
+          "hint": {
+            "fr": "Chambre la plus à l'ouest, à l'étage du motel.",
+            "en": "Westernmost upstairs room of the motel."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Downtown Vinewood",
+          "hint": {
+            "fr": "Mur latéral d'une boutique : prends de la hauteur pour la photo.",
+            "en": "Side wall of a shop: get some height for the shot."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Humane Labs and Research",
+          "hint": {
+            "fr": "Sur un pilier à l'entrée du laboratoire.",
+            "en": "On a pillar at the lab's entrance gate."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Galileo Observatory",
+          "hint": {
+            "fr": "Terrasse du toit, par l'escalier extérieur.",
+            "en": "Upper roof terrace, via the outside stairs."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Downtown Vinewood",
+          "hint": {
+            "fr": "En bas, sur le côté d'une boutique, dans l'interstice voisin.",
+            "en": "Low on the side of a shop, in the gap next to it."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Mur extérieur du local d'entretien d'un parc.",
+            "en": "Outside wall of a park maintenance building."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Del Perro Beach",
+          "hint": {
+            "fr": "Sur le côté d'un banc, niveau inférieur, au bout de la jetée.",
+            "en": "Side of a bench on the lower level, end of the pier."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "Au bout d'un conteneur sous une grue, derrière le garage de tuning.",
+            "en": "End of a container under a crane, behind the tuning garage."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Bout est du petit quai au sud de la grande salle de spectacle.",
+            "en": "East end of the small dock south of the big arena."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Grapeseed",
+          "hint": {
+            "fr": "Mur arrière du supermarché, en face des palettes.",
+            "en": "Supermarket rear wall, opposite the pallets."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Près du château d'eau de la casse (chien de garde et ouvriers hostiles).",
+            "en": "By the scrapyard water tower (guard dog and hostile workers)."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "La Mesa",
+          "hint": {
+            "fr": "Sur un wagon garé dans la gare de triage sous l'échangeur.",
+            "en": "On a parked boxcar in the rail yard under the interchange."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Vinewood",
+          "hint": {
+            "fr": "Derrière un foyer pour sans-abri, sous un pont routier.",
+            "en": "Behind a homeless shelter under an overpass."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Los Santos International Airport",
+          "hint": {
+            "fr": "En bas, à l'angle arrière d'un entrepôt au bord de l'eau.",
+            "en": "Low on the back corner of a waterfront warehouse."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Derrière le dépôt de carburant où Trevor rencontre une milice.",
+            "en": "Behind the fuel depot where Trevor meets a militia."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Rancho",
+          "hint": {
+            "fr": "Sur le toit d'un vieux théâtre, par une échelle dans la ruelle.",
+            "en": "Roof of an old theater, via an alley ladder."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Au pied du panneau de la grande salle de spectacle, derrière un buisson.",
+            "en": "At the base of the big arena's sign, behind a bush."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Del Perro",
+          "hint": {
+            "fr": "Escalier d'une entrée de métro devant une tour de banque.",
+            "en": "Subway entrance stairs in front of a bank tower."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Pillbox Hill",
+          "hint": {
+            "fr": "Derrière une jardinière, angle nord-ouest de la plus haute tour, sous la route surélevée.",
+            "en": "Behind a planter at the tallest tower's northwest corner, under the elevated road."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "North Chumash",
+          "hint": {
+            "fr": "Au pied du pilier sud d'un grand pont en arche.",
+            "en": "At the base of a large arch bridge's south support."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Derrière l'animalerie au bout d'une petite galerie marchande.",
+            "en": "Behind the pet store at the end of a small strip mall."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Sandy Shores",
+          "hint": {
+            "fr": "À l'arrière du garage voisin du barbier.",
+            "en": "Back of the garage next to the barber shop."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Cypress Flats",
+          "hint": {
+            "fr": "Sur le toit d'une ancienne brasserie, par l'escalier de secours.",
+            "en": "Roof of an old brewery, via the fire escape."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "El Burro Heights",
+          "hint": {
+            "fr": "Marches du bâtiment est de la casse, près de conteneurs rouges.",
+            "en": "Steps of the scrapyard's east building, by red containers."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Alamo Sea",
+          "hint": {
+            "fr": "Bureau fermé d'un garage abandonné, en face d'une épicerie.",
+            "en": "Closed-off office of a derelict garage, across from a liquor store."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Derrière le salon de coiffure.",
+            "en": "Behind the barber shop."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Terminal",
+          "hint": {
+            "fr": "Sur un bâtiment de livraison, à l'extrême sud-est du port.",
+            "en": "On a delivery company building, far southeast of the port."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Del Perro Beach",
+          "hint": {
+            "fr": "Sur un restaurant italien en bord de plage.",
+            "en": "On an Italian restaurant by the beach."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Richman",
+          "hint": {
+            "fr": "Près des marches d'un bâtiment de l'université, à côté du terrain de sport.",
+            "en": "By the steps of a university building, next to the sports field."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Elysian Island",
+          "hint": {
+            "fr": "Bout sud du quai, côté sud d'un grand bâtiment.",
+            "en": "South end of the pier, south side of a large building."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Derrière la pharmacie, près de la station-service et du garage.",
+            "en": "Behind the pharmacy, near the gas station and garage."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Morningwood",
+          "hint": {
+            "fr": "Sur l'enseigne du toit d'un vendeur de voitures, en face de l'armurerie.",
+            "en": "On a car dealer's roof sign, across from the gun shop."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Pacific Bluffs",
+          "hint": {
+            "fr": "Derrière des buissons, sur un petit bâtiment du cimetière derrière l'église.",
+            "en": "Behind bushes on a small building in the cemetery behind the church."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Vespucci Beach",
+          "hint": {
+            "fr": "Mur du court n° 3, aux terrains de squash.",
+            "en": "Wall of court 3 at the racquetball courts."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Rockford Hills",
+          "hint": {
+            "fr": "Banc en béton près de la fontaine, au sud du golf.",
+            "en": "Concrete bench by the fountain, south of the golf club."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Downtown Vinewood",
+          "hint": {
+            "fr": "Toit bas derrière un hôtel, par l'échelle arrière.",
+            "en": "Lower roof behind a hotel, via the rear ladder."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Burton",
+          "hint": {
+            "fr": "Toit au nord-ouest du quartier, par une échelle derrière un immeuble en brique.",
+            "en": "Rooftop in the northwest of the district, via a ladder behind a brick building."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Vespucci Canals",
+          "hint": {
+            "fr": "Petite rampe du skatepark, en bordure de Little Seoul.",
+            "en": "Small ramp in the skate park, on the edge of Little Seoul."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "La Puerta",
+          "hint": {
+            "fr": "Derrière de hauts buissons près du parking de la marina, à côté de l'héliport.",
+            "en": "Behind tall bushes by the marina parking lot, next to the helipad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "photos-animaux",
+      "title": {
+        "fr": "Photos d'animaux",
+        "en": "Wildlife photos"
+      },
+      "character": {
+        "fr": "Franklin (pour lancer le défi)",
+        "en": "Franklin (to start the challenge)"
+      },
+      "unlock": {
+        "fr": "Uniquement sur PS4, Xbox One, PC et plus récent. Termine la première mission du paparazzi avec Franklin : un e-mail donne la liste des 20 animaux. Envoie chaque photo depuis le téléphone.",
+        "en": "PS4, Xbox One, PC and later only. Finish the paparazzi's first mission with Franklin: an email lists the 20 animals. Send each photo from the phone."
+      },
+      "reward": {
+        "fr": "Un sous-marin spécial.",
+        "en": "A special submarine."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Sanglier · Sur la piste au sud-est du circuit de moto-cross. Reste immobile et laisse-le approcher.",
+            "en": "Boar · On the track southeast of the dirt bike circuit. Stand still and let it come to you."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Vespucci Canals",
+          "hint": {
+            "fr": "Border collie · Assis au coin d'une rue pendant que son maître est dans une boutique.",
+            "en": "Border Collie · Sitting on a street corner while its owner is in a shop."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "West Vinewood",
+          "hint": {
+            "fr": "Chat · Sur une allée de garage, après avoir traversé la rue.",
+            "en": "Cat · On a driveway after wandering down the street."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Buse · En vol près de la piste de terre, à la sortie est des collines.",
+            "en": "Chickenhawk · Flying near the dirt track off the eastern highway from the hills."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Cormoran · Au même endroit que la buse.",
+            "en": "Cormorant · Same spot as the chickenhawk."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Vache · Dans un champ au sud du circuit de moto-cross.",
+            "en": "Cow · In a field south of the dirt bike circuit."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Coyote · Juste au sud de l'aérodrome de Trevor. Approche discrètement, plutôt de nuit.",
+            "en": "Coyote · Just south of Trevor's airstrip. Sneak up, ideally at night."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Grand Senora Desert",
+          "hint": {
+            "fr": "Corbeau · En vol au nord de l'aérodrome de Trevor.",
+            "en": "Crow · Flying north of Trevor's airstrip."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Chiliad Mountain State Wilderness",
+          "hint": {
+            "fr": "Cerf · Dans la forêt au pied du mont Chiliad. Approche sans bruit.",
+            "en": "Deer · In the forest at the foot of Mount Chiliad. Approach quietly."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Paleto Bay",
+          "hint": {
+            "fr": "Poule · Près d'un poulailler dans un jardin.",
+            "en": "Hen · By a hen house in a back garden."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Richman",
+          "hint": {
+            "fr": "Husky · Dans le jardin d'une maison. Parfois un retriever à la place : reviens plus tard.",
+            "en": "Husky · In a house's back garden. Sometimes a retriever instead: come back later."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Tongva Hills",
+          "hint": {
+            "fr": "Puma · Monte sur un véhicule pour la photo, et prends-la avant d'être attaqué.",
+            "en": "Mountain lion · Climb onto a vehicle for the shot, and take it before you get attacked."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Great Chaparral",
+          "hint": {
+            "fr": "Cochon · Dans l'enclos d'une ferme porcine.",
+            "en": "Pig · In a pig farm's sty."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Morningwood",
+          "hint": {
+            "fr": "Caniche · Sur une boucle de rues. Caniche, carlin et westie n'apparaissent qu'un à la fois.",
+            "en": "Poodle · On a street loop. Poodle, pug and westie only appear one at a time."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Morningwood",
+          "hint": {
+            "fr": "Carlin · Même boucle de rues que le caniche.",
+            "en": "Pug · Same street loop as the poodle."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "Lapin · Dans le parc au nord de la maison de Franklin. Ne t'approche pas trop.",
+            "en": "Rabbit · In the park north of Franklin's house. Don't get too close."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Morningwood",
+          "hint": {
+            "fr": "Golden retriever · Assis dans la rue pendant que son maître regarde une vitrine.",
+            "en": "Retriever · Sitting in the street while its owner looks in a shop window."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Vinewood Hills",
+          "hint": {
+            "fr": "Rottweiler · Chez Franklin : c'est Chop, son chien.",
+            "en": "Rottweiler · At Franklin's house: it's Chop, his dog."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Del Perro Beach",
+          "hint": {
+            "fr": "Mouette · En vol autour de la jetée. Garde tes distances.",
+            "en": "Seagull · Flying around the pier. Keep your distance."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Morningwood",
+          "hint": {
+            "fr": "West highland terrier · Même boucle de rues que le caniche et le carlin.",
+            "en": "West Highland Terrier · Same street loop as the poodle and pug."
           }
         }
       ]

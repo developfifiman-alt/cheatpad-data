@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "games": [
     {
       "id": "gta6",
@@ -123,6 +123,19 @@
       ],
       "file": "games/rdr1.json",
       "accent": "#F2A541"
+    },
+    {
+      "id": "zelda-oot",
+      "name": "Zelda: Ocarina of Time",
+      "subtitle": {
+        "fr": "Les 12 chants d'ocarina sur Switch 2",
+        "en": "All 12 ocarina songs on Switch 2"
+      },
+      "platforms": [
+        "switch"
+      ],
+      "file": "games/zelda-oot.json",
+      "accent": "#EAB308"
     }
   ]
 }

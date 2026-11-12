@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-06",
   "notice": {
     "fr": "Sur console : entrer la séquence rapidement pendant le jeu (pas dans un menu). Sur PC : taper le mot directement pendant le jeu, sans ouvrir de console. Les codes désactivent les trophées/succès de la Definitive Edition, et certains ne peuvent pas être annulés : sauvegarde avant de les utiliser. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -623,6 +623,832 @@
         "armes",
         "rhino",
         "recherche-plus"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "colis-caches",
+      "title": {
+        "fr": "Colis cachés",
+        "en": "Hidden packages"
+      },
+      "character": {
+        "fr": "Claude",
+        "en": "Claude"
+      },
+      "unlock": {
+        "fr": "33 à Portland, 35 à Staunton Island, 32 à Shoreside Vale. Les îles s'ouvrent au fil de l'histoire.",
+        "en": "33 in Portland, 35 in Staunton Island, 32 in Shoreside Vale. The islands open up as the story progresses."
+      },
+      "reward": {
+        "fr": "1 000 $ par colis, une arme de plus dans les planques tous les 10 colis (pistolet, Uzi, grenades, fusil à pompe, gilet, cocktails Molotov, AK-47, sniper, M16, lance-roquettes) et 1 000 000 $ de bonus.",
+        "en": "$1,000 per package, one more weapon at the safehouses every 10 packages (pistol, Uzi, grenades, shotgun, armor, Molotovs, AK-47, sniper, M16, rocket launcher) and a $1,000,000 bonus."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Portland – Harwood",
+          "hint": {
+            "fr": "Au bout du chemin le long de l'eau, tout au nord-ouest.",
+            "en": "At the end of the waterside path, far northwest."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Portland – Harwood",
+          "hint": {
+            "fr": "Sur le toit d'une radio.",
+            "en": "On a radio station's roof."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "Sur le toit de la station-service.",
+            "en": "On the gas station roof."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "À l'intérieur d'un garage de voitures d'occasion.",
+            "en": "Inside a used car dealership."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "Dans une ruelle au sud de la station-service.",
+            "en": "In an alley south of the gas station."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "À la fenêtre d'un immeuble en ruine, plus au sud.",
+            "en": "In the window of a ruined building, further south."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "Sur un toit en pente au nord-est du quartier.",
+            "en": "On a sloped roof in the northeast of the district."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "Sur le balcon derrière la villa de Salvatore.",
+            "en": "On the balcony behind Salvatore's mansion."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "Sur la colline derrière la villa de Salvatore.",
+            "en": "On the hill behind Salvatore's mansion."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Portland – Hepburn Heights",
+          "hint": {
+            "fr": "Au centre du parc.",
+            "en": "In the middle of the park."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Portland – Hepburn Heights",
+          "hint": {
+            "fr": "Dans un cercle d'arbres derrière une cabine téléphonique.",
+            "en": "In a ring of trees behind a payphone."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Portland – Hepburn Heights",
+          "hint": {
+            "fr": "Derrière un immeuble de la cité, au nord-ouest.",
+            "en": "Behind a housing project block, northwest."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Portland – Red Light District",
+          "hint": {
+            "fr": "Sur le toit du bar de Luigi.",
+            "en": "On the roof of Luigi's bar."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Portland – Red Light District",
+          "hint": {
+            "fr": "Au bord d'un toit voisin du bar de Luigi.",
+            "en": "On the edge of a roof next to Luigi's bar."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Portland – Red Light District",
+          "hint": {
+            "fr": "Sur un toit à l'est du bar de Luigi.",
+            "en": "On a roof east of Luigi's bar."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Portland – Chinatown",
+          "hint": {
+            "fr": "Dans le métro, à côté des toilettes.",
+            "en": "In the subway, next to the restrooms."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Portland – Red Light District",
+          "hint": {
+            "fr": "Dans un immeuble vide en face de l'armurerie.",
+            "en": "In an empty building across from the gun shop."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Portland – Saint Mark's",
+          "hint": {
+            "fr": "En haut d'une ruelle.",
+            "en": "At the top of an alley."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Portland – Harwood",
+          "hint": {
+            "fr": "Dans un tunnel abandonné près du garage à bombes.",
+            "en": "In an abandoned tunnel near the bomb shop."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Portland – Chinatown",
+          "hint": {
+            "fr": "Dans une ruelle piétonne.",
+            "en": "In a pedestrian-only alley."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Portland – Chinatown",
+          "hint": {
+            "fr": "Sur le toit d'un immeuble au sud-est.",
+            "en": "On a building roof in the southeast."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Portland – Chinatown",
+          "hint": {
+            "fr": "Dans une ruelle, au sud du colis n° 20.",
+            "en": "In an alley south of package #20."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Portland – Portland View",
+          "hint": {
+            "fr": "Sur le toit du supermarché.",
+            "en": "On the supermarket roof."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Portland – Trenton",
+          "hint": {
+            "fr": "Sur un toit à l'est du garage de Joey.",
+            "en": "On a roof east of Joey's garage."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Portland – Trenton",
+          "hint": {
+            "fr": "Derrière l'usine d'aliments pour chiens.",
+            "en": "Behind the dog food factory."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Portland – Portland Harbor",
+          "hint": {
+            "fr": "Sur le toit de l'entrepôt du milieu, aux docks.",
+            "en": "On the middle warehouse roof at the docks."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Portland – Trenton",
+          "hint": {
+            "fr": "Contre une clôture en face du garage de Joey.",
+            "en": "By a fence across from Joey's garage."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Portland – Trenton",
+          "hint": {
+            "fr": "Contre un mur au sud-ouest du garage de Joey.",
+            "en": "By a wall southwest of Joey's garage."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Portland – Callahan Point",
+          "hint": {
+            "fr": "Contre un mur au sud du pont Callahan.",
+            "en": "By a wall south of Callahan Bridge."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Portland – Atlantic Quays",
+          "hint": {
+            "fr": "Sur les toits de la scierie.",
+            "en": "On the sawmill rooftops."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Portland – Atlantic Quays",
+          "hint": {
+            "fr": "Au bout de la jetée est.",
+            "en": "At the end of the east pier."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Portland – Callahan Point",
+          "hint": {
+            "fr": "À l'intérieur de l'usine de poisson.",
+            "en": "Inside the fish factory."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Portland",
+          "hint": {
+            "fr": "Sur un rocher en mer, au sud de Portland.",
+            "en": "On a rock out at sea, south of Portland."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Staunton Island – Rockford",
+          "hint": {
+            "fr": "Derrière le surplus militaire.",
+            "en": "Behind the army surplus store."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Staunton Island – Aspatria",
+          "hint": {
+            "fr": "Derrière les panneaux publicitaires, derrière le stade.",
+            "en": "Behind the billboards behind the stadium."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Staunton Island – Rockford",
+          "hint": {
+            "fr": "Sur le toit bas de l'hôpital.",
+            "en": "On the hospital's lower roof."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Staunton Island – Aspatria",
+          "hint": {
+            "fr": "Sur les marches à l'avant du stade.",
+            "en": "On the stadium's front steps."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Staunton Island – Liberty Campus",
+          "hint": {
+            "fr": "Derrière le bâtiment est de l'université.",
+            "en": "Behind the university's east building."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Staunton Island – Fort Staunton",
+          "hint": {
+            "fr": "Dans le garage du quartier des cartels.",
+            "en": "In the garage of the cartel compound."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Staunton Island – Fort Staunton",
+          "hint": {
+            "fr": "Au rez-de-chaussée du chantier.",
+            "en": "On the construction site's ground floor."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Staunton Island – Fort Staunton",
+          "hint": {
+            "fr": "À l'étage nord du chantier.",
+            "en": "On the construction site's upper north floor."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Staunton Island – Fort Staunton",
+          "hint": {
+            "fr": "Sur les poutres du pont en arc, à l'est du chantier.",
+            "en": "On the arched bridge beams east of the site."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Staunton Island – Newport",
+          "hint": {
+            "fr": "Dans un garage ouvert près du Pay 'n' Spray.",
+            "en": "In an open garage near Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Staunton Island – Newport",
+          "hint": {
+            "fr": "Au 1er niveau d'un parking à étages, dans un coin.",
+            "en": "In a corner on the first level of a multistorey car park."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Staunton Island – Newport",
+          "hint": {
+            "fr": "Dans une ruelle à l'ouest de la planque.",
+            "en": "In an alley west of the safehouse."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Staunton Island – Newport",
+          "hint": {
+            "fr": "Sur le toit d'un immeuble d'angle près de la planque.",
+            "en": "On a corner building roof near the safehouse."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Staunton Island – Belleville Park",
+          "hint": {
+            "fr": "Dans le passage sous la rampe en spirale.",
+            "en": "In the underpass beneath the spiral ramp."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Staunton Island – Belleville Park",
+          "hint": {
+            "fr": "Sur le terrain de basket du parc.",
+            "en": "On the park's basketball court."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Staunton Island – Belleville Park",
+          "hint": {
+            "fr": "Sous le pont du parc.",
+            "en": "Under the park bridge."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Sur une jetée au sud d'un immeuble de luxe.",
+            "en": "On a pier south of a luxury condo."
+          }
+        },
+        {
+          "id": "51",
+          "zone": "Staunton Island – Newport",
+          "hint": {
+            "fr": "Dans une ruelle à l'est du cybercafé.",
+            "en": "In an alley east of the internet café."
+          }
+        },
+        {
+          "id": "52",
+          "zone": "Staunton Island – Newport",
+          "hint": {
+            "fr": "Sur les marches d'entrée d'un musée.",
+            "en": "On a museum's entrance steps."
+          }
+        },
+        {
+          "id": "53",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Sur le parking arrière du commissariat.",
+            "en": "In the police station's rear parking lot."
+          }
+        },
+        {
+          "id": "54",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Dans une ruelle à l'est du commissariat.",
+            "en": "In an alley east of the police station."
+          }
+        },
+        {
+          "id": "55",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Sur la jetée est la plus au sud.",
+            "en": "On the southernmost east pier."
+          }
+        },
+        {
+          "id": "56",
+          "zone": "Staunton Island – Bedford Point",
+          "hint": {
+            "fr": "À côté de l'église.",
+            "en": "Next to the church."
+          }
+        },
+        {
+          "id": "57",
+          "zone": "Staunton Island – Bedford Point",
+          "hint": {
+            "fr": "Dans une ruelle à côté du dojo.",
+            "en": "In an alley next to the dojo."
+          }
+        },
+        {
+          "id": "58",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Près de l'ascenseur d'un parking souterrain de bureaux.",
+            "en": "By the elevator of an office building's underground parking."
+          }
+        },
+        {
+          "id": "59",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Au bord du toit d'une tour de bureaux, au sud-ouest.",
+            "en": "On the southwest roof edge of an office tower."
+          }
+        },
+        {
+          "id": "60",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Dans un immeuble vitré en face de la tour de bureaux.",
+            "en": "In a glass building across from the office tower."
+          }
+        },
+        {
+          "id": "61",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Sur l'héliport du toit du casino.",
+            "en": "On the casino's rooftop helipad."
+          }
+        },
+        {
+          "id": "62",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Dans un espace en contrebas derrière une sculpture.",
+            "en": "In a sunken area behind a sculpture."
+          }
+        },
+        {
+          "id": "63",
+          "zone": "Staunton Island – Torrington",
+          "hint": {
+            "fr": "Sur une passerelle à l'ouest de la sculpture.",
+            "en": "On a footbridge west of the sculpture."
+          }
+        },
+        {
+          "id": "64",
+          "zone": "Staunton Island – Bedford Point",
+          "hint": {
+            "fr": "Dans un parking souterrain.",
+            "en": "In an underground car park."
+          }
+        },
+        {
+          "id": "65",
+          "zone": "Staunton Island – Bedford Point",
+          "hint": {
+            "fr": "Sur un toit près de l'escalier d'un parking.",
+            "en": "On a roof by a car park staircase."
+          }
+        },
+        {
+          "id": "66",
+          "zone": "Staunton Island – Bedford Point",
+          "hint": {
+            "fr": "Sur un parking extérieur près des bennes.",
+            "en": "In an outdoor parking lot by the dumpsters."
+          }
+        },
+        {
+          "id": "67",
+          "zone": "Staunton Island – Bedford Point",
+          "hint": {
+            "fr": "Dans un recoin à l'ouest de l'entrée d'un parking.",
+            "en": "In a nook west of a car park entrance."
+          }
+        },
+        {
+          "id": "68",
+          "zone": "Staunton Island – Bedford Point",
+          "hint": {
+            "fr": "Sur une jetée au sud-ouest, derrière des rochers.",
+            "en": "On a southwest pier behind some rocks."
+          }
+        },
+        {
+          "id": "69",
+          "zone": {
+            "fr": "Shoreside Vale – pont levant",
+            "en": "Shoreside Vale – lift bridge"
+          },
+          "hint": {
+            "fr": "Au milieu du pont, sur la partie qui se soulève.",
+            "en": "Mid-bridge, on the lifting section."
+          }
+        },
+        {
+          "id": "70",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "Derrière un panneau publicitaire de radio.",
+            "en": "Behind a radio billboard."
+          }
+        },
+        {
+          "id": "71",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "Au fond de l'escalier du métro de l'aéroport.",
+            "en": "At the far stairs of the airport subway."
+          }
+        },
+        {
+          "id": "72",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "À côté du camion de pompiers, sur le parking de l'aéroport.",
+            "en": "Next to the fire truck in the airport parking lot."
+          }
+        },
+        {
+          "id": "73",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "À l'ouest du terminal.",
+            "en": "West of the terminal."
+          }
+        },
+        {
+          "id": "74",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "Sous l'aile d'un avion, dans la zone des hangars.",
+            "en": "Under a plane wing in the hangar area."
+          }
+        },
+        {
+          "id": "75",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "Sous la queue d'un avion, au sud-ouest.",
+            "en": "Under a plane tail, southwest."
+          }
+        },
+        {
+          "id": "76",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "Sur l'héliport sud-ouest de l'aéroport.",
+            "en": "On the airport's southwest helipad."
+          }
+        },
+        {
+          "id": "77",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "Près d'une rampe au sud de l'héliport.",
+            "en": "By a ramp south of the helipad."
+          }
+        },
+        {
+          "id": "78",
+          "zone": "Shoreside Vale – Francis Intl. Airport",
+          "hint": {
+            "fr": "Au bout de la piste principale.",
+            "en": "At the far end of the main runway."
+          }
+        },
+        {
+          "id": "79",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "Sous une rampe en bois, sur une piste de terre.",
+            "en": "Under a wooden ramp on a dirt track."
+          }
+        },
+        {
+          "id": "80",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "Sur le toit d'une usine de poisson.",
+            "en": "On a fish factory roof."
+          }
+        },
+        {
+          "id": "81",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "Derrière le mur est de l'usine de poisson.",
+            "en": "Behind the fish factory's east wall."
+          }
+        },
+        {
+          "id": "82",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "Sur le parking derrière l'hôpital.",
+            "en": "In the parking lot behind the hospital."
+          }
+        },
+        {
+          "id": "83",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "Dans un conteneur au nord de l'hôpital.",
+            "en": "In a container north of the hospital."
+          }
+        },
+        {
+          "id": "84",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "Sur le toit d'un garage derrière le commissariat.",
+            "en": "On a garage roof behind the police station."
+          }
+        },
+        {
+          "id": "85",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "À l'est de la clôture d'une usine pharmaceutique.",
+            "en": "East of a pharmaceutical plant's fence."
+          }
+        },
+        {
+          "id": "86",
+          "zone": "Shoreside Vale – Pike Creek",
+          "hint": {
+            "fr": "Derrière le garage d'import-export.",
+            "en": "Behind the import/export garage."
+          }
+        },
+        {
+          "id": "87",
+          "zone": "Shoreside Vale – Cochrane Dam",
+          "hint": {
+            "fr": "Derrière le dôme ouest du barrage.",
+            "en": "Behind the dam's west dome."
+          }
+        },
+        {
+          "id": "88",
+          "zone": "Shoreside Vale – Cochrane Dam",
+          "hint": {
+            "fr": "Derrière le dôme est du barrage.",
+            "en": "Behind the dam's east dome."
+          }
+        },
+        {
+          "id": "89",
+          "zone": "Shoreside Vale – Cochrane Dam",
+          "hint": {
+            "fr": "En bas du barrage, au premier escalier à droite.",
+            "en": "At the bottom of the dam, first stairs on the right."
+          }
+        },
+        {
+          "id": "90",
+          "zone": "Shoreside Vale – Cochrane Dam",
+          "hint": {
+            "fr": "Sur le toit du bâtiment du barrage.",
+            "en": "On the dam building's roof."
+          }
+        },
+        {
+          "id": "91",
+          "zone": "Shoreside Vale – Cochrane Dam",
+          "hint": {
+            "fr": "Dans l'herbe devant le barrage.",
+            "en": "On the grass in front of the dam."
+          }
+        },
+        {
+          "id": "92",
+          "zone": "Shoreside Vale – Cedar Grove",
+          "hint": {
+            "fr": "Dans le jardin de la première villa.",
+            "en": "In the backyard of the first mansion."
+          }
+        },
+        {
+          "id": "93",
+          "zone": "Shoreside Vale – Cedar Grove",
+          "hint": {
+            "fr": "Sur le porche arrière de la deuxième villa.",
+            "en": "On the back porch of the second mansion."
+          }
+        },
+        {
+          "id": "94",
+          "zone": "Shoreside Vale – Cedar Grove",
+          "hint": {
+            "fr": "Sur le porche avant de la troisième villa.",
+            "en": "On the front porch of the third mansion."
+          }
+        },
+        {
+          "id": "95",
+          "zone": "Shoreside Vale – Cedar Grove",
+          "hint": {
+            "fr": "Dans la piscine vide de la villa des cartels.",
+            "en": "In the empty pool of the cartel mansion."
+          }
+        },
+        {
+          "id": "96",
+          "zone": "Shoreside Vale – Wichita Gardens",
+          "hint": {
+            "fr": "Sur une aire de pique-nique au nord-est.",
+            "en": "At a picnic area in the northeast."
+          }
+        },
+        {
+          "id": "97",
+          "zone": "Shoreside Vale – Wichita Gardens",
+          "hint": {
+            "fr": "Entre deux immeubles au sud.",
+            "en": "Between two buildings in the south."
+          }
+        },
+        {
+          "id": "98",
+          "zone": "Shoreside Vale – Wichita Gardens",
+          "hint": {
+            "fr": "Devant des immeubles au nord-ouest.",
+            "en": "In front of apartment blocks in the northwest."
+          }
+        },
+        {
+          "id": "99",
+          "zone": "Shoreside Vale – Wichita Gardens",
+          "hint": {
+            "fr": "À côté d'une camionnette de jouets, derrière la planque.",
+            "en": "Next to a toy van behind the safehouse."
+          }
+        },
+        {
+          "id": "100",
+          "zone": "Shoreside Vale – Wichita Gardens",
+          "hint": {
+            "fr": "Sur un chemin piéton dans le tunnel sous la route.",
+            "en": "On a footpath in the tunnel under the road."
+          }
+        }
       ]
     }
   ]

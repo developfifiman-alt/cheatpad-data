@@ -1,0 +1,358 @@
+{
+  "version": 1,
+  "updated": "2026-11-12",
+  "notice": {
+    "fr": "Ce jeu n'a pas de codes de triche : CheatPad te guide pour jouer les 12 chants d'ocarina, note par note. Sors l'ocarina dans le jeu, puis suis le mode guidé. Version Nintendo Switch 2 (2026) : quelques détails peuvent différer de la version Nintendo 64. Guide non officiel, non affilié à Nintendo.",
+    "en": "This game has no cheat codes: CheatPad guides you through the 12 ocarina songs, note by note. Take out the ocarina in the game, then follow guided mode. Nintendo Switch 2 version (2026): some details may differ from the Nintendo 64 version. Unofficial guide, not affiliated with Nintendo."
+  },
+  "categories": [
+    {
+      "id": "enfant",
+      "name": {
+        "fr": "Chants (Link enfant)",
+        "en": "Songs (young Link)"
+      }
+    },
+    {
+      "id": "adulte",
+      "name": {
+        "fr": "Téléportation (Link adulte)",
+        "en": "Warp songs (adult Link)"
+      }
+    }
+  ],
+  "codes": [
+    {
+      "id": "berceuse-zelda",
+      "title": {
+        "fr": "Berceuse de Zelda",
+        "en": "Zelda's Lullaby"
+      },
+      "description": {
+        "fr": "Prouve ton lien avec la famille royale : ouvre les portes et active les dalles marquées de la Triforce.",
+        "en": "Proves your bond with the royal family: opens doors and activates Triforce-marked tiles."
+      },
+      "category": "enfant",
+      "buttons": [
+        "CARRE",
+        "TRIANGLE",
+        "ROND",
+        "CARRE",
+        "TRIANGLE",
+        "ROND"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Enseignée par Impa après ta rencontre avec la princesse au château d'Hyrule.",
+        "en": "Where to learn it: Taught by Impa after you meet the princess at Hyrule Castle."
+      },
+      "verified": true
+    },
+    {
+      "id": "chant-epona",
+      "title": {
+        "fr": "Chant d'Epona",
+        "en": "Epona's Song"
+      },
+      "description": {
+        "fr": "Appelle ta jument une fois adulte, et fait donner du lait aux vaches.",
+        "en": "Calls your horse as an adult, and makes cows give milk."
+      },
+      "category": "enfant",
+      "buttons": [
+        "TRIANGLE",
+        "CARRE",
+        "ROND",
+        "TRIANGLE",
+        "CARRE",
+        "ROND"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Joue de l'ocarina devant Malon au ranch Lon Lon.",
+        "en": "Where to learn it: Play your ocarina in front of Malon at Lon Lon Ranch."
+      },
+      "verified": true
+    },
+    {
+      "id": "chant-saria",
+      "title": {
+        "fr": "Chant de Saria",
+        "en": "Saria's Song"
+      },
+      "description": {
+        "fr": "Te permet de parler à Saria à distance, et sert à amadouer un certain chef Goron.",
+        "en": "Lets you talk to Saria from afar, and helps win over a certain Goron chief."
+      },
+      "category": "enfant",
+      "buttons": [
+        "R1",
+        "ROND",
+        "CARRE",
+        "R1",
+        "ROND",
+        "CARRE"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Retrouve Saria au Bosquet sacré, au-delà des Bois perdus.",
+        "en": "Where to learn it: Find Saria in the Sacred Forest Meadow, beyond the Lost Woods."
+      },
+      "verified": true
+    },
+    {
+      "id": "chant-soleil",
+      "title": {
+        "fr": "Chant du Soleil",
+        "en": "Sun's Song"
+      },
+      "description": {
+        "fr": "Fait passer du jour à la nuit (et inversement) et paralyse certains morts-vivants.",
+        "en": "Switches between day and night and freezes some undead enemies."
+      },
+      "category": "enfant",
+      "buttons": [
+        "ROND",
+        "R1",
+        "TRIANGLE",
+        "ROND",
+        "R1",
+        "TRIANGLE"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Ouvre la tombe royale du cimetière de Cocorico avec la Berceuse de Zelda, puis lis l'inscription.",
+        "en": "Where to learn it: Open the royal tomb in Kakariko Graveyard with Zelda's Lullaby, then read the inscription."
+      },
+      "verified": true
+    },
+    {
+      "id": "chant-temps",
+      "title": {
+        "fr": "Chant du Temps",
+        "en": "Song of Time"
+      },
+      "description": {
+        "fr": "Ouvre la Porte du Temps et fait apparaître ou disparaître les blocs du temps.",
+        "en": "Opens the Door of Time and makes time blocks appear or vanish."
+      },
+      "category": "enfant",
+      "buttons": [
+        "ROND",
+        "L1",
+        "R1",
+        "ROND",
+        "L1",
+        "R1"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Après avoir réuni les trois pierres ancestrales, en revenant vers la ville du château.",
+        "en": "Where to learn it: After gathering the three Spiritual Stones, on your way back to Castle Town."
+      },
+      "verified": true
+    },
+    {
+      "id": "chant-tempetes",
+      "title": {
+        "fr": "Chant des Tempêtes",
+        "en": "Song of Storms"
+      },
+      "description": {
+        "fr": "Fait tomber la pluie et ouvre certains passages et grottes cachés.",
+        "en": "Makes it rain and opens some hidden passages and grottos."
+      },
+      "category": "enfant",
+      "buttons": [
+        "L1",
+        "R1",
+        "TRIANGLE",
+        "L1",
+        "R1",
+        "TRIANGLE"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Une fois adulte, joue de l'ocarina devant le musicien du moulin de Cocorico.",
+        "en": "Where to learn it: As an adult, play your ocarina in front of the musician in the Kakariko windmill."
+      },
+      "verified": true
+    },
+    {
+      "id": "menuet-bois",
+      "title": {
+        "fr": "Menuet des Bois",
+        "en": "Minuet of Forest"
+      },
+      "description": {
+        "fr": "Téléporte au Bosquet sacré, près du Temple de la Forêt.",
+        "en": "Warps you to the Sacred Forest Meadow, near the Forest Temple."
+      },
+      "category": "adulte",
+      "buttons": [
+        "L1",
+        "TRIANGLE",
+        "CARRE",
+        "ROND",
+        "CARRE",
+        "ROND"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Enseigné par Sheik au Bosquet sacré.",
+        "en": "Where to learn it: Taught by Sheik in the Sacred Forest Meadow."
+      },
+      "verified": true
+    },
+    {
+      "id": "bolero-feu",
+      "title": {
+        "fr": "Boléro du Feu",
+        "en": "Bolero of Fire"
+      },
+      "description": {
+        "fr": "Téléporte au cratère du Mont du Péril, près du Temple du Feu.",
+        "en": "Warps you to Death Mountain Crater, near the Fire Temple."
+      },
+      "category": "adulte",
+      "buttons": [
+        "R1",
+        "L1",
+        "R1",
+        "L1",
+        "ROND",
+        "R1",
+        "ROND",
+        "R1"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Enseigné par Sheik dans le cratère, après le pont cassé.",
+        "en": "Where to learn it: Taught by Sheik in the crater, past the broken bridge."
+      },
+      "verified": true
+    },
+    {
+      "id": "serenade-eau",
+      "title": {
+        "fr": "Sérénade de l'Eau",
+        "en": "Serenade of Water"
+      },
+      "description": {
+        "fr": "Téléporte au lac Hylia, près du Temple de l'Eau.",
+        "en": "Warps you to Lake Hylia, near the Water Temple."
+      },
+      "category": "adulte",
+      "buttons": [
+        "L1",
+        "R1",
+        "ROND",
+        "ROND",
+        "CARRE"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Enseigné par Sheik dans la Caverne Polaire, au moment où tu obtiens les bottes de plomb.",
+        "en": "Where to learn it: Taught by Sheik in the Ice Cavern, when you get the Iron Boots."
+      },
+      "verified": true
+    },
+    {
+      "id": "nocturne-ombre",
+      "title": {
+        "fr": "Nocturne de l'Ombre",
+        "en": "Nocturne of Shadow"
+      },
+      "description": {
+        "fr": "Téléporte au cimetière de Cocorico, près du Temple de l'Ombre.",
+        "en": "Warps you to Kakariko Graveyard, near the Shadow Temple."
+      },
+      "category": "adulte",
+      "buttons": [
+        "CARRE",
+        "ROND",
+        "ROND",
+        "L1",
+        "CARRE",
+        "ROND",
+        "R1"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : En revenant à Cocorico après les temples de la Forêt, du Feu et de l'Eau.",
+        "en": "Where to learn it: When you return to Kakariko after the Forest, Fire and Water Temples."
+      },
+      "verified": true
+    },
+    {
+      "id": "requiem-esprits",
+      "title": {
+        "fr": "Requiem des Esprits",
+        "en": "Requiem of Spirit"
+      },
+      "description": {
+        "fr": "Téléporte au Colosse du désert, devant le Temple de l'Esprit.",
+        "en": "Warps you to the Desert Colossus, in front of the Spirit Temple."
+      },
+      "category": "adulte",
+      "buttons": [
+        "L1",
+        "R1",
+        "L1",
+        "ROND",
+        "R1",
+        "L1"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Enseigné par Sheik en ressortant du Temple de l'Esprit, au Colosse du désert.",
+        "en": "Where to learn it: Taught by Sheik as you leave the Spirit Temple, at the Desert Colossus."
+      },
+      "verified": true
+    },
+    {
+      "id": "prelude-lumiere",
+      "title": {
+        "fr": "Prélude de la Lumière",
+        "en": "Prelude of Light"
+      },
+      "description": {
+        "fr": "Téléporte au Temple du Temps.",
+        "en": "Warps you to the Temple of Time."
+      },
+      "category": "adulte",
+      "buttons": [
+        "TRIANGLE",
+        "ROND",
+        "TRIANGLE",
+        "ROND",
+        "CARRE",
+        "TRIANGLE"
+      ],
+      "notes": {
+        "fr": "Où l'apprendre : Enseigné par Sheik en revenant au piédestal de l'épée, après le Temple de la Forêt.",
+        "en": "Where to learn it: Taught by Sheik when you return to the sword's pedestal after the Forest Temple."
+      },
+      "verified": true
+    }
+  ],
+  "tips": [
+    {
+      "id": "micro",
+      "title": {
+        "fr": "Jouer en fredonnant",
+        "en": "Play by humming"
+      },
+      "body": {
+        "fr": "Sur Switch 2, tu peux aussi fredonner (ou jouer d'un instrument) dans le micro de la console : le jeu reconnaît les mélodies que tu as déjà apprises. Les boutons restent disponibles.",
+        "en": "On Switch 2, you can also hum (or play an instrument) into the console's microphone: the game recognizes melodies you've already learned. Buttons still work."
+      }
+    },
+    {
+      "id": "epouvantail",
+      "title": {
+        "fr": "Le chant de l'Épouvantail",
+        "en": "The Scarecrow's Song"
+      },
+      "mission": {
+        "fr": "Lac Hylia",
+        "en": "Lake Hylia"
+      },
+      "body": {
+        "fr": "Ce 13e chant est celui que tu inventes. Enfant, au lac Hylia, joue à l'épouvantail une mélodie de 8 notes avec au moins deux notes différentes. Une fois adulte, rejoue-la-lui : elle fera apparaître un épouvantail sur lequel t'accrocher avec le grappin. Note-la bien, il faudra la rejouer à l'identique.",
+        "en": "This 13th song is one you make up. As a child at Lake Hylia, play the scarecrow an 8-note melody using at least two different notes. As an adult, play it again: it will make a scarecrow appear that you can grab with the hookshot. Write it down, you'll need to replay it exactly."
+      }
+    }
+  ],
+  "packs": [],
+  "collections": []
+}

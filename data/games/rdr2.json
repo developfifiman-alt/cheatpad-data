@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-04",
   "notice": {
     "fr": "Mode histoire uniquement. Pour saisir un code : Pause → Réglages → Triches (bouton Triangle / Y), puis entrer la phrase exactement, ponctuation comprise, et activer le code. Certains codes doivent d'abord être débloqués en achetant des journaux (voir la fiche). Activer un code désactive la sauvegarde et les trophées/succès tant qu'il est actif. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -650,6 +650,555 @@
         "carte",
         "tenues",
         "recettes"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "os-dinosaure",
+      "title": {
+        "fr": "Os de dinosaure",
+        "en": "Dinosaur bones"
+      },
+      "character": {
+        "fr": "Arthur, puis John (épilogue) pour ceux de New Austin",
+        "en": "Arthur, then John (epilogue) for the New Austin ones"
+      },
+      "unlock": {
+        "fr": "Parler à la paléontologue au nord-est de Flatneck Station. Envoie ensuite les coordonnées de chaque os depuis un bureau de poste.",
+        "en": "Talk to the paleontologist northeast of Flatneck Station. Then mail each bone's coordinates from a post office."
+      },
+      "reward": {
+        "fr": "Des objets à 1 et 15 os, puis un couteau unique pour les 30.",
+        "en": "Items at 1 and 15 bones, then a unique knife for all 30."
+      },
+      "note": {
+        "fr": "Les os n° 23 à 30 sont à New Austin : récupère-les avec John pendant l'épilogue.",
+        "en": "Bones #23 to 30 are in New Austin: collect them as John during the epilogue."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Roanoke Ridge",
+          "hint": {
+            "fr": "En haut de la falaise qui domine la cascade de Brandywine Drop.",
+            "en": "On the clifftop above the Brandywine Drop waterfall."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Roanoke Ridge",
+          "hint": {
+            "fr": "Dans une clairière au nord-ouest de Van Horn.",
+            "en": "In a clearing northwest of Van Horn."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Roanoke Ridge",
+          "hint": {
+            "fr": "Sur un plateau au-dessus de la rivière Kamassa.",
+            "en": "On a plateau above the Kamassa River."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Roanoke Ridge",
+          "hint": {
+            "fr": "Sur un plateau rocheux près du pont ferroviaire.",
+            "en": "On a rocky plateau near the railway bridge."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Sur une colline herbeuse près de Fairvale Shanty.",
+            "en": "On a grassy hilltop near Fairvale Shanty."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Sur un rocher en forme de pyramide au-dessus d'O'Creagh's Run.",
+            "en": "On a pyramid-shaped rock above O'Creagh's Run."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Par terre près d'une cabane abandonnée, au nord.",
+            "en": "On the ground near an abandoned hut in the north."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Près d'un affleurement rouge, vers Calumet Ravine.",
+            "en": "By a red rock outcrop near Calumet Ravine."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Cumberland Forest",
+          "hint": {
+            "fr": "Sur une colline au sud-ouest de Bacchus Station.",
+            "en": "On a hilltop southwest of Bacchus Station."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Sur une petite corniche au-dessus de la Dakota River.",
+            "en": "On a small ledge above the Dakota River."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Cumberland Forest",
+          "hint": {
+            "fr": "Au bord d'une falaise, au sud-ouest de Six Point Cabin.",
+            "en": "On a cliff edge southwest of Six Point Cabin."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Contre une paroi rocheuse, sur une colline à l'ouest.",
+            "en": "Against a rock wall on a western hilltop."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "En haut d'une falaise qui domine la Dakota River.",
+            "en": "On a clifftop overlooking the Dakota River."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Au pied d'une falaise, à l'est de Valentine.",
+            "en": "At the foot of a cliff east of Valentine."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Dans un creux sous la plateforme d'un derrick (descendre par l'échelle).",
+            "en": "In a hollow under an oil derrick platform (go down the ladder)."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Dans le lit asséché d'une rivière, au fond d'une gorge au sud.",
+            "en": "In a dry riverbed at the bottom of a southern gorge."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Sur la terre sèche près des rochers de Dewberry Creek.",
+            "en": "On dry ground by the Dewberry Creek boulders."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Scarlett Meadows",
+          "hint": {
+            "fr": "Sur la rive sud de Dewberry Creek.",
+            "en": "On the south bank of Dewberry Creek."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Dans un champ, à l'est de la porcherie de Granger.",
+            "en": "In a field east of Granger's Hoggery."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Big Valley",
+          "hint": {
+            "fr": "Dans une grotte au nord-ouest de Wallace Station.",
+            "en": "In a cave northwest of Wallace Station."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Big Valley",
+          "hint": {
+            "fr": "Près d'un rocher en bord de sentier, au sud de Vetter's Echo.",
+            "en": "By a rock beside the trail south of Vetter's Echo."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Big Valley",
+          "hint": {
+            "fr": "Sur la route de Mount Shann, près de Beryl's Dream.",
+            "en": "On the Mount Shann road near Beryl's Dream."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Hennigan's Stead",
+          "hint": {
+            "fr": "Sur un plateau de canyon au nord-ouest de Pike's Basin.",
+            "en": "On a canyon plateau northwest of Pike's Basin."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Hennigan's Stead",
+          "hint": {
+            "fr": "Sur une butte herbeuse face à l'îlot de la San Luis River.",
+            "en": "On a grassy rise facing the San Luis River islet."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Rio Bravo",
+          "hint": {
+            "fr": "Sur le versant est de Del Lobo Rock.",
+            "en": "On the east slope of Del Lobo Rock."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Cholla Springs",
+          "hint": {
+            "fr": "Sur une colline broussailleuse à l'ouest de Jorge's Gap.",
+            "en": "On a scrubby hill west of Jorge's Gap."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Cholla Springs",
+          "hint": {
+            "fr": "Contre une paroi rocheuse au nord de Cholla Springs.",
+            "en": "Against a rock wall north of Cholla Springs."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Rio Bravo",
+          "hint": {
+            "fr": "Sur un plateau au sud de Fort Mercer.",
+            "en": "On a plateau south of Fort Mercer."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Gaptooth Ridge",
+          "hint": {
+            "fr": "Sur une mesa au nord de Tumbleweed.",
+            "en": "On a mesa north of Tumbleweed."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Gaptooth Ridge",
+          "hint": {
+            "fr": "Sur un plateau de falaise au sud de Tumbleweed.",
+            "en": "On a clifftop plateau south of Tumbleweed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "attrape-reves",
+      "title": {
+        "fr": "Attrape-rêves",
+        "en": "Dreamcatchers"
+      },
+      "character": {
+        "fr": "Arthur ou John",
+        "en": "Arthur or John"
+      },
+      "unlock": {
+        "fr": "Disponibles dès le chapitre 2. Ils sont accrochés en hauteur dans les arbres : lève les yeux.",
+        "en": "Available from Chapter 2. They hang high up in trees: look up."
+      },
+      "reward": {
+        "fr": "Une carte au trésor vers un objet qui améliore l'arc.",
+        "en": "A treasure map to an item that improves your bow."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Bluewater Marsh",
+          "hint": {
+            "fr": "Dans l'arbre à l'embranchement de la route.",
+            "en": "In the tree at the road fork."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Lonnie's Shack",
+          "hint": {
+            "fr": "Dans un érable sans feuilles, au nord-ouest de la cabane.",
+            "en": "In a leafless maple northwest of the shack."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Scarlett Meadows",
+          "hint": {
+            "fr": "Dans un grand arbre isolé, en terrain dégagé.",
+            "en": "In a big lone tree in open ground."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Dans un arbre penché, près d'un rocher plat, au nord-est.",
+            "en": "In a leaning tree by a flat rock in the northeast."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Heartland Overflow",
+          "hint": {
+            "fr": "Dans un grand arbre sans feuilles.",
+            "en": "In a large leafless tree."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Dans un arbre mort isolé, sur les collines.",
+            "en": "In a solitary dead tree on the hills."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Dakota River",
+          "hint": {
+            "fr": "Dans un arbre au bord d'un plateau, près de la rivière.",
+            "en": "In a tree at the edge of a riverside plateau."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Caliban's Seat",
+          "hint": {
+            "fr": "Dans un arbre à gauche d'un bosquet.",
+            "en": "In a tree to the left of a cluster of trees."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Au sud de Citadel Rock, dans l'arbre voisin du plus grand.",
+            "en": "South of Citadel Rock, in the tree next to the biggest one."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Au nord de Citadel Rock, à gauche du sentier, près du pont.",
+            "en": "North of Citadel Rock, left of the trail near the bridge."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Valentine",
+          "hint": {
+            "fr": "Dans un arbre sans feuilles, avec une souche devant.",
+            "en": "In a leafless tree with a stump in front."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Dans un bouquet d'arbres au sommet d'un pic enneigé.",
+            "en": "In a clump of trees on top of a snowy peak."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Dans un grand arbre derrière un tronc couché, près d'un feu de camp.",
+            "en": "In a big tree behind a fallen log, near a campfire."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Cotorra Springs",
+          "hint": {
+            "fr": "Dans un arbre à l'embranchement du sentier.",
+            "en": "In a tree at the trail fork."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "The Loft",
+          "hint": {
+            "fr": "Dans le seul arbre mort au bord du chemin.",
+            "en": "In the only dead tree beside the path."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Roanoke Ridge",
+          "hint": {
+            "fr": "Dans un arbre au nord du sentier, après la rivière.",
+            "en": "In a tree north of the trail, past the river."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Annesburg",
+          "hint": {
+            "fr": "Dans un très grand arbre sans feuilles, au carrefour.",
+            "en": "In a very large leafless tree at the crossroads."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Annesburg",
+          "hint": {
+            "fr": "Dans un arbre mort au bord d'une falaise.",
+            "en": "In a dead tree on a cliff edge."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Roanoke Ridge",
+          "hint": {
+            "fr": "Haut dans les branches d'un arbre, sur une colline : difficile à repérer.",
+            "en": "High in the branches of a hilltop tree: hard to spot."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Elysian Pool",
+          "hint": {
+            "fr": "Après les fondations d'une ancienne maison.",
+            "en": "Past the foundations of an old house."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gravures-rupestres",
+      "title": {
+        "fr": "Gravures rupestres",
+        "en": "Rock carvings"
+      },
+      "character": {
+        "fr": "Arthur ou John",
+        "en": "Arthur or John"
+      },
+      "unlock": {
+        "fr": "Rencontrer le géologue dans sa cabane, au nord-ouest de Strawberry. Envoie ensuite les coordonnées de chaque gravure depuis un bureau de poste.",
+        "en": "Meet the geologist at his cabin northwest of Strawberry. Then mail each carving's coordinates from a post office."
+      },
+      "reward": {
+        "fr": "De l'argent et des objets à 1 et 5 gravures, puis une boussole unique pour les 10.",
+        "en": "Money and items at 1 and 5 carvings, then a unique compass for all 10."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Owanjila",
+          "hint": {
+            "fr": "Sur un rocher de la rive ouest du lac, à l'ouest de Strawberry.",
+            "en": "On a boulder on the lake's west shore, west of Strawberry."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Mount Shann",
+          "hint": {
+            "fr": "Une gravure en spirale au-dessus du sentier.",
+            "en": "A spiral carving above the trail."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Grizzlies",
+          "hint": {
+            "fr": "Près du sommet du mont Hagen, au-dessus du lac Isabella.",
+            "en": "Near the summit of Mount Hagen, above Lake Isabella."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Cumberland Forest",
+          "hint": {
+            "fr": "Sur un promontoire qui domine la gorge de la Dakota River.",
+            "en": "On an overlook above the Dakota River gorge."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Whinyard Strait",
+          "hint": {
+            "fr": "Tout au nord, sur une corniche haute de la rive ouest.",
+            "en": "Far north, on a high ledge of the west bank."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Bacchus Station",
+          "hint": {
+            "fr": "Sur la falaise au sud-ouest, au-dessus de la rivière.",
+            "en": "On the southwest cliff above the river."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Moonstone Pond",
+          "hint": {
+            "fr": "Au niveau le plus bas d'un plateau en terrasses, au sud de l'étang.",
+            "en": "On the lowest level of a stepped plateau, south of the pond."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Elysian Pool",
+          "hint": {
+            "fr": "Sur une corniche rocheuse du côté est.",
+            "en": "On a rock ledge on the east side."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Roanoke Ridge",
+          "hint": {
+            "fr": "Sur une paroi rocheuse à l'est de Deer Cottage, près d'Annesburg.",
+            "en": "On a rock wall east of Deer Cottage, near Annesburg."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Heartlands",
+          "hint": {
+            "fr": "Sur une butte près de Caliban's Seat, au-dessus de la Dakota River.",
+            "en": "On a rise near Caliban's Seat, above the Dakota River."
+          }
+        }
       ]
     }
   ]

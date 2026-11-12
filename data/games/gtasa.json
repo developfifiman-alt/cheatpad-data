@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-06",
   "notice": {
     "fr": "Sur console : entrer la séquence rapidement pendant le jeu (pas dans un menu). Sur PC : taper le mot directement pendant le jeu, sans ouvrir de console. Sur PC, l'ancienne version utilise les codes courts indiqués ; la Definitive Edition accepte aussi leur version en toutes lettres. Les codes désactivent les trophées/succès de la Definitive Edition, et certains ne peuvent pas être annulés : sauvegarde avant de les utiliser. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -1587,6 +1587,2096 @@
         "sante-argent",
         "feux-verts",
         "moins-trafic"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "tags",
+      "title": {
+        "fr": "Tags de gang",
+        "en": "Gang tags"
+      },
+      "character": {
+        "fr": "CJ",
+        "en": "CJ"
+      },
+      "unlock": {
+        "fr": "Il faut la bombe de peinture reçue pendant la mission où Sweet t'apprend à taguer. Les premiers tags sont faits pendant cette mission.",
+        "en": "You need the spray can given during the mission where Sweet teaches you to tag. The first tags are done during that mission."
+      },
+      "reward": {
+        "fr": "Des armes déposées chez CJ, et des gangsters de Grove Street mieux armés.",
+        "en": "Weapons left at CJ's house, and better-armed Grove Street gang members."
+      },
+      "note": {
+        "fr": "Tous les tags sont à Los Santos. Cette liste repose surtout sur une seule source détaillée : si un emplacement ne correspond pas, signale-le.",
+        "en": "All tags are in Los Santos. This list relies mainly on one detailed source: if a location doesn't match, report it."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur le pont au-dessus de la route, près de la maison de Big Smoke.",
+            "en": "On the overpass near Big Smoke's house."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur une maison au nord de chez Big Smoke.",
+            "en": "On a house north of Big Smoke's."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Dans la ruelle derrière la maison précédente.",
+            "en": "In the alley behind the previous house."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Sur une fresque face aux terrains de basket.",
+            "en": "On a mural facing the basketball courts."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Dans la ruelle derrière le Cluckin' Bell.",
+            "en": "In the alley behind Cluckin' Bell."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Sur le toit de la galerie marchande du Cluckin' Bell.",
+            "en": "On the roof of the Cluckin' Bell strip mall."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Las Colinas",
+          "hint": {
+            "fr": "Sur un bâtiment tout au nord-est.",
+            "en": "On a building in the far northeast."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "Sur une maison à côté d'un magasin de meubles.",
+            "en": "On a house next to a furniture store."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "Sur le toit d'un immeuble d'East Pacific.",
+            "en": "On the roof of an East Pacific apartment block."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "Sur la falaise derrière l'hôtel Golden Palms.",
+            "en": "On the cliff behind the Golden Palms hotel."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "Devant un immeuble de Saints Boulevard.",
+            "en": "In front of a building on Saints Boulevard."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "À l'entrée d'un parking à étages.",
+            "en": "At the entrance of a multistorey car park."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "Sur un terrain privé près d'une pub Sprunk.",
+            "en": "In a private lot near a Sprunk ad."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "Sur le mur de la centrale, près des cheminées.",
+            "en": "On the power station wall, by the chimneys."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Los Flores",
+          "hint": {
+            "fr": "Dans la ruelle derrière la centrale hydraulique.",
+            "en": "In the alley behind the hydro power plant."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Sous une enseigne de prêts, près de la centrale.",
+            "en": "Under a cash loans sign near the plant."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Los Flores",
+          "hint": {
+            "fr": "Sur un immeuble face à un panneau publicitaire vide.",
+            "en": "On an apartment block facing a blank billboard."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Las Colinas",
+          "hint": {
+            "fr": "Près d'un escalier, sous un panneau publicitaire.",
+            "en": "By some stairs under a billboard."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Sur une maison jaune près de Las Colinas.",
+            "en": "On a yellow house near Las Colinas."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Dans une ruelle à l'est du centre commercial.",
+            "en": "In an alley east of the shopping mall."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Plus loin dans la même ruelle.",
+            "en": "Further down the same alley."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Dans un passage sous un bâtiment jaune.",
+            "en": "In a passage under a yellow building."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Sur le toit d'un bâtiment vert, au parking du Cluckin' Bell.",
+            "en": "On the roof of a green building at the Cluckin' Bell lot."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Ganton",
+          "hint": {
+            "fr": "Sur le pont de Grove Street, près de chez Denise.",
+            "en": "On the Grove Street overpass near Denise's."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Ganton",
+          "hint": {
+            "fr": "Sur un bâtiment bleu, dans la ruelle de la salle de sport.",
+            "en": "On a blue building in the gym alley."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Willowfield",
+          "hint": {
+            "fr": "Sur le mur du drive du Cluckin' Bell.",
+            "en": "On the Cluckin' Bell drive-thru wall."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Willowfield",
+          "hint": {
+            "fr": "Devant la boutique à petits prix.",
+            "en": "In front of the discount store."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Willowfield",
+          "hint": {
+            "fr": "Sur le parking de la galerie marchande.",
+            "en": "In the strip mall parking lot."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "East Beach",
+          "hint": {
+            "fr": "À l'entrée sud-est du stade (Forum).",
+            "en": "At the stadium's southeast entrance (Forum)."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Playa del Seville",
+          "hint": {
+            "fr": "Sur la promenade, au bout nord.",
+            "en": "On the boardwalk, north end."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Playa del Seville",
+          "hint": {
+            "fr": "Sur un immeuble bleu, au nord-est.",
+            "en": "On a blue apartment block in the northeast."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Playa del Seville",
+          "hint": {
+            "fr": "Entre deux immeubles bleus, à l'est.",
+            "en": "Between two blue blocks on the east side."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Playa del Seville",
+          "hint": {
+            "fr": "Près du terrain de basket, à côté du garage.",
+            "en": "By the basketball court next to the garage."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Playa del Seville",
+          "hint": {
+            "fr": "À l'entrée de la sous-station électrique.",
+            "en": "At the electrical substation entrance."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Ocean Docks",
+          "hint": {
+            "fr": "Dans la rue sous le salon de coiffure.",
+            "en": "On the street below the hair salon."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Ocean Docks",
+          "hint": {
+            "fr": "Sur un pilier de pont du canal d'évacuation.",
+            "en": "On a storm drain bridge support."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Ocean Docks",
+          "hint": {
+            "fr": "Sur la tour nord du pont suspendu.",
+            "en": "On the north tower of the suspension bridge."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Ocean Docks",
+          "hint": {
+            "fr": "Sur l'entrepôt sud du dépôt d'import.",
+            "en": "On the south warehouse of the import depot."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Ocean Docks",
+          "hint": {
+            "fr": "Sur des conteneurs près de la grue sud-est.",
+            "en": "On containers by the southeast crane."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Willowfield",
+          "hint": {
+            "fr": "Sur un entrepôt au nord du dépôt d'import.",
+            "en": "On a warehouse north of the import depot."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Willowfield",
+          "hint": {
+            "fr": "Dans le tunnel du canal, près de la casse.",
+            "en": "In the canal tunnel near the junkyard."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "El Corona",
+          "hint": {
+            "fr": "Sur une boutique fermée, à l'est de la rue principale.",
+            "en": "On a closed shop east of the main street."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "El Corona",
+          "hint": {
+            "fr": "Sur une clôture jaune derrière une maison.",
+            "en": "On a yellow fence behind a house."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "El Corona",
+          "hint": {
+            "fr": "Sur une maison en face de la planque.",
+            "en": "On a house across from the safehouse."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "El Corona",
+          "hint": {
+            "fr": "Sur le mur d'un bar, en face du salon de tatouage.",
+            "en": "On a bar wall across from the tattoo parlor."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "El Corona",
+          "hint": {
+            "fr": "Dans la cité HLM.",
+            "en": "In the housing projects."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Willowfield",
+          "hint": {
+            "fr": "Sur une galerie marchande au sud du Pay 'n' Spray.",
+            "en": "On a strip mall south of Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "El Corona",
+          "hint": {
+            "fr": "Sur une fresque derrière le magasin d'alcool.",
+            "en": "On a mural behind the liquor store."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Dans le tunnel du canal, près de la gare Unity.",
+            "en": "In the canal tunnel near Unity Station."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur le panneau de la station de lavage.",
+            "en": "On the car wash sign."
+          }
+        },
+        {
+          "id": "51",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur un entrepôt de garde-meubles.",
+            "en": "On a self-storage warehouse."
+          }
+        },
+        {
+          "id": "52",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur le parking du motel 24 h.",
+            "en": "In the 24-hour motel parking lot."
+          }
+        },
+        {
+          "id": "53",
+          "zone": "Little Mexico",
+          "hint": {
+            "fr": "Sur le mur d'une église face au centre Atrium.",
+            "en": "On a church wall facing the Atrium."
+          }
+        },
+        {
+          "id": "54",
+          "zone": "Little Mexico",
+          "hint": {
+            "fr": "Derrière le bâtiment des courses de rue.",
+            "en": "Behind the street race building."
+          }
+        },
+        {
+          "id": "55",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur le mur nord-ouest de la boîte de nuit.",
+            "en": "On the nightclub's northwest wall."
+          }
+        },
+        {
+          "id": "56",
+          "zone": "Little Mexico",
+          "hint": {
+            "fr": "Sur une église au nord du départ des courses.",
+            "en": "On a church north of the race start."
+          }
+        },
+        {
+          "id": "57",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur un mur au sud-est du circuit.",
+            "en": "On a wall southeast of the race circuit."
+          }
+        },
+        {
+          "id": "58",
+          "zone": "Idlewood",
+          "hint": {
+            "fr": "Sur des bâtiments près du pont de Jefferson.",
+            "en": "On buildings near the Jefferson bridge."
+          }
+        },
+        {
+          "id": "59",
+          "zone": "Jefferson",
+          "hint": {
+            "fr": "Sur une maison bleue près du parc de sculptures.",
+            "en": "On a blue house near the sculpture park."
+          }
+        },
+        {
+          "id": "60",
+          "zone": "Jefferson",
+          "hint": {
+            "fr": "Sur le mur est de l'hôpital.",
+            "en": "On the hospital's east wall."
+          }
+        },
+        {
+          "id": "61",
+          "zone": "Jefferson",
+          "hint": {
+            "fr": "Sur le mur de l'église.",
+            "en": "On the church wall."
+          }
+        },
+        {
+          "id": "62",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Dans la ruelle derrière le magasin d'alcool, au nord.",
+            "en": "In the alley behind the north liquor store."
+          }
+        },
+        {
+          "id": "63",
+          "zone": "East Los Santos",
+          "hint": {
+            "fr": "Sur un parking, sous une maison des Vagos.",
+            "en": "In a parking lot under a Vagos house."
+          }
+        },
+        {
+          "id": "64",
+          "zone": "Jefferson",
+          "hint": {
+            "fr": "Sous l'escalier du motel.",
+            "en": "Under the motel stairs."
+          }
+        },
+        {
+          "id": "65",
+          "zone": "Jefferson",
+          "hint": {
+            "fr": "Dans une ruelle au sud de la boutique de vêtements.",
+            "en": "In an alley south of the clothing store."
+          }
+        },
+        {
+          "id": "66",
+          "zone": "Jefferson",
+          "hint": {
+            "fr": "Derrière la concession automobile.",
+            "en": "Behind the car dealership."
+          }
+        },
+        {
+          "id": "67",
+          "zone": "Las Colinas",
+          "hint": {
+            "fr": "Dans la ruelle derrière un bâtiment orange.",
+            "en": "In the alley behind an orange building."
+          }
+        },
+        {
+          "id": "68",
+          "zone": "Las Colinas",
+          "hint": {
+            "fr": "Derrière deux palmiers.",
+            "en": "Behind two palm trees."
+          }
+        },
+        {
+          "id": "69",
+          "zone": "Las Colinas",
+          "hint": {
+            "fr": "À l'entrée du tunnel ferroviaire.",
+            "en": "At the railway tunnel mouth."
+          }
+        },
+        {
+          "id": "70",
+          "zone": "Las Colinas",
+          "hint": {
+            "fr": "Derrière une grande maison, à l'ouest de l'église.",
+            "en": "Behind a large house west of the church."
+          }
+        },
+        {
+          "id": "71",
+          "zone": "Las Colinas",
+          "hint": {
+            "fr": "Dans une ruelle à l'ouest, sous un panneau publicitaire.",
+            "en": "In a western alley under a billboard."
+          }
+        },
+        {
+          "id": "72",
+          "zone": "Mulholland Intersection",
+          "hint": {
+            "fr": "Côté est du pont routier, près d'un arbre.",
+            "en": "On the east side of the overpass, by a tree."
+          }
+        },
+        {
+          "id": "73",
+          "zone": "Glen Park",
+          "hint": {
+            "fr": "Sur les bâtiments jaunes les plus au nord.",
+            "en": "On the northernmost yellow buildings."
+          }
+        },
+        {
+          "id": "74",
+          "zone": "Glen Park",
+          "hint": {
+            "fr": "Sous le pont du lac.",
+            "en": "Under the lake bridge."
+          }
+        },
+        {
+          "id": "75",
+          "zone": "Glen Park",
+          "hint": {
+            "fr": "Derrière la galerie marchande au sud.",
+            "en": "Behind the south strip mall."
+          }
+        },
+        {
+          "id": "76",
+          "zone": "Glen Park",
+          "hint": {
+            "fr": "Sur le mur nord-est du skatepark.",
+            "en": "On the skate park's northeast wall."
+          }
+        },
+        {
+          "id": "77",
+          "zone": "Downtown Los Santos",
+          "hint": {
+            "fr": "Sur une place, près des yuccas.",
+            "en": "In a plaza near the yucca trees."
+          }
+        },
+        {
+          "id": "78",
+          "zone": "Downtown Los Santos",
+          "hint": {
+            "fr": "Sur le mur d'un gratte-ciel, près du bureau des paris.",
+            "en": "On a skyscraper wall near the betting shop."
+          }
+        },
+        {
+          "id": "79",
+          "zone": "Downtown Los Santos",
+          "hint": {
+            "fr": "Sur le mur d'un gratte-ciel, près de l'escalier de la boutique ZIP.",
+            "en": "On a skyscraper wall near the ZIP store stairs."
+          }
+        },
+        {
+          "id": "80",
+          "zone": "Mulholland Intersection",
+          "hint": {
+            "fr": "Sur le mur du théâtre, côté parking.",
+            "en": "On the theater wall, parking side."
+          }
+        },
+        {
+          "id": "81",
+          "zone": "Temple",
+          "hint": {
+            "fr": "Sur un bâtiment jaune près du garage de tuning.",
+            "en": "On a yellow building near the tuning garage."
+          }
+        },
+        {
+          "id": "82",
+          "zone": "Vinewood",
+          "hint": {
+            "fr": "À l'ouest d'un hôtel.",
+            "en": "West of a hotel."
+          }
+        },
+        {
+          "id": "83",
+          "zone": "Market",
+          "hint": {
+            "fr": "Sur le mur est d'un disquaire.",
+            "en": "On a record store's east wall."
+          }
+        },
+        {
+          "id": "84",
+          "zone": "Market",
+          "hint": {
+            "fr": "Sur une galerie marchande près d'une boutique de donuts.",
+            "en": "On a strip mall near a donut shop."
+          }
+        },
+        {
+          "id": "85",
+          "zone": "Market",
+          "hint": {
+            "fr": "Sur un bâtiment près d'une sculpture courbe.",
+            "en": "On a building near a curved sculpture."
+          }
+        },
+        {
+          "id": "86",
+          "zone": "Pershing Square",
+          "hint": {
+            "fr": "Sur le mur sud du commissariat central.",
+            "en": "On the south wall of police headquarters."
+          }
+        },
+        {
+          "id": "87",
+          "zone": "Commerce",
+          "hint": {
+            "fr": "Devant la mairie.",
+            "en": "In front of City Hall."
+          }
+        },
+        {
+          "id": "88",
+          "zone": "Commerce",
+          "hint": {
+            "fr": "Sur le mur d'un théâtre couvert d'affiches.",
+            "en": "On a theater wall covered in posters."
+          }
+        },
+        {
+          "id": "89",
+          "zone": "Verona Beach",
+          "hint": {
+            "fr": "À l'étage d'un bâtiment blanc.",
+            "en": "Upstairs on a white building."
+          }
+        },
+        {
+          "id": "90",
+          "zone": "Market",
+          "hint": {
+            "fr": "Sur un bâtiment blanc au sud du Cluckin' Bell.",
+            "en": "On a white building south of Cluckin' Bell."
+          }
+        },
+        {
+          "id": "91",
+          "zone": "Marina",
+          "hint": {
+            "fr": "À côté de la jetée du Jetty Lounge.",
+            "en": "Next to the Jetty Lounge jetty."
+          }
+        },
+        {
+          "id": "92",
+          "zone": "Rodeo",
+          "hint": {
+            "fr": "Sur un mur sous un panneau publicitaire.",
+            "en": "On a wall under a billboard."
+          }
+        },
+        {
+          "id": "93",
+          "zone": "Rodeo",
+          "hint": {
+            "fr": "Sur le disquaire Vinyl Countdown.",
+            "en": "On the Vinyl Countdown record store."
+          }
+        },
+        {
+          "id": "94",
+          "zone": "Santa Maria Beach",
+          "hint": {
+            "fr": "Sur un bâtiment près de la grande roue de la jetée.",
+            "en": "On a building near the pier's Ferris wheel."
+          }
+        },
+        {
+          "id": "95",
+          "zone": "Santa Maria Beach",
+          "hint": {
+            "fr": "Sous une passerelle, près du Pay 'n' Spray.",
+            "en": "Under a footbridge near Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "96",
+          "zone": "Marina",
+          "hint": {
+            "fr": "Près de la jetée de Verona.",
+            "en": "Near the Verona pier."
+          }
+        },
+        {
+          "id": "97",
+          "zone": "Verona Beach",
+          "hint": {
+            "fr": "Près des agences de voyage, dans le tunnel.",
+            "en": "Near the travel agencies, in the tunnel."
+          }
+        },
+        {
+          "id": "98",
+          "zone": "Verdant Bluffs",
+          "hint": {
+            "fr": "En haut de l'observatoire.",
+            "en": "On top of the observatory."
+          }
+        },
+        {
+          "id": "99",
+          "zone": "Los Santos International",
+          "hint": {
+            "fr": "Sur le mur de la tour de contrôle.",
+            "en": "On the control tower wall."
+          }
+        },
+        {
+          "id": "100",
+          "zone": "Los Santos International",
+          "hint": {
+            "fr": "À l'entrée d'un tunnel, sous un panneau publicitaire.",
+            "en": "At a tunnel entrance under a billboard."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cliches",
+      "title": {
+        "fr": "Clichés",
+        "en": "Snapshots"
+      },
+      "character": {
+        "fr": "CJ",
+        "en": "CJ"
+      },
+      "unlock": {
+        "fr": "Tous à San Fierro. Il faut un appareil photo : vise le symbole qui brille et prends la photo.",
+        "en": "All in San Fierro. You need a camera: aim at the glowing symbol and take the picture."
+      },
+      "reward": {
+        "fr": "100 $ par cliché, 100 000 $ de bonus et des armes déposées au garage de Doherty.",
+        "en": "$100 per snapshot, a $100,000 bonus and weapons at the Doherty garage."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Red County",
+          "hint": {
+            "fr": "Sur l'arche du pont près du Panopticon.",
+            "en": "On the bridge arch near the Panopticon."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Easter Bay Airport",
+          "hint": {
+            "fr": "Sur les réservoirs de carburant, près des hangars nord-est.",
+            "en": "On the fuel tanks by the northeast hangars."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Easter Bay Airport",
+          "hint": {
+            "fr": "Sur le toit de la tour de contrôle.",
+            "en": "On the control tower roof."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Easter Bay Airport",
+          "hint": {
+            "fr": "Sur le panneau de l'entrée de l'aéroport.",
+            "en": "On the airport entrance sign."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Foster Valley",
+          "hint": {
+            "fr": "Au sud du stade.",
+            "en": "South of the stadium."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Foster Valley",
+          "hint": {
+            "fr": "Sur un bâtiment rond, au nord-ouest.",
+            "en": "On a round building in the northwest."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Missionary Hill",
+          "hint": {
+            "fr": "En haut de l'antenne radio.",
+            "en": "At the top of the radio tower."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "San Fierro",
+          "hint": {
+            "fr": "Au bout nord du pont de Whetstone.",
+            "en": "At the north end of the Whetstone bridge."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Avispa Country Club",
+          "hint": {
+            "fr": "Sur le bâtiment principal du club.",
+            "en": "On the main clubhouse."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Avispa Country Club",
+          "hint": {
+            "fr": "Près des courts de tennis.",
+            "en": "By the tennis courts."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Ocean Flats",
+          "hint": {
+            "fr": "Sur le toit de la cathédrale.",
+            "en": "On the cathedral roof."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Hashbury",
+          "hint": {
+            "fr": "À l'entrée ouest du cimetière.",
+            "en": "At the cemetery's west entrance."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Hashbury",
+          "hint": {
+            "fr": "Sur une banderole de festival, au nord-est.",
+            "en": "On a festival banner in the northeast."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Queens",
+          "hint": {
+            "fr": "Devant la boutique hippie, au sud.",
+            "en": "In front of the hippie store, south side."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Queens",
+          "hint": {
+            "fr": "Devant le théâtre.",
+            "en": "In front of the theater."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "City Hall",
+          "hint": {
+            "fr": "Devant la mairie.",
+            "en": "In front of City Hall."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "City Hall",
+          "hint": {
+            "fr": "Derrière la mairie, sur le dôme.",
+            "en": "Behind City Hall, on the dome."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Palisades",
+          "hint": {
+            "fr": "Sur l'anneau géant de la boutique de donuts.",
+            "en": "On the giant ring of the donut shop."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Gant Bridge",
+          "hint": {
+            "fr": "Sur la tour sud du pont.",
+            "en": "On the bridge's south tower."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "San Fierro",
+          "hint": {
+            "fr": "Sur un cargo amarré, à l'est du pont Gant.",
+            "en": "On a moored freighter east of Gant Bridge."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Esplanade North",
+          "hint": {
+            "fr": "Sur le sous-marin amarré au ponton.",
+            "en": "On the submarine moored at the pier."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Esplanade North",
+          "hint": {
+            "fr": "Sur l'arche d'entrée de la jetée 69.",
+            "en": "On the Pier 69 entrance arch."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Esplanade North",
+          "hint": {
+            "fr": "Sur les rochers à l'est de la jetée 69.",
+            "en": "On the rocks east of Pier 69."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Garver Bridge",
+          "hint": {
+            "fr": "Sur la tour de l'horloge, côté Esplanade East.",
+            "en": "On the clock tower, Esplanade East side."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Garver Bridge",
+          "hint": {
+            "fr": "Sur la tour nord-est du pont suspendu.",
+            "en": "On the northeast tower of the suspension bridge."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Entre les deux voies du pont Garver.",
+            "en": "Between the two decks of Garver Bridge."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Easter Basin",
+          "hint": {
+            "fr": "Sur le panneau rotatif de la station-service.",
+            "en": "On the gas station's rotating sign."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Easter Basin",
+          "hint": {
+            "fr": "Sur les lance-missiles du porte-avions.",
+            "en": "On the aircraft carrier's missile launchers."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Easter Basin",
+          "hint": {
+            "fr": "Au-dessus d'un cargo en cale sèche.",
+            "en": "Above a freighter in dry dock."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Doherty",
+          "hint": {
+            "fr": "Sur les réservoirs blancs de l'usine au sud.",
+            "en": "On the white tanks of the southern factory."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Cranberry Station",
+          "hint": {
+            "fr": "Sur la verrière de la gare.",
+            "en": "On the train station's glass roof."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Doherty",
+          "hint": {
+            "fr": "En haut de la grue du chantier, au nord.",
+            "en": "On top of the crane at the north construction site."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Garcia",
+          "hint": {
+            "fr": "Sur un chantier derrière le fast-food.",
+            "en": "At a construction site behind the burger restaurant."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Garcia",
+          "hint": {
+            "fr": "Près du terrain de baseball.",
+            "en": "By the baseball field."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Queens",
+          "hint": {
+            "fr": "Devant l'entrée de l'hôtel Vank Hoff.",
+            "en": "At the Vank Hoff hotel entrance."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Queens",
+          "hint": {
+            "fr": "Derrière l'hôtel Vank Hoff, côté parking.",
+            "en": "Behind the Vank Hoff hotel, parking side."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Queens",
+          "hint": {
+            "fr": "Sur une cheminée, à l'ouest du terminal du tramway.",
+            "en": "On a chimney west of the tram terminal."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "King's",
+          "hint": {
+            "fr": "Sur un bâtiment de style asiatique, au nord du terminal.",
+            "en": "On an Asian-style building north of the terminal."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "King's",
+          "hint": {
+            "fr": "Sur un bâtiment au sud-est du terminal.",
+            "en": "On a building southeast of the terminal."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "King's",
+          "hint": {
+            "fr": "Sur un bâtiment au nord-ouest du concessionnaire Wang Cars.",
+            "en": "On a building northwest of Wang Cars."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Entre trois gratte-ciel.",
+            "en": "Between three skyscrapers."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Sur la sculpture en double hélice.",
+            "en": "On the double helix sculpture."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Financial",
+          "hint": {
+            "fr": "Sur l'antenne d'un toit, près de la tour pointue.",
+            "en": "On a rooftop antenna near the pointed tower."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Financial",
+          "hint": {
+            "fr": "Sur un immeuble au sud du garage de Michelle.",
+            "en": "On a building south of Michelle's garage."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Calton Heights",
+          "hint": {
+            "fr": "À la sortie du tunnel routier.",
+            "en": "At the road tunnel exit."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Juniper Hollow",
+          "hint": {
+            "fr": "Sur la statue du fast-food.",
+            "en": "On the burger restaurant statue."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Juniper Hill",
+          "hint": {
+            "fr": "Au-dessus du supermarché, à l'est du centre médical.",
+            "en": "Above the supermarket east of the medical center."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Chinatown",
+          "hint": {
+            "fr": "Sur l'arche décorée de l'entrée ouest.",
+            "en": "On the decorated arch at the west entrance."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Calton Heights",
+          "hint": {
+            "fr": "Au milieu de la rue en lacets.",
+            "en": "In the middle of the winding street."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Sur la statue au sommet du pilier, sur la place.",
+            "en": "On the statue atop the pillar in the square."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fers-cheval",
+      "title": {
+        "fr": "Fers à cheval",
+        "en": "Horseshoes"
+      },
+      "character": {
+        "fr": "CJ",
+        "en": "CJ"
+      },
+      "unlock": {
+        "fr": "Tous à Las Venturas, accessibles une fois la ville débloquée dans l'histoire.",
+        "en": "All in Las Venturas, reachable once the city is unlocked in the story."
+      },
+      "reward": {
+        "fr": "100 $ par fer, 100 000 $ de bonus, chance au maximum et des armes au casino Four Dragons.",
+        "en": "$100 per horseshoe, a $100,000 bonus, max luck and weapons at the Four Dragons casino."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Las Venturas",
+          "hint": {
+            "fr": "Près du panneau de bienvenue, à l'entrée nord-ouest.",
+            "en": "By the welcome sign at the northwest entrance."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Whitewood Estates",
+          "hint": {
+            "fr": "Derrière l'abattoir.",
+            "en": "Behind the slaughterhouse."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Whitewood Estates",
+          "hint": {
+            "fr": "À l'intérieur d'un entrepôt, au nord-ouest du stade.",
+            "en": "Inside a warehouse northwest of the stadium."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Las Venturas Airport",
+          "hint": {
+            "fr": "Au bout nord de la piste.",
+            "en": "At the north end of the runway."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Las Venturas Airport",
+          "hint": {
+            "fr": "Entre les hangars nord et la piste.",
+            "en": "Between the north hangars and the runway."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Las Venturas Airport",
+          "hint": {
+            "fr": "Derrière le terminal.",
+            "en": "Behind the terminal."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Greenglass College",
+          "hint": {
+            "fr": "Au centre du campus.",
+            "en": "In the middle of the campus."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Blackfield Intersection",
+          "hint": {
+            "fr": "Derrière le dépôt Sumo.",
+            "en": "Behind the Sumo depot."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "LVA Freight Depot",
+          "hint": {
+            "fr": "Derrière l'entrepôt au sud du dépôt Sumo.",
+            "en": "Behind the warehouse south of the Sumo depot."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Blackfield Chapel",
+          "hint": {
+            "fr": "Sur le toit de la chapelle.",
+            "en": "On the chapel roof."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Randolph Industrial Estate",
+          "hint": {
+            "fr": "Sous l'extrémité nord du grand pont.",
+            "en": "Under the north end of the big bridge."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Rockshore West",
+          "hint": {
+            "fr": "Dans un jardin, à l'est du Last Dime Motel.",
+            "en": "In a backyard east of the Last Dime Motel."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Rockshore West",
+          "hint": {
+            "fr": "Dans un jardin, au sud de l'Ammu-Nation.",
+            "en": "In a backyard south of Ammu-Nation."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Rockshore East",
+          "hint": {
+            "fr": "Au coin sud-est du dépôt, au bord de l'eau.",
+            "en": "At the depot's southeast corner, by the water."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Las Venturas",
+          "hint": {
+            "fr": "Sur la chapelle de mariage au sud-est du casino-château.",
+            "en": "On the wedding chapel southeast of the castle casino."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Come-A-Lot",
+          "hint": {
+            "fr": "En haut du pilier-enseigne, en face du Four Dragons.",
+            "en": "On top of the pillar sign across from the Four Dragons."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "The Four Dragons Casino",
+          "hint": {
+            "fr": "Sur les toits bas du casino.",
+            "en": "On the casino's lower rooftops."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Come-A-Lot",
+          "hint": {
+            "fr": "En haut de la tour du casino-château.",
+            "en": "At the top of the castle casino tower."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Come-A-Lot",
+          "hint": {
+            "fr": "Sur un balcon à l'est de la mairie (City Planning).",
+            "en": "On a balcony east of City Planning."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "The Camel's Toe",
+          "hint": {
+            "fr": "Sur le côté est de la pyramide.",
+            "en": "On the east side of the pyramid."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "The Camel's Toe",
+          "hint": {
+            "fr": "Au sommet de la pyramide.",
+            "en": "At the top of the pyramid."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Royal Casino",
+          "hint": {
+            "fr": "Au 3e niveau du parking, au sud-est du Caligula's.",
+            "en": "On the 3rd level of the parking garage, southeast of Caligula's."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Pirates in Men's Pants",
+          "hint": {
+            "fr": "Dans les buissons entre les torches en forme de crâne.",
+            "en": "In the bushes between the skull torches."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "The Clown's Pocket",
+          "hint": {
+            "fr": "Au-dessus de l'entrée du casino.",
+            "en": "Above the casino entrance."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "The Visage",
+          "hint": {
+            "fr": "Sous les cascades.",
+            "en": "Beneath the waterfalls."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Starfish Casino",
+          "hint": {
+            "fr": "Dans la ruelle derrière la supérette 24/7.",
+            "en": "In the alley behind the 24/7 store."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Starfish Casino",
+          "hint": {
+            "fr": "Sur le drive du restaurant de steaks.",
+            "en": "On top of the steakhouse drive-thru."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Starfish Casino",
+          "hint": {
+            "fr": "Sur le balcon au-dessus de la boutique ZIP.",
+            "en": "On the balcony above the ZIP store."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Julius Thruway East",
+          "hint": {
+            "fr": "Sur un panneau publicitaire de vêtements, à l'est du centre commercial.",
+            "en": "On a clothing billboard east of the mall."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Old Venturas Strip",
+          "hint": {
+            "fr": "Dans le tunnel ferroviaire, entrée nord.",
+            "en": "In the rail tunnel, north entrance."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Roca Escalante",
+          "hint": {
+            "fr": "Dans la piscine en forme de guitare, derrière le V-Rock.",
+            "en": "In the guitar-shaped pool behind the V-Rock."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Roca Escalante",
+          "hint": {
+            "fr": "Sur le toit d'une chapelle de mariage, au sud-ouest du V-Rock.",
+            "en": "On a wedding chapel roof southwest of the V-Rock."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Old Venturas Strip",
+          "hint": {
+            "fr": "Sur l'enseigne « Casino » au-dessus de la planque.",
+            "en": "On the “Casino” sign above the safehouse."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Redsands East",
+          "hint": {
+            "fr": "Sur le balcon ouest d'un motel.",
+            "en": "On a motel's west balcony."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "The Emerald Isle",
+          "hint": {
+            "fr": "Dans la ruelle à l'ouest d'une galerie de pizzerias.",
+            "en": "In the alley west of a pizza strip mall."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Redsands West",
+          "hint": {
+            "fr": "Sur le toit du restaurant-casino.",
+            "en": "On the steakhouse-casino roof."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Pilson Intersection",
+          "hint": {
+            "fr": "En haut d'un mur, au nord du stade.",
+            "en": "On top of a wall north of the stadium."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Redsands West",
+          "hint": {
+            "fr": "Sur des conteneurs, au nord du dépôt.",
+            "en": "On containers north of the depot."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Redsands East",
+          "hint": {
+            "fr": "Sur un toit au nord-ouest de la salle de sport.",
+            "en": "On a rooftop northwest of the gym."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "The Emerald Isle",
+          "hint": {
+            "fr": "Sur le toit d'une boutique de souvenirs, à l'est de la salle de sport.",
+            "en": "On a souvenir shop roof east of the gym."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "The Emerald Isle",
+          "hint": {
+            "fr": "Dans l'espace sous un panneau publicitaire.",
+            "en": "In the gap under a billboard."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "The Emerald Isle",
+          "hint": {
+            "fr": "Au sommet du casino.",
+            "en": "At the top of the casino."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "The Emerald Isle",
+          "hint": {
+            "fr": "Au pied d'un panneau, près de la station de lavage.",
+            "en": "At a billboard support near the car wash."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Julius Thruway North",
+          "hint": {
+            "fr": "Devant une rangée de garages, au nord de la station de lavage.",
+            "en": "By a row of lock-up garages north of the car wash."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Creek",
+          "hint": {
+            "fr": "Derrière le centre commercial, coin nord-est.",
+            "en": "Behind the mall, northeast corner."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "K.A.C.C. Military Fuels",
+          "hint": {
+            "fr": "Au bout nord du dépôt de carburant.",
+            "en": "At the north end of the fuel depot."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Prickle Pine",
+          "hint": {
+            "fr": "Sur les courts de tennis.",
+            "en": "On the tennis courts."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Prickle Pine",
+          "hint": {
+            "fr": "Dans la piscine à côté des courts de tennis.",
+            "en": "In the pool next to the tennis courts."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Las Venturas",
+          "hint": {
+            "fr": "Sur le balcon du club de golf.",
+            "en": "On the golf clubhouse balcony."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Prickle Pine",
+          "hint": {
+            "fr": "Près de la maison la plus à l'ouest, le long de la voie ferrée.",
+            "en": "By the westernmost house along the railway."
+          }
+        }
+      ]
+    },
+    {
+      "id": "huitres",
+      "title": {
+        "fr": "Huîtres",
+        "en": "Oysters"
+      },
+      "character": {
+        "fr": "CJ",
+        "en": "CJ"
+      },
+      "unlock": {
+        "fr": "Sous l'eau, dans tout l'État : CJ doit savoir nager sous l'eau. Liste classée de Los Santos vers Las Venturas.",
+        "en": "Underwater all over the state: CJ must be able to dive. Listed from Los Santos to Las Venturas."
+      },
+      "reward": {
+        "fr": "100 $ par huître, 100 000 $ de bonus, capacité pulmonaire au maximum et plus de facilité avec les petites amies.",
+        "en": "$100 per oyster, a $100,000 bonus, max lung capacity and easier time with girlfriends."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Red County",
+          "hint": {
+            "fr": "Sous un pont près de Palomino Creek.",
+            "en": "Under a bridge near Palomino Creek."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "Fisher's Lagoon",
+          "hint": {
+            "fr": "Au bout de la jetée de pêche.",
+            "en": "At the end of the fishing jetty."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Red County",
+          "hint": {
+            "fr": "Sous un pont en bois, entre Blueberry et Fern Ridge.",
+            "en": "Under a wooden bridge between Blueberry and Fern Ridge."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Red County",
+          "hint": {
+            "fr": "Sous un pont au sud de l'usine FleischBerg.",
+            "en": "Under a bridge south of the FleischBerg factory."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Flint County",
+          "hint": {
+            "fr": "Sous un pont routier au nord du dépôt RS Haul.",
+            "en": "Under a road bridge north of the RS Haul depot."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Los Santos",
+          "hint": {
+            "fr": "Sous un pont ferroviaire au nord-est du dépôt RS Haul.",
+            "en": "Under a rail bridge northeast of the RS Haul depot."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Los Santos",
+          "hint": {
+            "fr": "Sous le pont de Flint Intersection, à l'entrée du tunnel.",
+            "en": "Under the Flint Intersection bridge, by the tunnel mouth."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Flint County",
+          "hint": {
+            "fr": "Près d'une petite plage au sud du parc de mobil-homes.",
+            "en": "By a small beach south of the trailer park."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Santa Maria Beach",
+          "hint": {
+            "fr": "Au bout de la jetée, près du phare.",
+            "en": "At the end of the pier by the lighthouse."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Verona Beach",
+          "hint": {
+            "fr": "Sous les passerelles des canaux de la marina, côté sud.",
+            "en": "Under the marina canal footbridges, south end."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Marina",
+          "hint": {
+            "fr": "Sous un pont du canal, au sud du Jetty Lounge.",
+            "en": "Under a canal bridge south of the Jetty Lounge."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Mulholland",
+          "hint": {
+            "fr": "Dans la piscine d'une grande villa sur la colline.",
+            "en": "In the pool of a large hillside mansion."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Glen Park",
+          "hint": {
+            "fr": "Sous le pont au milieu du lac.",
+            "en": "Under the bridge in the middle of the lake."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Los Santos",
+          "hint": {
+            "fr": "Au bout d'une jetée, au large de Playa del Seville.",
+            "en": "At the end of a jetty off Playa del Seville."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Ocean Docks",
+          "hint": {
+            "fr": "Près d'un petit quai au sud-est, à côté d'un cargo.",
+            "en": "By a small southeast dock next to a freighter."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Ocean Docks",
+          "hint": {
+            "fr": "Sous le pont en arc au centre du quartier.",
+            "en": "Under the arched bridge in the middle of the district."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Los Santos",
+          "hint": {
+            "fr": "Sous le pont le plus au sud des docks.",
+            "en": "Under the southernmost docks bridge."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Los Santos",
+          "hint": {
+            "fr": "Dans l'eau, au large de la plage près de l'aéroport.",
+            "en": "In the water off the beach near the airport."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Verdant Bluffs",
+          "hint": {
+            "fr": "À l'ouest du tunnel de l'aéroport.",
+            "en": "West of the airport tunnel."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Flint County",
+          "hint": {
+            "fr": "Sous le pont Oram, à la limite du comté.",
+            "en": "Under Oram Bridge, at the county border."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Flint County",
+          "hint": {
+            "fr": "Sous un petit pont en bois au nord du pont Oram.",
+            "en": "Under a small wooden bridge north of Oram Bridge."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "Whetstone",
+          "hint": {
+            "fr": "Sous le pont de Flint, côté Whetstone.",
+            "en": "Under the Flint bridge, Whetstone side."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "San Fierro",
+          "hint": {
+            "fr": "Sous le pont de Whetstone.",
+            "en": "Under the Whetstone bridge."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Missionary Hill",
+          "hint": {
+            "fr": "Dans le lac au sud du country club.",
+            "en": "In the lake south of the country club."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Easter Basin",
+          "hint": {
+            "fr": "Sous un cargo à quai.",
+            "en": "Under a freighter at the docks."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "The Panopticon",
+          "hint": {
+            "fr": "Au bord ouest de la plage, face à la baie.",
+            "en": "At the west edge of the beach over the bay."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Easter Bay Airport",
+          "hint": {
+            "fr": "Au-delà du bout de la piste.",
+            "en": "Past the far end of the runway."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Easter Basin",
+          "hint": {
+            "fr": "Dans la baie centrale des abris à sous-marins.",
+            "en": "In the middle bay of the submarine pens."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Easter Basin",
+          "hint": {
+            "fr": "Sous la proue du porte-avions.",
+            "en": "Under the aircraft carrier's bow."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Garver Bridge",
+          "hint": {
+            "fr": "Sous une tour du pont suspendu.",
+            "en": "Under one of the suspension bridge towers."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "San Fierro",
+          "hint": {
+            "fr": "Près d'un cargo, au nord-est de la jetée 69.",
+            "en": "By a freighter northeast of Pier 69."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Tierra Robada",
+          "hint": {
+            "fr": "Au sud de l'entrée ouest du tunnel.",
+            "en": "South of the tunnel's west mouth."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "San Fierro",
+          "hint": {
+            "fr": "Près d'un cargo, au large de Battery Point.",
+            "en": "By a freighter off Battery Point."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Gant Bridge",
+          "hint": {
+            "fr": "Sous la tour sud du pont.",
+            "en": "Under the bridge's south tower."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Gant Bridge",
+          "hint": {
+            "fr": "Au bout nord du pont, près du rivage de Bayside.",
+            "en": "At the north end of the bridge, by the Bayside shore."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Tierra Robada",
+          "hint": {
+            "fr": "Près des ruines d'un phare, sur les falaises de Bayside.",
+            "en": "By the lighthouse ruins on the Bayside cliffs."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Tierra Robada",
+          "hint": {
+            "fr": "Près d'un petit quai, au nord du réservoir Sherman.",
+            "en": "By a small wharf north of Sherman Reservoir."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Tierra Robada",
+          "hint": {
+            "fr": "Sous un pont en bois à l'ouest du barrage Sherman.",
+            "en": "Under a wooden bridge west of Sherman Dam."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "The Sherman Dam",
+          "hint": {
+            "fr": "À l'extrémité nord-ouest du barrage.",
+            "en": "At the northwest end of the dam."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Tierra Robada",
+          "hint": {
+            "fr": "Sous un pont métallique au sud de Las Barrancas.",
+            "en": "Under a truss bridge south of Las Barrancas."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Tierra Robada",
+          "hint": {
+            "fr": "Sous un pont à l'ouest du ranch de Toreno.",
+            "en": "Under a bridge west of Toreno's ranch."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Tierra Robada",
+          "hint": {
+            "fr": "Près d'un petit quai au sud du ranch de Toreno.",
+            "en": "By a small dock south of Toreno's ranch."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Bone County",
+          "hint": {
+            "fr": "Dans la rivière, entre le quai et la station de pompage.",
+            "en": "In the river between the dock and the pump house."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Las Venturas",
+          "hint": {
+            "fr": "Tout au nord-est, près du dépôt de carburant.",
+            "en": "In the far northeast corner, by the fuel depot."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Roca Escalante",
+          "hint": {
+            "fr": "Dans la piscine en forme de guitare, derrière le V-Rock.",
+            "en": "In the guitar-shaped pool behind the V-Rock."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "The Visage",
+          "hint": {
+            "fr": "Dans la cascade du casino.",
+            "en": "In the casino waterfall."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Pirates in Men's Pants",
+          "hint": {
+            "fr": "Dans la partie nord-est du lac du casino.",
+            "en": "In the northeast part of the casino lake."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Pilgrim",
+          "hint": {
+            "fr": "Dans la piscine du Tiki Motel.",
+            "en": "In the Tiki Motel pool."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Come-A-Lot",
+          "hint": {
+            "fr": "Dans le bassin à l'entrée du casino.",
+            "en": "In the pool at the casino entrance."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Frederick Bridge",
+          "hint": {
+            "fr": "Sous le pont, au nord-est de Palomino Creek.",
+            "en": "Under the bridge northeast of Palomino Creek."
+          }
+        }
       ]
     }
   ]

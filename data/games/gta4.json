@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-06",
   "notice": {
     "fr": "Pour utiliser un code : sors le téléphone de Niko (flèche du haut sur console), compose le numéro et appelle. Les codes empêchent l'obtention de certains trophées/succès pendant la partie : sauvegarde avant. Guide non officiel, non affilié à Rockstar Games ni à Take-Two Interactive.",
@@ -285,6 +285,2076 @@
         "recherche-moins",
         "annihilator",
         "nrg"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "pigeons",
+      "title": {
+        "fr": "Pigeons (« rats volants »)",
+        "en": "Pigeons (“flying rats”)"
+      },
+      "character": {
+        "fr": "Niko",
+        "en": "Niko"
+      },
+      "unlock": {
+        "fr": "Disponibles dès le début : il suffit d'une arme pour les abattre. Repère-les à leur roucoulement et à leur lueur rougeâtre.",
+        "en": "Available from the start: you just need a gun to shoot them. Spot them by their cooing and reddish glow."
+      },
+      "reward": {
+        "fr": "Un hélicoptère d'attaque sur l'héliport du toit d'un immeuble de Star Junction.",
+        "en": "An attack helicopter on a rooftop helipad in Star Junction."
+      },
+      "note": {
+        "fr": "Les 6 pigeons de la statue (Happiness Island) se font facilement en bateau ou en hélicoptère. Cette liste repose surtout sur une seule source détaillée : signale toute erreur.",
+        "en": "The 6 statue pigeons (Happiness Island) are easy by boat or helicopter. This list relies mainly on one detailed source: report any mistake."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Boulevard",
+          "hint": {
+            "fr": "Au commissariat de Northern Gardens.",
+            "en": "At the Northern Gardens police station."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "South Bohan",
+          "hint": {
+            "fr": "Au bord ouest, au départ d'une mission.",
+            "en": "On the west edge, at a mission start point."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "Industrial",
+          "hint": {
+            "fr": "Au sud de l'hôpital de Bohan.",
+            "en": "South of the Bohan medical center."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Industrial",
+          "hint": {
+            "fr": "À l'ouest du Burger Shot.",
+            "en": "West of Burger Shot."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Little Bay",
+          "hint": {
+            "fr": "Sur les rochers de la rive nord-est.",
+            "en": "On the northeast shoreline rocks."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Fortside",
+          "hint": {
+            "fr": "Au nord de la station San Quentin.",
+            "en": "North of San Quentin station."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "South Bohan",
+          "hint": {
+            "fr": "Dans un tuyau en béton, près du pont East Borough.",
+            "en": "In a concrete pipe near East Borough Bridge."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Northern Gardens",
+          "hint": {
+            "fr": "À l'est de l'hôpital de Bohan.",
+            "en": "East of the Bohan medical center."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Firefly Island",
+          "hint": {
+            "fr": "Moitié sud, près de la station Hove Beach.",
+            "en": "South half, near Hove Beach station."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "East Island City",
+          "hint": {
+            "fr": "Au coin sud-ouest, près du pont East Borough.",
+            "en": "Southwest corner, near East Borough Bridge."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Au sud-ouest de la station Dukes Boulevard.",
+            "en": "Southwest of Dukes Boulevard station."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Au sud-ouest, près du pont East Borough.",
+            "en": "Southwest side, near East Borough Bridge."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Meadows Park",
+          "hint": {
+            "fr": "Au sud-ouest des tours du pavillon.",
+            "en": "Southwest of the pavilion towers."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "East Island City",
+          "hint": {
+            "fr": "Au nord-nord-est de la tour LC24.",
+            "en": "North-northeast of the LC24 tower."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "BOABO",
+          "hint": {
+            "fr": "À l'ouest de la caserne de pompiers de Broker.",
+            "en": "West of the Broker fire station."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Cerveza Heights",
+          "hint": {
+            "fr": "Sur un toit près de la station Huntington Street.",
+            "en": "On a roof near Huntington Street station."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Francis Intl. Airport",
+          "hint": {
+            "fr": "Au bord nord-ouest, près d'une pizzeria.",
+            "en": "Northwest edge, near a pizzeria."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Firefly Island",
+          "hint": {
+            "fr": "Au bout nord-est, près du Burger Shot.",
+            "en": "Northeast end, near Burger Shot."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Firefly Island",
+          "hint": {
+            "fr": "Au sud de la station Hove Beach.",
+            "en": "South of Hove Beach station."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Francis Intl. Airport",
+          "hint": {
+            "fr": "Au nord de la gare de l'aéroport.",
+            "en": "North of the airport station."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Francis Intl. Airport",
+          "hint": {
+            "fr": "À l'est de la gare de l'aéroport.",
+            "en": "East of the airport station."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "East Hook",
+          "hint": {
+            "fr": "Près du départ des missions de Roman.",
+            "en": "Near Roman's mission start."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Francis Intl. Airport",
+          "hint": {
+            "fr": "Au nord de la caserne de pompiers de l'aéroport.",
+            "en": "North of the airport fire station."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "East Hook",
+          "hint": {
+            "fr": "Au sud du départ des missions de Brucie.",
+            "en": "South of Brucie's mission start."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Outlook",
+          "hint": {
+            "fr": "Sur le kiosque d'un petit parc.",
+            "en": "On a gazebo in a small park."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Au nord-ouest de la station Dukes Boulevard.",
+            "en": "Northwest of Dukes Boulevard station."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Meadows Park",
+          "hint": {
+            "fr": "Au sud-est de la tour LC24.",
+            "en": "Southeast of the LC24 tower."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "South Slopes",
+          "hint": {
+            "fr": "Au sud-est du commissariat.",
+            "en": "Southeast of the police station."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Firefly Projects",
+          "hint": {
+            "fr": "Au nord-est du Burger Shot de Firefly Island.",
+            "en": "Northeast of the Firefly Island Burger Shot."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "Beachgate",
+          "hint": {
+            "fr": "Sur un porche, à l'est du bowling.",
+            "en": "On a porch east of the bowling alley."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Hove Beach",
+          "hint": {
+            "fr": "Au nord-est de la station Hove Beach.",
+            "en": "Northeast of Hove Beach station."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Schottler",
+          "hint": {
+            "fr": "Au nord-ouest de l'hôpital de Schottler.",
+            "en": "Northwest of the Schottler medical center."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Beechwood City",
+          "hint": {
+            "fr": "Sur le mur de la voie rapide, au sud-ouest du Burger Shot.",
+            "en": "On the expressway wall, southwest of Burger Shot."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "Meadow Hills",
+          "hint": {
+            "fr": "Sur la porte d'un toit, au sud de la station Lynch Street.",
+            "en": "On a rooftop doorway south of Lynch Street station."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Hove Beach",
+          "hint": {
+            "fr": "Sur l'auvent de la boîte de nuit russe.",
+            "en": "On the awning of the Russian nightclub."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "North Holland",
+          "hint": {
+            "fr": "Sur les toits de l'hôpital, côté nord-ouest.",
+            "en": "On the hospital rooftops, northwest side."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "North Holland",
+          "hint": {
+            "fr": "À l'ouest de l'hôpital.",
+            "en": "West of the hospital."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "President City",
+          "hint": {
+            "fr": "Au nord-ouest du pont Leaper.",
+            "en": "Northwest of Leaper's Bridge."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Colony Island",
+          "hint": {
+            "fr": "À une fenêtre haute du vieil hôpital abandonné.",
+            "en": "In a high window of the abandoned old hospital."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Fishmarket South",
+          "hint": {
+            "fr": "Au sud-ouest de la caserne de pompiers.",
+            "en": "Southwest of the fire station."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Colony Island",
+          "hint": {
+            "fr": "Au centre, au nord du vieil hôpital.",
+            "en": "In the middle, north of the old hospital."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Middle Park",
+          "hint": {
+            "fr": "Au nord-est de la station West Park.",
+            "en": "Northeast of West Park station."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "The Meat Quarter",
+          "hint": {
+            "fr": "Au bout des voies aériennes, près de la station Hematite.",
+            "en": "At the end of the elevated tracks, near Hematite station."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "À l'est de la caserne de pompiers.",
+            "en": "East of the fire station."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Castle Gardens",
+          "hint": {
+            "fr": "Au sud-ouest de la station Castle Gardens.",
+            "en": "Southwest of Castle Gardens station."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "Hatton Gardens",
+          "hint": {
+            "fr": "Au coin sud-ouest de la station Manganese East.",
+            "en": "Southwest corner of Manganese East station."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Easton",
+          "hint": {
+            "fr": "Derrière la grande statue, près de l'hôpital.",
+            "en": "Behind the big statue near the medical center."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "The Triangle",
+          "hint": {
+            "fr": "Au nord de la tour Rotterdam.",
+            "en": "North of Rotterdam Tower."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Charge Island",
+          "hint": {
+            "fr": "Sur un bateau échoué, jetée nord.",
+            "en": "On a stranded boat at the north pier."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Middle Park",
+          "hint": {
+            "fr": "Au sud-sud-ouest de la station North Park.",
+            "en": "South-southwest of North Park station."
+          }
+        },
+        {
+          "id": "51",
+          "zone": "Varsity Heights",
+          "hint": {
+            "fr": "Au coin nord-ouest, à l'est du pont Hickey.",
+            "en": "Northwest corner, east of Hickey Bridge."
+          }
+        },
+        {
+          "id": "52",
+          "zone": "Star Junction",
+          "hint": {
+            "fr": "Au sud du Burger Shot.",
+            "en": "South of Burger Shot."
+          }
+        },
+        {
+          "id": "53",
+          "zone": "Lancet",
+          "hint": {
+            "fr": "Au nord-est de l'hôpital d'Easton.",
+            "en": "Northeast of the Easton medical center."
+          }
+        },
+        {
+          "id": "54",
+          "zone": "Fishmarket North",
+          "hint": {
+            "fr": "Dans une ruelle près du commissariat.",
+            "en": "In an alley near the police station."
+          }
+        },
+        {
+          "id": "55",
+          "zone": "Suffolk",
+          "hint": {
+            "fr": "Au bord ouest du commissariat.",
+            "en": "On the west edge of the police station."
+          }
+        },
+        {
+          "id": "56",
+          "zone": "Suffolk",
+          "hint": {
+            "fr": "Au nord de la station Feldspar.",
+            "en": "North of Feldspar station."
+          }
+        },
+        {
+          "id": "57",
+          "zone": "Westminster",
+          "hint": {
+            "fr": "Sur l'ancienne voie ferrée aérienne, à l'ouest du commissariat.",
+            "en": "On the old elevated rail line, west of the police station."
+          }
+        },
+        {
+          "id": "58",
+          "zone": "Hatton Gardens",
+          "hint": {
+            "fr": "Au sud-est de la station Manganese East.",
+            "en": "Southeast of Manganese East station."
+          }
+        },
+        {
+          "id": "59",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Au nord, après la caserne de pompiers.",
+            "en": "To the north, past the fire station."
+          }
+        },
+        {
+          "id": "60",
+          "zone": "East Holland",
+          "hint": {
+            "fr": "Au nord-est de la station Vespucci Circus.",
+            "en": "Northeast of Vespucci Circus station."
+          }
+        },
+        {
+          "id": "61",
+          "zone": "The Meat Quarter",
+          "hint": {
+            "fr": "Sur le toit d'un abribus, à l'ouest de la tour Rotterdam.",
+            "en": "On a bus shelter roof, west of Rotterdam Tower."
+          }
+        },
+        {
+          "id": "62",
+          "zone": "Castle Gardens",
+          "hint": {
+            "fr": "Au sud de la station Castle Gardens.",
+            "en": "South of Castle Gardens station."
+          }
+        },
+        {
+          "id": "63",
+          "zone": "Middle Park West",
+          "hint": {
+            "fr": "Au nord-ouest du départ des missions de Bernie.",
+            "en": "Northwest of Bernie's mission start."
+          }
+        },
+        {
+          "id": "64",
+          "zone": "The Triangle",
+          "hint": {
+            "fr": "Au sud du Cluckin' Bell.",
+            "en": "South of Cluckin' Bell."
+          }
+        },
+        {
+          "id": "65",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au nord-nord-ouest du tunnel Booth.",
+            "en": "North-northwest of Booth Tunnel."
+          }
+        },
+        {
+          "id": "66",
+          "zone": "Leftwood",
+          "hint": {
+            "fr": "Au sud-ouest du départ des missions de Pegorino.",
+            "en": "Southwest of Pegorino's mission start."
+          }
+        },
+        {
+          "id": "67",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Sur un bâtiment gris, à l'ouest d'un restaurant de riz.",
+            "en": "On a grey building west of a rice restaurant."
+          }
+        },
+        {
+          "id": "68",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Au nord-est de la station de lavage.",
+            "en": "Northeast of the car wash."
+          }
+        },
+        {
+          "id": "69",
+          "zone": "Normandy",
+          "hint": {
+            "fr": "Au nord-ouest du départ des missions de Phil Bell.",
+            "en": "Northwest of Phil Bell's mission start."
+          }
+        },
+        {
+          "id": "70",
+          "zone": {
+            "fr": "Alderney (en mer)",
+            "en": "Alderney (offshore)"
+          },
+          "hint": {
+            "fr": "Sur un navire à moitié coulé, au large de la prison.",
+            "en": "On a half-sunken ship off the prison."
+          }
+        },
+        {
+          "id": "71",
+          "zone": "Acter",
+          "hint": {
+            "fr": "Au sud-ouest d'un cybercafé.",
+            "en": "Southwest of an internet café."
+          }
+        },
+        {
+          "id": "72",
+          "zone": "Berchem",
+          "hint": {
+            "fr": "Au nord-ouest de la caserne de pompiers.",
+            "en": "Northwest of the fire station."
+          }
+        },
+        {
+          "id": "73",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Au sud-ouest du Burger Shot.",
+            "en": "Southwest of Burger Shot."
+          }
+        },
+        {
+          "id": "74",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Au bord ouest, au départ d'une mission.",
+            "en": "On the west edge, at a mission start point."
+          }
+        },
+        {
+          "id": "75",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Au sud-ouest, au départ d'une mission.",
+            "en": "On the southwest side, at a mission start point."
+          }
+        },
+        {
+          "id": "76",
+          "zone": "Acter",
+          "hint": {
+            "fr": "Au nord-est, au départ des missions de Phil Bell.",
+            "en": "Northeast, at Phil Bell's mission start."
+          }
+        },
+        {
+          "id": "77",
+          "zone": "Leftwood",
+          "hint": {
+            "fr": "À l'est du Pay 'n' Spray.",
+            "en": "East of Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "78",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Au nord-est, au départ des missions de Gerry.",
+            "en": "Northeast, at Gerry's mission start."
+          }
+        },
+        {
+          "id": "79",
+          "zone": "Berchem",
+          "hint": {
+            "fr": "Au sud-ouest de la caserne de pompiers.",
+            "en": "Southwest of the fire station."
+          }
+        },
+        {
+          "id": "80",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Au sud-ouest du départ des missions de Gerry.",
+            "en": "Southwest of Gerry's mission start."
+          }
+        },
+        {
+          "id": "81",
+          "zone": "Port Tudor",
+          "hint": {
+            "fr": "À l'est, près de la station de lavage.",
+            "en": "East side, by the car wash."
+          }
+        },
+        {
+          "id": "82",
+          "zone": "Port Tudor",
+          "hint": {
+            "fr": "Au coin nord-est, au départ des missions de Phil Bell.",
+            "en": "Northeast corner, at Phil Bell's mission start."
+          }
+        },
+        {
+          "id": "83",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Au sud-ouest de la caserne de pompiers.",
+            "en": "Southwest of the fire station."
+          }
+        },
+        {
+          "id": "84",
+          "zone": "Leftwood",
+          "hint": {
+            "fr": "Au nord-est du Pay 'n' Spray.",
+            "en": "Northeast of Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "85",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Au sud de la caserne de pompiers.",
+            "en": "South of the fire station."
+          }
+        },
+        {
+          "id": "86",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Près du départ des missions de Derrick.",
+            "en": "Near Derrick's mission start."
+          }
+        },
+        {
+          "id": "87",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Au sud-ouest de la station de lavage.",
+            "en": "Southwest of the car wash."
+          }
+        },
+        {
+          "id": "88",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au nord de la planque d'Alderney.",
+            "en": "North of the Alderney safehouse."
+          }
+        },
+        {
+          "id": "89",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Au sud du club de strip-tease.",
+            "en": "South of the strip club."
+          }
+        },
+        {
+          "id": "90",
+          "zone": "Leftwood",
+          "hint": {
+            "fr": "Au nord du pont Hickey.",
+            "en": "North of Hickey Bridge."
+          }
+        },
+        {
+          "id": "91",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au sud-ouest d'un restaurant de riz.",
+            "en": "Southwest of a rice restaurant."
+          }
+        },
+        {
+          "id": "92",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Sur le toit d'un restaurant de riz, au nord.",
+            "en": "On a rice restaurant roof, north side."
+          }
+        },
+        {
+          "id": "93",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Au bord ouest, près d'un départ de mission.",
+            "en": "On the west edge, near a mission start point."
+          }
+        },
+        {
+          "id": "94",
+          "zone": "Fishmarket South",
+          "hint": {
+            "fr": "Sur le pont Broker, au nord d'un départ d'activité.",
+            "en": "On Broker Bridge, north of an activity start point."
+          }
+        },
+        {
+          "id": "95",
+          "zone": "Northern Gardens",
+          "hint": {
+            "fr": "À l'ouest du commissariat.",
+            "en": "West of the police station."
+          }
+        },
+        {
+          "id": "96",
+          "zone": {
+            "fr": "Ponts de Liberty City",
+            "en": "Liberty City bridges"
+          },
+          "hint": {
+            "fr": "Sur le pont East Borough, près de Charge Island.",
+            "en": "On East Borough Bridge, near Charge Island."
+          }
+        },
+        {
+          "id": "97",
+          "zone": "North Holland",
+          "hint": {
+            "fr": "Sur un muret au-dessus des voies, à l'est de l'hôpital.",
+            "en": "On a low wall above the tracks, east of the hospital."
+          }
+        },
+        {
+          "id": "98",
+          "zone": "Happiness Island",
+          "hint": {
+            "fr": "Au niveau supérieur, côté nord de la statue.",
+            "en": "On the top tier, north side of the statue."
+          }
+        },
+        {
+          "id": "99",
+          "zone": {
+            "fr": "Ponts de Liberty City",
+            "en": "Liberty City bridges"
+          },
+          "hint": {
+            "fr": "Sur un pilier du pont Dukes Bay, dans l'eau.",
+            "en": "On a Dukes Bay Bridge pillar, in the water."
+          }
+        },
+        {
+          "id": "100",
+          "zone": {
+            "fr": "Middle Park East (en mer)",
+            "en": "Middle Park East (offshore)"
+          },
+          "hint": {
+            "fr": "Sur une caisse d'un bateau amarré.",
+            "en": "On a crate aboard a moored ship."
+          }
+        },
+        {
+          "id": "101",
+          "zone": "Fortside",
+          "hint": {
+            "fr": "Au nord de la station San Quentin, près du précédent.",
+            "en": "North of San Quentin station, near the previous one."
+          }
+        },
+        {
+          "id": "102",
+          "zone": "Boulevard",
+          "hint": {
+            "fr": "Au sud, au nord-est du commissariat de Fortside.",
+            "en": "To the south, northeast of the Fortside police station."
+          }
+        },
+        {
+          "id": "103",
+          "zone": "Boulevard",
+          "hint": {
+            "fr": "Au nord-ouest, près du pont Northwood Heights.",
+            "en": "Northwest side, near Northwood Heights Bridge."
+          }
+        },
+        {
+          "id": "104",
+          "zone": "Northern Gardens",
+          "hint": {
+            "fr": "Près de Little Bay, vers un club.",
+            "en": "Near Little Bay, by a club."
+          }
+        },
+        {
+          "id": "105",
+          "zone": "Boulevard",
+          "hint": {
+            "fr": "Au sud-est, à l'ouest de l'hôpital de Bohan.",
+            "en": "Southeast side, west of the Bohan medical center."
+          }
+        },
+        {
+          "id": "106",
+          "zone": "Chase Point",
+          "hint": {
+            "fr": "Au sud-est de la station Windmill Street.",
+            "en": "Southeast of Windmill Street station."
+          }
+        },
+        {
+          "id": "107",
+          "zone": "South Bohan",
+          "hint": {
+            "fr": "À l'est du Burger Shot.",
+            "en": "East of Burger Shot."
+          }
+        },
+        {
+          "id": "108",
+          "zone": "South Bohan",
+          "hint": {
+            "fr": "À la limite de Chase Point, au sud de la station Windmill.",
+            "en": "On the Chase Point border, south of Windmill station."
+          }
+        },
+        {
+          "id": "109",
+          "zone": "Boulevard",
+          "hint": {
+            "fr": "Au nord-est du commissariat de Fortside.",
+            "en": "Northeast of the Fortside police station."
+          }
+        },
+        {
+          "id": "110",
+          "zone": "Industrial",
+          "hint": {
+            "fr": "À l'est du Burger Shot.",
+            "en": "East of Burger Shot."
+          }
+        },
+        {
+          "id": "111",
+          "zone": "South Bohan",
+          "hint": {
+            "fr": "À l'est-sud-est du Burger Shot.",
+            "en": "East-southeast of Burger Shot."
+          }
+        },
+        {
+          "id": "112",
+          "zone": "Beechwood City",
+          "hint": {
+            "fr": "Sur un escalier de secours, au nord-ouest de la station de lavage.",
+            "en": "On a fire escape northwest of the car wash."
+          }
+        },
+        {
+          "id": "113",
+          "zone": "Cerveza Heights",
+          "hint": {
+            "fr": "Sur un panneau de basket, au nord du Cluckin' Bell.",
+            "en": "On a basketball backboard north of Cluckin' Bell."
+          }
+        },
+        {
+          "id": "114",
+          "zone": "Downtown",
+          "hint": {
+            "fr": "Sur un auvent vert, près de l'armurerie.",
+            "en": "On a green canopy near the gun shop."
+          }
+        },
+        {
+          "id": "115",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "À la limite d'East Island, au nord-est de la station Dukes.",
+            "en": "On the East Island border, northeast of Dukes station."
+          }
+        },
+        {
+          "id": "116",
+          "zone": "Firefly Island",
+          "hint": {
+            "fr": "Au coin nord-ouest, à l'ouest de la planque de Broker.",
+            "en": "Northwest corner, west of the Broker safehouse."
+          }
+        },
+        {
+          "id": "117",
+          "zone": "Firefly Projects",
+          "hint": {
+            "fr": "Au sud, à l'est d'un départ de mission.",
+            "en": "South side, east of a mission start point."
+          }
+        },
+        {
+          "id": "118",
+          "zone": "Firefly Projects",
+          "hint": {
+            "fr": "Au nord, à l'est du Pay 'n' Spray.",
+            "en": "North side, east of Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "119",
+          "zone": "Francis Intl. Airport",
+          "hint": {
+            "fr": "Au sud-sud-est de la gare de l'aéroport.",
+            "en": "South-southeast of the airport station."
+          }
+        },
+        {
+          "id": "120",
+          "zone": "Hove Beach",
+          "hint": {
+            "fr": "Au bord ouest, à l'est du pont Broker.",
+            "en": "West edge, east of Broker Bridge."
+          }
+        },
+        {
+          "id": "121",
+          "zone": "Meadows Park",
+          "hint": {
+            "fr": "Au sud-ouest, au nord du grand globe.",
+            "en": "Southwest side, north of the big globe."
+          }
+        },
+        {
+          "id": "122",
+          "zone": "BOABO",
+          "hint": {
+            "fr": "Au nord-est, au départ d'une mission de Roman.",
+            "en": "Northeast, at one of Roman's mission start points."
+          }
+        },
+        {
+          "id": "123",
+          "zone": "Schottler",
+          "hint": {
+            "fr": "Au centre, à l'est de l'hôpital.",
+            "en": "In the middle, east of the medical center."
+          }
+        },
+        {
+          "id": "124",
+          "zone": "South Slopes",
+          "hint": {
+            "fr": "Au nord, au nord-est de la station Schottler.",
+            "en": "North side, northeast of Schottler station."
+          }
+        },
+        {
+          "id": "125",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Au sud-est, à l'ouest de la station Dukes Boulevard.",
+            "en": "Southeast side, west of Dukes Boulevard station."
+          }
+        },
+        {
+          "id": "126",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "À l'est, au nord de la station Dukes, à côté d'un autre pigeon.",
+            "en": "East side, north of Dukes station, next to another pigeon."
+          }
+        },
+        {
+          "id": "127",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Au centre, au nord-ouest de la station Dukes.",
+            "en": "In the middle, northwest of Dukes station."
+          }
+        },
+        {
+          "id": "128",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "À l'est, au nord de la station Dukes.",
+            "en": "East side, north of Dukes station."
+          }
+        },
+        {
+          "id": "129",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Au nord-ouest de la station Dukes.",
+            "en": "Northwest of Dukes station."
+          }
+        },
+        {
+          "id": "130",
+          "zone": "Willis",
+          "hint": {
+            "fr": "Sur un auvent de porte vert, à l'est du grand globe.",
+            "en": "On a green door canopy east of the big globe."
+          }
+        },
+        {
+          "id": "131",
+          "zone": "Willis",
+          "hint": {
+            "fr": "Sur la structure métallique sous la voie aérienne, près de la station de lavage.",
+            "en": "On the steelwork under the elevated railway, near the car wash."
+          }
+        },
+        {
+          "id": "132",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "À l'est, au nord de la station Dukes, à l'ouest d'un autre pigeon.",
+            "en": "East side, north of Dukes station, west of another pigeon."
+          }
+        },
+        {
+          "id": "133",
+          "zone": "Middle Park East",
+          "hint": {
+            "fr": "Au nord-est de la station East Park.",
+            "en": "Northeast of East Park station."
+          }
+        },
+        {
+          "id": "134",
+          "zone": "Middle Park East",
+          "hint": {
+            "fr": "À l'est de l'hôtel Libertonian.",
+            "en": "East of the Libertonian hotel."
+          }
+        },
+        {
+          "id": "135",
+          "zone": "Middle Park",
+          "hint": {
+            "fr": "Au nord de l'hôtel Libertonian.",
+            "en": "North of the Libertonian hotel."
+          }
+        },
+        {
+          "id": "136",
+          "zone": "Middle Park East",
+          "hint": {
+            "fr": "À l'est-sud-est de la station Quartz East.",
+            "en": "East-southeast of Quartz East station."
+          }
+        },
+        {
+          "id": "137",
+          "zone": "The Exchange",
+          "hint": {
+            "fr": "Au sud-ouest, près du tunnel Castle.",
+            "en": "Southwest side, near Castle Tunnel."
+          }
+        },
+        {
+          "id": "138",
+          "zone": "Castle Garden City",
+          "hint": {
+            "fr": "Sur la rambarde de la rampe à bateaux, à l'est de la statue.",
+            "en": "On the boat ramp railing, east of the statue."
+          }
+        },
+        {
+          "id": "139",
+          "zone": "City Hall",
+          "hint": {
+            "fr": "Tout à l'ouest, à l'est de la station Feldspar.",
+            "en": "Far west, east of Feldspar station."
+          }
+        },
+        {
+          "id": "140",
+          "zone": "Colony Island",
+          "hint": {
+            "fr": "Côté ouest, au nord-ouest du vieil hôpital.",
+            "en": "West side, northwest of the old hospital."
+          }
+        },
+        {
+          "id": "141",
+          "zone": "Colony Island",
+          "hint": {
+            "fr": "Au nord du vieil hôpital.",
+            "en": "North of the old hospital."
+          }
+        },
+        {
+          "id": "142",
+          "zone": "Colony Island",
+          "hint": {
+            "fr": "À l'ouest, au nord du vieil hôpital.",
+            "en": "West side, north of the old hospital."
+          }
+        },
+        {
+          "id": "143",
+          "zone": "Charge Island",
+          "hint": {
+            "fr": "Sur le parking sous le pont, près de panneaux publicitaires.",
+            "en": "In the parking lot under the bridge, by billboards."
+          }
+        },
+        {
+          "id": "144",
+          "zone": "Middle Park West",
+          "hint": {
+            "fr": "Au sud-ouest du centre d'art.",
+            "en": "Southwest of the art center."
+          }
+        },
+        {
+          "id": "145",
+          "zone": "Purgatory",
+          "hint": {
+            "fr": "Sur un muret, au sud-est de la station Manganese West.",
+            "en": "On a low wall southeast of Manganese West station."
+          }
+        },
+        {
+          "id": "146",
+          "zone": "Varsity Heights",
+          "hint": {
+            "fr": "À l'est, au sud-ouest du commissariat.",
+            "en": "East side, southwest of the police station."
+          }
+        },
+        {
+          "id": "147",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Au sud-ouest, au nord du penthouse de Playboy X.",
+            "en": "Southwest side, north of Playboy X's penthouse."
+          }
+        },
+        {
+          "id": "148",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Au sud, près du Pay 'n' Spray.",
+            "en": "South side, near Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "149",
+          "zone": "Lancet",
+          "hint": {
+            "fr": "À l'est, au nord-est de l'hôpital d'Easton.",
+            "en": "East side, northeast of the Easton medical center."
+          }
+        },
+        {
+          "id": "150",
+          "zone": "East Holland",
+          "hint": {
+            "fr": "Au sud-ouest, au nord-ouest de la station North Park.",
+            "en": "Southwest side, northwest of North Park station."
+          }
+        },
+        {
+          "id": "151",
+          "zone": "Star Junction",
+          "hint": {
+            "fr": "À l'est, au nord du Burger Shot.",
+            "en": "East side, north of Burger Shot."
+          }
+        },
+        {
+          "id": "152",
+          "zone": "The Triangle",
+          "hint": {
+            "fr": "Au bord sud-est, près de la station Easton.",
+            "en": "Southeast edge, near Easton station."
+          }
+        },
+        {
+          "id": "153",
+          "zone": "City Hall",
+          "hint": {
+            "fr": "Au nord-est, au nord de la station City Hall.",
+            "en": "Northeast side, north of City Hall station."
+          }
+        },
+        {
+          "id": "154",
+          "zone": "Star Junction",
+          "hint": {
+            "fr": "Au sud-ouest, près du club de comédie.",
+            "en": "Southwest side, near the comedy club."
+          }
+        },
+        {
+          "id": "155",
+          "zone": "The Exchange",
+          "hint": {
+            "fr": "Au sud-est de la station City Hall.",
+            "en": "Southeast of City Hall station."
+          }
+        },
+        {
+          "id": "156",
+          "zone": "Castle Gardens",
+          "hint": {
+            "fr": "Au nord, au sud de la station Castle Gardens.",
+            "en": "North side, south of Castle Gardens station."
+          }
+        },
+        {
+          "id": "157",
+          "zone": "Fishmarket South",
+          "hint": {
+            "fr": "Au sud, au nord de la compagnie d'hélicoptères.",
+            "en": "South side, north of the helicopter tours company."
+          }
+        },
+        {
+          "id": "158",
+          "zone": "Middle Park West",
+          "hint": {
+            "fr": "À l'est de la station Quartz West.",
+            "en": "East of Quartz West station."
+          }
+        },
+        {
+          "id": "159",
+          "zone": "Varsity Heights",
+          "hint": {
+            "fr": "Au nord, à l'ouest du commissariat.",
+            "en": "North side, west of the police station."
+          }
+        },
+        {
+          "id": "160",
+          "zone": "North Holland",
+          "hint": {
+            "fr": "Sur un muret au bord du fleuve, à l'ouest d'une boîte de nuit.",
+            "en": "On a low riverside wall west of a nightclub."
+          }
+        },
+        {
+          "id": "161",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Au sud-est, au départ des missions de Dwayne.",
+            "en": "Southeast side, at Dwayne's mission start."
+          }
+        },
+        {
+          "id": "162",
+          "zone": "East Holland",
+          "hint": {
+            "fr": "À l'est, au nord du commissariat.",
+            "en": "East side, north of the police station."
+          }
+        },
+        {
+          "id": "163",
+          "zone": "Star Junction",
+          "hint": {
+            "fr": "Au sud, à l'ouest du Burger Shot.",
+            "en": "South side, west of Burger Shot."
+          }
+        },
+        {
+          "id": "164",
+          "zone": "Happiness Island",
+          "hint": {
+            "fr": "Sur la statue, côté est : tire d'en bas.",
+            "en": "On the statue, east side: shoot from below."
+          }
+        },
+        {
+          "id": "165",
+          "zone": "Happiness Island",
+          "hint": {
+            "fr": "Sur la statue, côté sud-est : tire d'en bas.",
+            "en": "On the statue, southeast side: shoot from below."
+          }
+        },
+        {
+          "id": "166",
+          "zone": "Happiness Island",
+          "hint": {
+            "fr": "Sur la statue, côté ouest : tire d'en bas.",
+            "en": "On the statue, west side: shoot from below."
+          }
+        },
+        {
+          "id": "167",
+          "zone": "Happiness Island",
+          "hint": {
+            "fr": "Sur la statue, côté sud-sud-ouest : tire d'en bas.",
+            "en": "On the statue, south-southwest side: shoot from below."
+          }
+        },
+        {
+          "id": "168",
+          "zone": "Happiness Island",
+          "hint": {
+            "fr": "Sur la statue, côté ouest-sud-ouest : tire d'en bas.",
+            "en": "On the statue, west-southwest side: shoot from below."
+          }
+        },
+        {
+          "id": "169",
+          "zone": "Berchem",
+          "hint": {
+            "fr": "À l'est de la caserne de pompiers.",
+            "en": "East of the fire station."
+          }
+        },
+        {
+          "id": "170",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au sud-est, à l'ouest du tunnel Booth.",
+            "en": "Southeast side, west of Booth Tunnel."
+          }
+        },
+        {
+          "id": "171",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au sud-sud-est d'un restaurant de riz.",
+            "en": "South-southeast of a rice restaurant."
+          }
+        },
+        {
+          "id": "172",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au sud-ouest d'un restaurant de riz.",
+            "en": "Southwest of a rice restaurant."
+          }
+        },
+        {
+          "id": "173",
+          "zone": "Port Tudor",
+          "hint": {
+            "fr": "Au nord-ouest, à l'armurerie souterraine.",
+            "en": "Northwest side, at the underground gun shop."
+          }
+        },
+        {
+          "id": "174",
+          "zone": "Acter",
+          "hint": {
+            "fr": "À l'est, près de l'hôpital de North Tudor.",
+            "en": "East side, near the North Tudor medical center."
+          }
+        },
+        {
+          "id": "175",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "À l'est, au nord-ouest de la planque d'Alderney.",
+            "en": "East side, northwest of the Alderney safehouse."
+          }
+        },
+        {
+          "id": "176",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au nord-est de la planque d'Alderney.",
+            "en": "Northeast of the Alderney safehouse."
+          }
+        },
+        {
+          "id": "177",
+          "zone": "Leftwood",
+          "hint": {
+            "fr": "Dans l'herbe, au nord de la clôture du commissariat.",
+            "en": "On the grass north of the police station fence."
+          }
+        },
+        {
+          "id": "178",
+          "zone": "Leftwood",
+          "hint": {
+            "fr": "Sous un arbre près des ambulances de l'hôpital de Westdyke.",
+            "en": "Under a tree by the ambulances at Westdyke hospital."
+          }
+        },
+        {
+          "id": "179",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Au sud, près de l'hôpital de Westdyke.",
+            "en": "South side, near Westdyke hospital."
+          }
+        },
+        {
+          "id": "180",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Sur un petit auvent au-dessus de l'entrée du club de strip-tease.",
+            "en": "On a small awning over the strip club entrance."
+          }
+        },
+        {
+          "id": "181",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Près de la limite d'Acter, au nord du club de strip-tease.",
+            "en": "Near the Acter border, north of the strip club."
+          }
+        },
+        {
+          "id": "182",
+          "zone": "Berchem",
+          "hint": {
+            "fr": "Au nord de la caserne de pompiers.",
+            "en": "North of the fire station."
+          }
+        },
+        {
+          "id": "183",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "À la limite de Leftwood, au sud-ouest de l'hôpital de Westdyke.",
+            "en": "On the Leftwood border, southwest of Westdyke hospital."
+          }
+        },
+        {
+          "id": "184",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "À l'ouest-sud-ouest du commissariat, un autre pigeon juste au nord.",
+            "en": "West-southwest of the police station, another pigeon just north."
+          }
+        },
+        {
+          "id": "185",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Au nord-ouest, près du club de strip-tease.",
+            "en": "Northwest side, near the strip club."
+          }
+        },
+        {
+          "id": "186",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Au sud, au nord-est de la caserne de Berchem.",
+            "en": "South side, northeast of the Berchem fire station."
+          }
+        },
+        {
+          "id": "187",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Au sud-ouest, au départ des missions de Pegorino.",
+            "en": "Southwest side, at Pegorino's mission start."
+          }
+        },
+        {
+          "id": "188",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "À l'ouest, au sud de la station de lavage.",
+            "en": "West side, south of the car wash."
+          }
+        },
+        {
+          "id": "189",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "À l'est, au nord-nord-est du Burger Shot.",
+            "en": "East side, north-northeast of Burger Shot."
+          }
+        },
+        {
+          "id": "190",
+          "zone": "Normandy",
+          "hint": {
+            "fr": "Au nord-ouest, au départ des missions de Phil Bell.",
+            "en": "Northwest side, at Phil Bell's mission start."
+          }
+        },
+        {
+          "id": "191",
+          "zone": "Port Tudor",
+          "hint": {
+            "fr": "Au nord-ouest, au sud-est du Pay 'n' Spray.",
+            "en": "Northwest side, southeast of Pay 'n' Spray."
+          }
+        },
+        {
+          "id": "192",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Au nord-ouest, près d'Acter, à l'est de la caserne.",
+            "en": "Northwest side near Acter, east of the fire station."
+          }
+        },
+        {
+          "id": "193",
+          "zone": "Acter",
+          "hint": {
+            "fr": "Au sud, près du commissariat.",
+            "en": "South side, near the police station."
+          }
+        },
+        {
+          "id": "194",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "À l'ouest du commissariat, un autre pigeon au sud.",
+            "en": "West of the police station, another pigeon to the south."
+          }
+        },
+        {
+          "id": "195",
+          "zone": "Varsity Heights",
+          "hint": {
+            "fr": "Au pied du pont Hickey, près d'un autre pigeon.",
+            "en": "At the foot of Hickey Bridge, near another pigeon."
+          }
+        },
+        {
+          "id": "196",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Au sud-est, au sud du club de strip-tease.",
+            "en": "Southeast side, south of the strip club."
+          }
+        },
+        {
+          "id": "197",
+          "zone": {
+            "fr": "Ponts de Liberty City",
+            "en": "Liberty City bridges"
+          },
+          "hint": {
+            "fr": "Sur le pont East Borough, entre Charge Island et East Island.",
+            "en": "On East Borough Bridge, between Charge Island and East Island."
+          }
+        },
+        {
+          "id": "198",
+          "zone": {
+            "fr": "Ponts de Liberty City",
+            "en": "Liberty City bridges"
+          },
+          "hint": {
+            "fr": "Sur le pont Algonquin, entre Colony Island et BOABO.",
+            "en": "On Algonquin Bridge, between Colony Island and BOABO."
+          }
+        },
+        {
+          "id": "199",
+          "zone": "South Bohan",
+          "hint": {
+            "fr": "À la limite de Fortside, juste au nord de la planque.",
+            "en": "On the Fortside border, just north of the safehouse."
+          }
+        },
+        {
+          "id": "200",
+          "zone": "Fortside",
+          "hint": {
+            "fr": "À la limite de South Bohan, un peu plus au nord de la planque.",
+            "en": "On the South Bohan border, a bit further north of the safehouse."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sauts",
+      "title": {
+        "fr": "Sauts acrobatiques",
+        "en": "Stunt jumps"
+      },
+      "character": {
+        "fr": "Niko",
+        "en": "Niko"
+      },
+      "unlock": {
+        "fr": "Disponibles au fil de l'ouverture des îles. Prends de la vitesse : le saut est validé par un ralenti.",
+        "en": "Available as the islands open up. Build up speed: a slow-motion shot confirms the jump."
+      },
+      "reward": {
+        "fr": "Un succès / trophée pour les 50 (pas d'argent).",
+        "en": "An achievement / trophy for all 50 (no money)."
+      },
+      "note": {
+        "fr": "Les sauts n° 33 et 44 se font en bateau sur le fleuve Humboldt.",
+        "en": "Jumps #33 and #44 are done by boat on the Humboldt River."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Rampe sur Franklin Street, au-dessus d'un dépôt de carburant.",
+            "en": "Ramp on Franklin Street over a fuel yard."
+          }
+        },
+        {
+          "id": "2",
+          "zone": "The Triangle",
+          "hint": {
+            "fr": "Rampe sur une benne, Jade Street.",
+            "en": "Dumpster ramp on Jade Street."
+          }
+        },
+        {
+          "id": "3",
+          "zone": "South Bohan",
+          "hint": {
+            "fr": "Rampe bleue au bout d'une voie rapide inachevée.",
+            "en": "Blue ramp at the end of an unfinished expressway."
+          }
+        },
+        {
+          "id": "4",
+          "zone": "Industrial",
+          "hint": {
+            "fr": "Rampe près d'une grue, vers un pont de la voie rapide.",
+            "en": "Ramp by a crane, toward an expressway bridge."
+          }
+        },
+        {
+          "id": "5",
+          "zone": "Fishmarket",
+          "hint": {
+            "fr": "Rampe dans une ruelle d'Emerald Street.",
+            "en": "Alley ramp on Emerald Street."
+          }
+        },
+        {
+          "id": "6",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Benne de chantier dans Concord Avenue fermée.",
+            "en": "Builders' skip on closed-off Concord Avenue."
+          }
+        },
+        {
+          "id": "7",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Tas de gravier dans une ruelle.",
+            "en": "Gravel pile in an alley."
+          }
+        },
+        {
+          "id": "8",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Tas de gravats dans une allée de Keneckie Avenue.",
+            "en": "Rubble pile in a Keneckie Avenue driveway."
+          }
+        },
+        {
+          "id": "9",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Virage au bout sud de la voie express Plumbers Skyway.",
+            "en": "Curve at the south end of the Plumbers Skyway."
+          }
+        },
+        {
+          "id": "10",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Rampe dans une allée de service de Big Horn Drive.",
+            "en": "Service alley ramp on Big Horn Drive."
+          }
+        },
+        {
+          "id": "11",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Dernier étage d'un parking de Sacramento Avenue.",
+            "en": "Top deck of a Sacramento Avenue parking garage."
+          }
+        },
+        {
+          "id": "12",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Ruelle d'un pressing, Tinconderoga Avenue.",
+            "en": "Dry cleaner's alley on Tinconderoga Avenue."
+          }
+        },
+        {
+          "id": "13",
+          "zone": "Steinway",
+          "hint": {
+            "fr": "Morris Street, au-dessus d'un parc.",
+            "en": "Morris Street, over a park."
+          }
+        },
+        {
+          "id": "14",
+          "zone": "Cerveza Heights",
+          "hint": {
+            "fr": "Rampe sur un toit de San Jacinto Avenue.",
+            "en": "Rooftop ramp on San Jacinto Avenue."
+          }
+        },
+        {
+          "id": "15",
+          "zone": "Cerveza Heights",
+          "hint": {
+            "fr": "Rampe sur un toit au nord de Huntington Street.",
+            "en": "Rooftop ramp north of Huntington Street."
+          }
+        },
+        {
+          "id": "16",
+          "zone": "Purgatory",
+          "hint": {
+            "fr": "Au bout de l'ancienne voie ferrée aérienne.",
+            "en": "At the end of the old elevated rail line."
+          }
+        },
+        {
+          "id": "17",
+          "zone": "Leftwood",
+          "hint": {
+            "fr": "Talus herbeux de Sacramento Avenue.",
+            "en": "Grassy bank on Sacramento Avenue."
+          }
+        },
+        {
+          "id": "18",
+          "zone": "Beechwood City",
+          "hint": {
+            "fr": "Freetown Avenue, au-dessus de la voie rapide.",
+            "en": "Freetown Avenue, over the expressway."
+          }
+        },
+        {
+          "id": "19",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Rampe métallique sur Grummer Road.",
+            "en": "Metal ramp on Grummer Road."
+          }
+        },
+        {
+          "id": "20",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Allée d'une maison de Beaverhead Avenue.",
+            "en": "A house driveway on Beaverhead Avenue."
+          }
+        },
+        {
+          "id": "21",
+          "zone": "Industrial",
+          "hint": {
+            "fr": "Pont de la voie rapide, à l'ouest du saut n° 4.",
+            "en": "Expressway bridge west of jump #4."
+          }
+        },
+        {
+          "id": "22",
+          "zone": "The Exchange",
+          "hint": {
+            "fr": "Rampe d'Amethyst Street au-dessus de l'autoroute.",
+            "en": "Amethyst Street ramp over the freeway."
+          }
+        },
+        {
+          "id": "23",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Rampe de Rand Avenue au-dessus de la rivière.",
+            "en": "Rand Avenue ramp over the river."
+          }
+        },
+        {
+          "id": "24",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Planches de la promenade jusqu'à l'héliport.",
+            "en": "Boardwalk planks toward the helipad."
+          }
+        },
+        {
+          "id": "25",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Rampe d'un pont abandonné de Plumbbob Avenue.",
+            "en": "Ramp on a derelict Plumbbob Avenue bridge."
+          }
+        },
+        {
+          "id": "26",
+          "zone": "City Hall",
+          "hint": {
+            "fr": "Sous les arches du bâtiment municipal.",
+            "en": "Through the arches of the municipal building."
+          }
+        },
+        {
+          "id": "27",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Benne dans une ruelle de Bedrock Street.",
+            "en": "Dumpster in a Bedrock Street alley."
+          }
+        },
+        {
+          "id": "28",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Benne près d'un abribus d'Applewhite Street.",
+            "en": "Dumpster by a bus shelter on Applewhite Street."
+          }
+        },
+        {
+          "id": "29",
+          "zone": "Francis Intl. Airport",
+          "hint": {
+            "fr": "Rampe sur une benne de Tudor Street.",
+            "en": "Skip ramp on Tudor Street."
+          }
+        },
+        {
+          "id": "30",
+          "zone": "BOABO",
+          "hint": {
+            "fr": "Rampe en planches près de la voie ferrée.",
+            "en": "Plank ramp by the railway."
+          }
+        },
+        {
+          "id": "31",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Galveston Avenue, entre deux immeubles.",
+            "en": "Galveston Avenue, between apartment blocks."
+          }
+        },
+        {
+          "id": "32",
+          "zone": "Alderney Industrial Park",
+          "hint": {
+            "fr": "Plumbers Skyway, voies opposées, par un trou dans le mur.",
+            "en": "Plumbers Skyway, oncoming lanes, through a gap in the wall."
+          }
+        },
+        {
+          "id": "33",
+          "zone": "Humboldt River",
+          "hint": {
+            "fr": "En bateau : saut au nord du fleuve.",
+            "en": "By boat: jump on the north part of the river."
+          }
+        },
+        {
+          "id": "34",
+          "zone": "East Holland",
+          "hint": {
+            "fr": "Rampe métallique de Vespucci Circus.",
+            "en": "Metal ramp at Vespucci Circus."
+          }
+        },
+        {
+          "id": "35",
+          "zone": "Rotterdam Hill",
+          "hint": {
+            "fr": "Rampe étroite sur le pont Algonquin.",
+            "en": "Narrow ramp on Algonquin Bridge."
+          }
+        },
+        {
+          "id": "36",
+          "zone": "Middle Park East",
+          "hint": {
+            "fr": "Travaux sur le terre-plein d'Union Drive East.",
+            "en": "Roadworks on the Union Drive East median."
+          }
+        },
+        {
+          "id": "37",
+          "zone": "Alderney City",
+          "hint": {
+            "fr": "Marches d'un bâtiment de Koresh Square.",
+            "en": "Building steps on Koresh Square."
+          }
+        },
+        {
+          "id": "38",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Pente le long d'un escalier, Exeter Avenue.",
+            "en": "Slope beside steps on Exeter Avenue."
+          }
+        },
+        {
+          "id": "39",
+          "zone": "Northwood",
+          "hint": {
+            "fr": "Tas de gravats sous la voie ferrée.",
+            "en": "Rubble ramp under the rail line."
+          }
+        },
+        {
+          "id": "40",
+          "zone": "Berchem",
+          "hint": {
+            "fr": "Benne entre des garages d'Aspdin Drive.",
+            "en": "Dumpster between garages on Aspdin Drive."
+          }
+        },
+        {
+          "id": "41",
+          "zone": "Star Junction",
+          "hint": {
+            "fr": "Benne au milieu de la route, Denver-Exeter Avenue.",
+            "en": "Mid-road dumpster on Denver-Exeter Avenue."
+          }
+        },
+        {
+          "id": "42",
+          "zone": "Westdyke",
+          "hint": {
+            "fr": "Banc de sable au-dessus d'une crique.",
+            "en": "Sand bank over an inlet."
+          }
+        },
+        {
+          "id": "43",
+          "zone": "Cerveza Heights",
+          "hint": {
+            "fr": "Saut au-dessus de la voie rapide, Tutelo Avenue.",
+            "en": "Jump over the expressway on Tutelo Avenue."
+          }
+        },
+        {
+          "id": "44",
+          "zone": "Humboldt River",
+          "hint": {
+            "fr": "En bateau : saut entre deux barges.",
+            "en": "By boat: jump between two barges."
+          }
+        },
+        {
+          "id": "45",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Montée le long des rails de Port Tudor, Roebuck Road.",
+            "en": "Climb along the Port Tudor rails on Roebuck Road."
+          }
+        },
+        {
+          "id": "46",
+          "zone": "East Island City",
+          "hint": {
+            "fr": "Rampe d'un parking de Hooper Street.",
+            "en": "Parking garage ramp on Hooper Street."
+          }
+        },
+        {
+          "id": "47",
+          "zone": "Tudor",
+          "hint": {
+            "fr": "Sortie de la Plumbers Skyway, rampe vers l'eau.",
+            "en": "Plumbers Skyway exit, ramp toward the water."
+          }
+        },
+        {
+          "id": "48",
+          "zone": "Hatton Gardens",
+          "hint": {
+            "fr": "Rampe sur le toit d'un bâtiment.",
+            "en": "Ramp on a building roof."
+          }
+        },
+        {
+          "id": "49",
+          "zone": "Francis Intl. Airport",
+          "hint": {
+            "fr": "Tas de gravier près d'un panneau.",
+            "en": "Gravel pile by a sign."
+          }
+        },
+        {
+          "id": "50",
+          "zone": "Industrial",
+          "hint": {
+            "fr": "Rampe bleue de Lompoc Avenue au-dessus de l'eau.",
+            "en": "Blue ramp on Lompoc Avenue over the water."
+          }
+        }
       ]
     }
   ]
