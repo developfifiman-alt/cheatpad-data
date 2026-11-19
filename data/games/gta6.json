@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updated": "2026-11-19",
   "notice": {
     "fr": "Guide non officiel. GTA 6 sort le 19 novembre 2026 : ces codes ont été relevés par la presse et les premiers guides, ils restent à confirmer en jeu. Ils ne fonctionnent qu'une fois l'histoire terminée et leur défi réussi (voir les astuces). D'autres codes seront ajoutés dès leur découverte. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
@@ -597,6 +597,739 @@
         "fr": "Les médailles du stand de tir débloquent trois codes d'armes, l'un après l'autre : 25 médailles de bronze ou mieux pour les munitions au maximum, 25 d'argent ou mieux pour les munitions infinies, et 25 d'or pour tirer sans recharger. Vise directement l'or sur chaque épreuve : une médaille d'or compte aussi pour les deux premiers paliers.",
         "en": "Shooting-range medals unlock three weapon cheats, one after another: 25 bronze or better for max ammo, 25 silver or better for infinite ammo, and 25 gold for no reload. Go straight for gold in each event: a gold medal also counts toward the first two tiers."
       }
+    }
+  ],
+  "collections": [
+    {
+      "id": "defis-triches",
+      "title": {
+        "fr": "Débloquer les triches",
+        "en": "Unlock the cheats"
+      },
+      "character": {
+        "fr": "Lucia ou Jason",
+        "en": "Lucia or Jason"
+      },
+      "unlock": {
+        "fr": "Termine d'abord l'histoire principale : l'onglet « Triches » apparaît dans le menu Progression. Chaque défi réussi débloque ensuite une triche.",
+        "en": "First finish the main story: the “Cheats” tab appears in the Progress menu. Each completed challenge then unlocks one cheat."
+      },
+      "reward": {
+        "fr": "Les 61 triches du jeu. Le dernier défi (tous les défis réussis) donne l'avion de chasse.",
+        "en": "All 61 cheats in the game. The final challenge (every challenge completed) gives the fighter jet."
+      },
+      "note": {
+        "fr": "Liste vérifiée sur deux guides. Les combinaisons connues sont dans l'onglet Codes ; les autres arrivent dès leur découverte.",
+        "en": "List checked against two guides. Known combinations are in the Codes tab; the rest will be added as soon as they're found."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "250 000 $ — Termine l'histoire principale.",
+            "en": "$250,000 — Finish the main story."
+          }
+        },
+        {
+          "id": "2",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Ivresse — Dépense 2 500 $ en alcool.",
+            "en": "Drunk — Spend $2,500 on alcohol."
+          }
+        },
+        {
+          "id": "3",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Augmenter la « chaleur » — Échappe 25 fois à un avis de recherche 3 étoiles.",
+            "en": "Raise heat level — Escape a 3-star wanted level 25 times."
+          }
+        },
+        {
+          "id": "4",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Augmenter l'avis de recherche — Échappe 50 fois à un avis de recherche 3 étoiles.",
+            "en": "Raise wanted level — Escape a 3-star wanted level 50 times."
+          }
+        },
+        {
+          "id": "5",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Concentration illimitée — Termine l'histoire principale.",
+            "en": "Unlimited focus — Finish the main story."
+          }
+        },
+        {
+          "id": "6",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Pas de dégâts de chute — Survis 20 fois à une chute libre de 40 pieds (environ 12 m).",
+            "en": "No fall damage — Survive a 40-foot freefall 20 times."
+          }
+        },
+        {
+          "id": "7",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Parachute — Fais 50 sauts en parachute ou en base jump depuis 300 pieds (environ 90 m) ou plus.",
+            "en": "Parachute — Complete 50 skydives or BASE jumps from 300 feet or higher."
+          }
+        },
+        {
+          "id": "8",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Gilet pare-balles — Fais 100 séances de sport.",
+            "en": "Body armor — Complete 100 workouts."
+          }
+        },
+        {
+          "id": "9",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Réparer le véhicule — Finis 1er dans 10 courses sur les trois circuits (Gellhorn, Thrillbilly, Boone).",
+            "en": "Repair vehicle — Finish 1st in 10 races at the three tracks (Gellhorn, Thrillbilly, Boone)."
+          }
+        },
+        {
+          "id": "10",
+          "zone": {
+            "fr": "Joueur",
+            "en": "Player"
+          },
+          "hint": {
+            "fr": "Nitro illimitée — Réussis 50 sauts acrobatiques.",
+            "en": "Unlimited nitrous — Complete 50 stunt jumps."
+          }
+        },
+        {
+          "id": "11",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Munitions au maximum — Gagne 25 médailles de bronze (ou mieux) au stand de tir.",
+            "en": "Max ammo — Win 25 bronze (or better) shooting-range medals."
+          }
+        },
+        {
+          "id": "12",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Munitions infinies — Gagne 25 médailles d'argent (ou mieux) au stand de tir.",
+            "en": "Infinite ammo — Win 25 silver (or better) shooting-range medals."
+          }
+        },
+        {
+          "id": "13",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Pas de rechargement — Gagne 25 médailles d'or au stand de tir.",
+            "en": "No reload — Win 25 gold shooting-range medals."
+          }
+        },
+        {
+          "id": "14",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Toutes les armes explosives — Lance 100 grenades.",
+            "en": "All explosive weapons — Throw 100 grenades."
+          }
+        },
+        {
+          "id": "15",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Munitions incendiaires — Brûle 100 ennemis.",
+            "en": "Incendiary ammo — Burn 100 enemies with fire damage."
+          }
+        },
+        {
+          "id": "16",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Bouteilles explosives — Lance 100 cocktails Molotov.",
+            "en": "Exploding bottles — Throw 100 Molotovs."
+          }
+        },
+        {
+          "id": "17",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Fusil à pompe explosif — Blesse 100 ennemis avec des explosifs.",
+            "en": "Explosive shotgun — Hit 100 enemies with explosive damage."
+          }
+        },
+        {
+          "id": "18",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Lance-roquettes H-AT — Fais exploser 100 véhicules.",
+            "en": "H-AT launcher — Blow up 100 vehicles."
+          }
+        },
+        {
+          "id": "19",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Impacts surpuissants (Attack Force) — Termine l'histoire principale.",
+            "en": "Super impacts (Attack Force) — Finish the main story."
+          }
+        },
+        {
+          "id": "20",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Ballons explosifs (Exploding Balls) — Blesse 20 ennemis avec des explosifs.",
+            "en": "Exploding balls — Hit 20 enemies with explosive damage."
+          }
+        },
+        {
+          "id": "21",
+          "zone": {
+            "fr": "Combat",
+            "en": "Combat"
+          },
+          "hint": {
+            "fr": "Collisions surpuissantes (Vehicle Force) — Élimine 25 ennemis avec un véhicule.",
+            "en": "Super collisions (Vehicle Force) — Kill 25 enemies with a vehicle."
+          }
+        },
+        {
+          "id": "22",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Ambulance — Découvre l'ambulance (menu Progression).",
+            "en": "Ambulance — Discover the ambulance (Progress menu)."
+          }
+        },
+        {
+          "id": "23",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Hydroglisseur — Réussis 5 défis de survie.",
+            "en": "Airboat — Complete 5 survival challenges."
+          }
+        },
+        {
+          "id": "24",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Banshee — Réussis tous les défis de combat.",
+            "en": "Banshee — Complete all combat challenges."
+          }
+        },
+        {
+          "id": "25",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "BMX — Réussis 5 défis de forme physique.",
+            "en": "BMX — Complete 5 fitness challenges."
+          }
+        },
+        {
+          "id": "26",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Boomazoom — Réussis 5 défis « shopping ».",
+            "en": "Boomazoom — Complete 5 shopping challenges."
+          }
+        },
+        {
+          "id": "27",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Carbon RS — Réussis tous les défis d'exploration.",
+            "en": "Carbon RS — Complete all exploration challenges."
+          }
+        },
+        {
+          "id": "28",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Dominator 65 — Réussis tous les défis de forme physique.",
+            "en": "'65 Dominator — Complete all fitness challenges."
+          }
+        },
+        {
+          "id": "29",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Emerus — Réussis tous les défis de véhicules.",
+            "en": "Emerus — Complete all vehicle challenges."
+          }
+        },
+        {
+          "id": "30",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Flamant rose gonflable — Détruis 50 flamants roses de cocaïne.",
+            "en": "Inflatable flamingo — Destroy 50 cocaine flamingos."
+          }
+        },
+        {
+          "id": "31",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Camion de pompiers — Découvre le camion de pompiers (menu Progression).",
+            "en": "Fire truck — Discover the fire truck (Progress menu)."
+          }
+        },
+        {
+          "id": "32",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Taxi — Réussis 5 défis sportifs.",
+            "en": "Taxi — Complete 5 sports challenges."
+          }
+        },
+        {
+          "id": "33",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Avion de chasse Lazer — Réussis TOUS les défis du jeu.",
+            "en": "Lazer jet — Complete ALL challenges."
+          }
+        },
+        {
+          "id": "34",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Bulldozer — Découvre le bulldozer (menu Progression).",
+            "en": "Bulldozer — Discover the bulldozer (Progress menu)."
+          }
+        },
+        {
+          "id": "35",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Mallard — Réussis 5 défis de véhicules.",
+            "en": "Mallard — Complete 5 vehicle challenges."
+          }
+        },
+        {
+          "id": "36",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Voiturette de golf — Réussis tous les défis sportifs.",
+            "en": "Golf cart — Complete all sports challenges."
+          }
+        },
+        {
+          "id": "37",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Tank Rhino — Réussis tous les défis de survie.",
+            "en": "Rhino tank — Complete all survival challenges."
+          }
+        },
+        {
+          "id": "38",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Moto Sanchez — Réussis 5 défis criminels.",
+            "en": "Sanchez bike — Complete 5 criminal challenges."
+          }
+        },
+        {
+          "id": "39",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Hélicoptère Sea Sparrow — Réussis 5 défis d'exploration.",
+            "en": "Sea Sparrow helicopter — Complete 5 exploration challenges."
+          }
+        },
+        {
+          "id": "40",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Bateau Speeder — Réussis 5 défis de combat.",
+            "en": "Speeder boat — Complete 5 combat challenges."
+          }
+        },
+        {
+          "id": "41",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Thrax — Réussis tous les défis « shopping ».",
+            "en": "Thrax — Complete all shopping challenges."
+          }
+        },
+        {
+          "id": "42",
+          "zone": {
+            "fr": "Véhicules",
+            "en": "Vehicles"
+          },
+          "hint": {
+            "fr": "Moto Zombie Bobber — Réussis tous les défis criminels.",
+            "en": "Zombie Bobber bike — Complete all criminal challenges."
+          }
+        },
+        {
+          "id": "43",
+          "zone": {
+            "fr": "Environnement",
+            "en": "Environment"
+          },
+          "hint": {
+            "fr": "Avancer l'heure — Trouve 10 montres de collection.",
+            "en": "Move time forward — Find 10 collectible watches."
+          }
+        },
+        {
+          "id": "44",
+          "zone": {
+            "fr": "Environnement",
+            "en": "Environment"
+          },
+          "hint": {
+            "fr": "Figer l'heure — Trouve 20 montres de collection.",
+            "en": "Pause time of day — Find 20 collectible watches."
+          }
+        },
+        {
+          "id": "45",
+          "zone": {
+            "fr": "Environnement",
+            "en": "Environment"
+          },
+          "hint": {
+            "fr": "Changer la météo — Termine l'histoire principale.",
+            "en": "Cycle weather — Finish the main story."
+          }
+        },
+        {
+          "id": "46",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Golden Hour — Passe 4 heures (en jeu) main dans la main avec ton ou ta partenaire.",
+            "en": "Golden Hour — Spend 4 (in-game) hours holding hands."
+          }
+        },
+        {
+          "id": "47",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Powdered Sugar — Scanne tous les débris spatiaux avec l'appli WAiNK.",
+            "en": "Powdered Sugar — Scan all space debris with WAiNK."
+          }
+        },
+        {
+          "id": "48",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Pinhole — Nettoie 25 opérations de gangs avec ton ou ta partenaire.",
+            "en": "Pinhole — Clear 25 gang operations with your partner."
+          }
+        },
+        {
+          "id": "49",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Neon Jungle — Découvre les 16 véhicules « Girlypop ».",
+            "en": "Neon Jungle — Discover all 16 Girlypop vehicles."
+          }
+        },
+        {
+          "id": "50",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Yesteryear — Découvre la Ridgeway.",
+            "en": "Yesteryear — Discover the Ridgeway."
+          }
+        },
+        {
+          "id": "51",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Cataclysm — Découvre la Vamos de Martha (menu Progression).",
+            "en": "Cataclysm — Discover Martha's Vamos (Progress menu)."
+          }
+        },
+        {
+          "id": "52",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Videotape — Fais 50 activités avec ton ou ta partenaire.",
+            "en": "Videotape — Complete 50 activities with your partner."
+          }
+        },
+        {
+          "id": "53",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Dark Mirror — Gagne 500 000 $ en vendant des véhicules.",
+            "en": "Dark Mirror — Make $500,000 selling vehicles."
+          }
+        },
+        {
+          "id": "54",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Migraine — Tiens 6 minutes avec un avis de recherche 6 étoiles.",
+            "en": "Migraine — Survive 6 minutes with a 6-star wanted level."
+          }
+        },
+        {
+          "id": "55",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Dollhouse — Passe 8 heures (en jeu) avec ton ou ta partenaire.",
+            "en": "Dollhouse — Spend 8 (in-game) hours with your partner."
+          }
+        },
+        {
+          "id": "56",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Bubblegum — Trouve les 24 cartes à collectionner de l'équipe de Vice City.",
+            "en": "Bubblegum — Find all 24 Vice City team collectible cards."
+          }
+        },
+        {
+          "id": "57",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Fast Forward — Fais 50 séances de méditation.",
+            "en": "Fast Forward — Complete 50 meditations."
+          }
+        },
+        {
+          "id": "58",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Fisheye — Attrape 100 poissons.",
+            "en": "Fisheye — Catch 100 fish."
+          }
+        },
+        {
+          "id": "59",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Faded Glory — Braque 50 magasins avec ton ou ta partenaire.",
+            "en": "Faded Glory — Rob 50 stores with your partner."
+          }
+        },
+        {
+          "id": "60",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Pixel Art — Gagne 250 000 $ en vendant des objets de collection.",
+            "en": "Pixel Art — Make $250,000 selling collectibles."
+          }
+        },
+        {
+          "id": "61",
+          "zone": {
+            "fr": "Filtres visuels",
+            "en": "Visual filters"
+          },
+          "hint": {
+            "fr": "Hellscape — Vole 100 véhicules de police.",
+            "en": "Hellscape — Steal 100 cop vehicles."
+          }
+        }
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "id": "arsenal",
+      "title": {
+        "fr": "Arsenal",
+        "en": "Arsenal"
+      },
+      "description": {
+        "fr": "Gilet, munitions au maximum et plus jamais besoin de recharger.",
+        "en": "Armor, max ammo and never reload again."
+      },
+      "codes": [
+        "gilet",
+        "munitions-max",
+        "sans-rechargement"
+      ]
+    },
+    {
+      "id": "chaos",
+      "title": {
+        "fr": "Mode chaos",
+        "en": "Chaos mode"
+      },
+      "description": {
+        "fr": "Tout vole en éclats… et la police débarque.",
+        "en": "Everything goes flying… and the police show up."
+      },
+      "codes": [
+        "attack-force",
+        "vehicle-force",
+        "exploding-balls",
+        "hausse-recherche"
+      ]
     }
   ]
 }
