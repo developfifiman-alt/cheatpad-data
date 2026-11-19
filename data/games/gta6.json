@@ -1,9 +1,9 @@
 {
-  "version": 3,
-  "updated": "2026-11-04",
+  "version": 5,
+  "updated": "2026-11-19",
   "notice": {
-    "fr": "Guide non officiel. Les codes seront ajoutés dès leur découverte après la sortie du jeu. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
-    "en": "Unofficial guide. Codes will be added as soon as they are discovered after the game's release. This app is not affiliated with Rockstar Games or Take-Two Interactive."
+    "fr": "Guide non officiel. GTA 6 sort le 19 novembre 2026 : ces codes ont été relevés par la presse et les premiers guides, ils restent à confirmer en jeu. Ils ne fonctionnent qu'une fois l'histoire terminée et leur défi réussi (voir les astuces). D'autres codes seront ajoutés dès leur découverte. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
+    "en": "Unofficial guide. GTA 6 releases on November 19, 2026: these cheats were reported by the press and early guides and are still to be confirmed in game. They only work once the story is finished and their challenge completed (see tips). More cheats will be added as they're discovered. This app is not affiliated with Rockstar Games or Take-Two Interactive."
   },
   "categories": [
     {
@@ -40,8 +40,563 @@
         "fr": "Fun",
         "en": "Fun"
       }
+    },
+    {
+      "id": "filtres",
+      "name": {
+        "fr": "Filtres visuels",
+        "en": "Visual filters"
+      }
     }
   ],
-  "codes": [],
-  "tips": []
+  "codes": [
+    {
+      "id": "argent-250k",
+      "title": {
+        "fr": "250 000 $",
+        "en": "$250,000"
+      },
+      "description": {
+        "fr": "Ajoute 250 000 $ à ton personnage. Tu peux le refaire autant de fois que tu veux.",
+        "en": "Gives your character $250,000. You can repeat it as many times as you like."
+      },
+      "category": "joueur",
+      "buttons": [
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "HAUT",
+        "GAUCHE",
+        "BAS",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "hausse-chaleur",
+      "title": {
+        "fr": "Augmenter la « chaleur »",
+        "en": "Raise heat level"
+      },
+      "description": {
+        "fr": "Fait monter ton niveau de « chaleur » sur toute la carte.",
+        "en": "Raises your heat level across the map."
+      },
+      "category": "joueur",
+      "buttons": [
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "BAS",
+        "HAUT",
+        "BAS",
+        "HAUT"
+      ],
+      "notes": {
+        "fr": "Se débloque : Échappe 25 fois à un avis de recherche 3 étoiles. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Escape a 3-star wanted level 25 times. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "hausse-recherche",
+      "title": {
+        "fr": "Augmenter l'avis de recherche",
+        "en": "Raise wanted level"
+      },
+      "description": {
+        "fr": "Fait monter ton niveau de recherche par la police sur toute la carte.",
+        "en": "Raises your wanted level across the map."
+      },
+      "category": "joueur",
+      "buttons": [
+        "GAUCHE",
+        "BAS",
+        "DROITE",
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "HAUT"
+      ],
+      "verified": false,
+      "notes": {
+        "fr": "Se débloque : Échappe 50 fois à un avis de recherche 3 étoiles. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Escape a 3-star wanted level 50 times. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      }
+    },
+    {
+      "id": "focus-illimite",
+      "title": {
+        "fr": "Concentration illimitée",
+        "en": "Unlimited focus"
+      },
+      "description": {
+        "fr": "La jauge de concentration ne se vide plus.",
+        "en": "The focus meter never runs out."
+      },
+      "category": "joueur",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "HAUT",
+        "BAS",
+        "HAUT",
+        "BAS",
+        "HAUT",
+        "BAS",
+        "HAUT",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "gilet",
+      "title": {
+        "fr": "Gilet pare-balles",
+        "en": "Body armor"
+      },
+      "description": {
+        "fr": "Te donne un gilet pare-balles.",
+        "en": "Gives you body armor."
+      },
+      "category": "joueur",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "GAUCHE",
+        "HAUT",
+        "HAUT",
+        "HAUT",
+        "HAUT",
+        "HAUT",
+        "BAS",
+        "BAS"
+      ],
+      "notes": {
+        "fr": "Se débloque : Fais 100 séances de sport. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Complete 100 workouts. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "munitions-max",
+      "title": {
+        "fr": "Munitions au maximum",
+        "en": "Max ammo"
+      },
+      "description": {
+        "fr": "Remplit les munitions de toutes tes armes.",
+        "en": "Fills the ammo of all your weapons."
+      },
+      "category": "armes",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "GAUCHE",
+        "HAUT",
+        "HAUT",
+        "BAS",
+        "GAUCHE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Gagne 25 médailles de bronze (ou mieux) au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Win 25 bronze (or better) shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "munitions-infinies",
+      "title": {
+        "fr": "Munitions infinies",
+        "en": "Infinite ammo"
+      },
+      "description": {
+        "fr": "Tes munitions ne baissent plus.",
+        "en": "Your ammo no longer runs down."
+      },
+      "category": "armes",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "GAUCHE",
+        "HAUT",
+        "BAS",
+        "BAS",
+        "BAS"
+      ],
+      "notes": {
+        "fr": "Se débloque : Gagne 25 médailles d'argent (ou mieux) au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Win 25 silver (or better) shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "sans-rechargement",
+      "title": {
+        "fr": "Pas de rechargement",
+        "en": "No reload"
+      },
+      "description": {
+        "fr": "Tire sans jamais recharger.",
+        "en": "Shoot without ever reloading."
+      },
+      "category": "armes",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "GAUCHE",
+        "HAUT",
+        "BAS",
+        "BAS",
+        "HAUT"
+      ],
+      "notes": {
+        "fr": "Se débloque : Gagne 25 médailles d'or au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Win 25 gold shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "attack-force",
+      "title": {
+        "fr": "Impacts surpuissants",
+        "en": "Super impacts"
+      },
+      "description": {
+        "fr": "Tes balles et tes coups au corps à corps projettent les cibles en l'air.",
+        "en": "Your bullets and melee hits send targets flying."
+      },
+      "category": "armes",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "BAS",
+        "BAS",
+        "HAUT",
+        "BAS"
+      ],
+      "notes": {
+        "fr": "Nom dans le jeu : « Attack Force ». Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "In-game name: “Attack Force”. Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "exploding-balls",
+      "title": {
+        "fr": "Ballons explosifs",
+        "en": "Exploding balls"
+      },
+      "description": {
+        "fr": "Les ballons de sport explosent au moindre choc.",
+        "en": "Sports balls explode on impact."
+      },
+      "category": "armes",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "BAS",
+        "BAS",
+        "HAUT",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Nom dans le jeu : « Exploding Balls ». Se débloque : Blesse 20 ennemis avec des explosifs. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "In-game name: “Exploding Balls”. Unlock: Damage 20 enemies with explosives. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "vehicle-force",
+      "title": {
+        "fr": "Collisions surpuissantes",
+        "en": "Super collisions"
+      },
+      "description": {
+        "fr": "Les véhicules projettent violemment tout ce qu'ils percutent.",
+        "en": "Vehicles send flying anything they hit."
+      },
+      "category": "armes",
+      "buttons": [
+        "BAS",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "HAUT",
+        "BAS"
+      ],
+      "notes": {
+        "fr": "Nom dans le jeu : « Vehicle Force ». Se débloque : Élimine 25 ennemis avec un véhicule. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "In-game name: “Vehicle Force”. Unlock: Take out 25 enemies with a vehicle. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "meteo",
+      "title": {
+        "fr": "Changer la météo",
+        "en": "Cycle weather"
+      },
+      "description": {
+        "fr": "Fait défiler les différentes météos. Retape le code pour revenir à la normale.",
+        "en": "Cycles through the weather types. Enter the code again to return to normal."
+      },
+      "category": "monde",
+      "buttons": [
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "BAS",
+        "DROITE",
+        "HAUT",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "boomazoom",
+      "title": {
+        "fr": "Faire apparaître la Boomazoom",
+        "en": "Spawn Boomazoom"
+      },
+      "description": {
+        "fr": "Fait apparaître une Maibatsu Boomazoom à côté de toi.",
+        "en": "Spawns a Maibatsu Boomazoom next to you."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "GAUCHE",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "GAUCHE",
+        "HAUT",
+        "GAUCHE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Termine 5 défis « shopping ». Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Complete 5 shopping challenges. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "pumper",
+      "title": {
+        "fr": "Faire apparaître le camion de pompiers",
+        "en": "Spawn fire truck"
+      },
+      "description": {
+        "fr": "Fait apparaître un camion de pompiers MTL Pumper à côté de toi.",
+        "en": "Spawns an MTL Pumper fire truck next to you."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "GAUCHE",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "DROITE",
+        "DROITE",
+        "HAUT"
+      ],
+      "notes": {
+        "fr": "Se débloque : Découvre ce véhicule (il s'ajoute au menu Progression). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Discover this vehicle (it gets added to the Progress menu). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "bulldozer",
+      "title": {
+        "fr": "Faire apparaître un bulldozer",
+        "en": "Spawn bulldozer"
+      },
+      "description": {
+        "fr": "Fait apparaître un bulldozer HVY à côté de toi.",
+        "en": "Spawns an HVY Bulldozer next to you."
+      },
+      "category": "vehicules",
+      "buttons": [
+        "GAUCHE",
+        "HAUT",
+        "DROITE",
+        "BAS",
+        "GAUCHE",
+        "DROITE",
+        "DROITE",
+        "BAS"
+      ],
+      "notes": {
+        "fr": "Se débloque : Découvre ce véhicule (il s'ajoute au menu Progression). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Discover this vehicle (it gets added to the Progress menu). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "filtre-cataclysm",
+      "title": {
+        "fr": "Filtre « Cataclysm »",
+        "en": "“Cataclysm” filter"
+      },
+      "description": {
+        "fr": "Plonge le monde dans une fumée trouble. Retape le code pour l'enlever.",
+        "en": "Fills the world with murky smoke. Enter the code again to remove it."
+      },
+      "category": "filtres",
+      "buttons": [
+        "BAS",
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Découvre un véhicule précis (la Vamos de Martha). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Discover a specific vehicle (Martha's Vamos). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "filtre-dollhouse",
+      "title": {
+        "fr": "Filtre « Dollhouse »",
+        "en": "“Dollhouse” filter"
+      },
+      "description": {
+        "fr": "Couleurs très vives et image plus étroite. Retape le code pour l'enlever.",
+        "en": "Very vivid colors and a narrower picture. Enter the code again to remove it."
+      },
+      "category": "filtres",
+      "buttons": [
+        "BAS",
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "BAS",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Passe 8 heures (en jeu) avec ton ou ta partenaire. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Spend 8 (in-game) hours with your partner. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    },
+    {
+      "id": "filtre-faded-glory",
+      "title": {
+        "fr": "Filtre « Faded Glory »",
+        "en": "“Faded Glory” filter"
+      },
+      "description": {
+        "fr": "Effet de vieille télé couleur à tube. Retape le code pour l'enlever.",
+        "en": "Old color CRT TV look. Enter the code again to remove it."
+      },
+      "category": "filtres",
+      "buttons": [
+        "BAS",
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Braque 50 magasins avec ton ou ta partenaire. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
+        "en": "Unlock: Rob 50 stores with your partner. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+      },
+      "verified": false
+    }
+  ],
+  "tips": [
+    {
+      "id": "debloquer-codes",
+      "title": {
+        "fr": "Comment débloquer les codes",
+        "en": "How to unlock the cheats"
+      },
+      "body": {
+        "fr": "Dans GTA 6, les codes ne marchent pas dès le début. Il faut d'abord terminer l'histoire principale : un onglet « Triches » apparaît alors dans le menu Progression.\n\nEnsuite, chaque code a son propre défi à réussir (médailles au stand de tir, séances de sport, véhicules à découvrir…). L'onglet indique pour chaque code ce qu'il te reste à faire. Connaître la combinaison ne suffit pas : tant que le défi n'est pas réussi, le code ne fait rien.",
+        "en": "In GTA 6, cheats don't work from the start. You first need to finish the main story: a “Cheats” tab then appears in the Progress menu.\n\nAfter that, each cheat has its own challenge to complete (shooting-range medals, workouts, vehicles to discover…). The tab shows what's left to do for each cheat. Knowing the combination isn't enough: until the challenge is done, the cheat does nothing."
+      }
+    },
+    {
+      "id": "saisir-codes",
+      "title": {
+        "fr": "Saisir un code",
+        "en": "Entering a cheat"
+      },
+      "body": {
+        "fr": "1. En mode histoire, appuie sur Haut pour sortir le téléphone.\n2. Maintiens L1 et appuie sur R1 (LB et RB sur Xbox).\n3. Tape la suite de flèches avec la croix directionnelle : un message confirme l'activation.\n\nLes codes de météo et de filtres se désactivent en retapant le même code. En cas de doute, vérifie la combinaison exacte dans l'onglet « Triches » du menu Progression, et signale-nous tout code qui ne marche pas.",
+        "en": "1. In story mode, press Up to bring out the phone.\n2. Hold L1 and press R1 (LB and RB on Xbox).\n3. Enter the arrow sequence on the D-pad: a message confirms activation.\n\nWeather and filter cheats are turned off by entering the same code again. If in doubt, check the exact combination in the “Cheats” tab of the Progress menu, and report any cheat that doesn't work."
+      }
+    },
+    {
+      "id": "trophees",
+      "title": {
+        "fr": "Codes, sauvegarde et trophées",
+        "en": "Cheats, saving and trophies"
+      },
+      "body": {
+        "fr": "Activer un code désactive la sauvegarde et l'obtention des trophées et succès pour la session en cours. Sauvegarde avant de tricher, puis recharge ta partie pour revenir à la normale.",
+        "en": "Activating a cheat disables saving and earning trophies and achievements for the current session. Save before cheating, then reload your game to get back to normal."
+      }
+    },
+    {
+      "id": "stand-de-tir",
+      "title": {
+        "fr": "Le stand de tir rapporte 3 codes",
+        "en": "The shooting range unlocks 3 cheats"
+      },
+      "body": {
+        "fr": "Les médailles du stand de tir débloquent trois codes d'armes, l'un après l'autre : 25 médailles de bronze ou mieux pour les munitions au maximum, 25 d'argent ou mieux pour les munitions infinies, et 25 d'or pour tirer sans recharger. Vise directement l'or sur chaque épreuve : une médaille d'or compte aussi pour les deux premiers paliers.",
+        "en": "Shooting-range medals unlock three weapon cheats, one after another: 25 bronze or better for max ammo, 25 silver or better for infinite ammo, and 25 gold for no reload. Go straight for gold in each event: a gold medal also counts toward the first two tiers."
+      }
+    }
+  ]
 }
