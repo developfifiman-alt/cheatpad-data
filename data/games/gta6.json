@@ -1,9 +1,9 @@
 {
-  "version": 6,
-  "updated": "2026-11-19",
+  "version": 7,
+  "updated": "2026-11-21",
   "notice": {
-    "fr": "Guide non officiel. GTA 6 sort le 19 novembre 2026 : ces codes ont été relevés par la presse et les premiers guides, ils restent à confirmer en jeu. Ils ne fonctionnent qu'une fois l'histoire terminée et leur défi réussi (voir les astuces). D'autres codes seront ajoutés dès leur découverte. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
-    "en": "Unofficial guide. GTA 6 releases on November 19, 2026: these cheats were reported by the press and early guides and are still to be confirmed in game. They only work once the story is finished and their challenge completed (see tips). More cheats will be added as they're discovered. This app is not affiliated with Rockstar Games or Take-Two Interactive."
+    "fr": "Guide non officiel. GTA 6 est sorti le 19 novembre 2026 : ces codes viennent de la presse et des premiers guides, ils n'ont pas encore été confirmés par des joueurs. Ils ne fonctionnent qu'une fois l'histoire terminée et leur défi réussi (voir les astuces). D'autres codes seront ajoutés dès leur découverte. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
+    "en": "Unofficial guide. GTA 6 came out on November 19, 2026: these cheats come from the press and early guides and haven't been confirmed by players yet. They only work once the story is finished and their challenge completed (see tips). More cheats will be added as they're discovered. This app is not affiliated with Rockstar Games or Take-Two Interactive."
   },
   "categories": [
     {
@@ -72,8 +72,8 @@
         "DROITE"
       ],
       "notes": {
-        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -98,8 +98,8 @@
         "HAUT"
       ],
       "notes": {
-        "fr": "Se débloque : Échappe 25 fois à un avis de recherche 3 étoiles. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Escape a 3-star wanted level 25 times. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Échappe 25 fois à un avis de recherche 3 étoiles. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Escape a 3-star wanted level 25 times. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -125,8 +125,8 @@
       ],
       "verified": false,
       "notes": {
-        "fr": "Se débloque : Échappe 50 fois à un avis de recherche 3 étoiles. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Escape a 3-star wanted level 50 times. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Échappe 50 fois à un avis de recherche 3 étoiles. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Escape a 3-star wanted level 50 times. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       }
     },
     {
@@ -153,8 +153,8 @@
         "DROITE"
       ],
       "notes": {
-        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -182,8 +182,8 @@
         "BAS"
       ],
       "notes": {
-        "fr": "Se débloque : Fais 100 séances de sport. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Complete 100 workouts. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Fais 100 séances de sport. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Complete 100 workouts. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -211,8 +211,8 @@
         "GAUCHE"
       ],
       "notes": {
-        "fr": "Se débloque : Gagne 25 médailles de bronze (ou mieux) au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Win 25 bronze (or better) shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Gagne 25 médailles de bronze (ou mieux) au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Win 25 bronze (or better) shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -240,8 +240,8 @@
         "BAS"
       ],
       "notes": {
-        "fr": "Se débloque : Gagne 25 médailles d'argent (ou mieux) au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Win 25 silver (or better) shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Gagne 25 médailles d'argent (ou mieux) au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Win 25 silver (or better) shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -269,8 +269,8 @@
         "HAUT"
       ],
       "notes": {
-        "fr": "Se débloque : Gagne 25 médailles d'or au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Win 25 gold shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Gagne 25 médailles d'or au stand de tir. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Win 25 gold shooting-range medals. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -297,8 +297,8 @@
         "BAS"
       ],
       "notes": {
-        "fr": "Nom dans le jeu : « Attack Force ». Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "In-game name: “Attack Force”. Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Nom dans le jeu : « Attack Force ». Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "In-game name: “Attack Force”. Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -325,8 +325,8 @@
         "DROITE"
       ],
       "notes": {
-        "fr": "Nom dans le jeu : « Exploding Balls ». Se débloque : Blesse 20 ennemis avec des explosifs. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "In-game name: “Exploding Balls”. Unlock: Damage 20 enemies with explosives. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Nom dans le jeu : « Exploding Balls ». Se débloque : Blesse 20 ennemis avec des explosifs. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "In-game name: “Exploding Balls”. Unlock: Damage 20 enemies with explosives. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -353,8 +353,8 @@
         "BAS"
       ],
       "notes": {
-        "fr": "Nom dans le jeu : « Vehicle Force ». Se débloque : Élimine 25 ennemis avec un véhicule. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "In-game name: “Vehicle Force”. Unlock: Take out 25 enemies with a vehicle. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Nom dans le jeu : « Vehicle Force ». Se débloque : Élimine 25 ennemis avec un véhicule. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "In-game name: “Vehicle Force”. Unlock: Take out 25 enemies with a vehicle. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -379,8 +379,8 @@
         "DROITE"
       ],
       "notes": {
-        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Termine l'histoire principale. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Finish the main story. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -406,8 +406,8 @@
         "GAUCHE"
       ],
       "notes": {
-        "fr": "Se débloque : Termine 5 défis « shopping ». Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Complete 5 shopping challenges. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Termine 5 défis « shopping ». Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Complete 5 shopping challenges. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -433,8 +433,8 @@
         "HAUT"
       ],
       "notes": {
-        "fr": "Se débloque : Découvre ce véhicule (il s'ajoute au menu Progression). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Discover this vehicle (it gets added to the Progress menu). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Découvre ce véhicule (il s'ajoute au menu Progression). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Discover this vehicle (it gets added to the Progress menu). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -460,8 +460,8 @@
         "BAS"
       ],
       "notes": {
-        "fr": "Se débloque : Découvre ce véhicule (il s'ajoute au menu Progression). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Discover this vehicle (it gets added to the Progress menu). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Découvre ce véhicule (il s'ajoute au menu Progression). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Discover this vehicle (it gets added to the Progress menu). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -489,8 +489,8 @@
         "DROITE"
       ],
       "notes": {
-        "fr": "Se débloque : Découvre un véhicule précis (la Vamos de Martha). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Discover a specific vehicle (Martha's Vamos). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Découvre un véhicule précis (la Vamos de Martha). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Discover a specific vehicle (Martha's Vamos). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -518,8 +518,8 @@
         "DROITE"
       ],
       "notes": {
-        "fr": "Se débloque : Passe 8 heures (en jeu) avec ton ou ta partenaire. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Spend 8 (in-game) hours with your partner. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Passe 8 heures (en jeu) avec ton ou ta partenaire. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Spend 8 (in-game) hours with your partner. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -547,8 +547,8 @@
         "DROITE"
       ],
       "notes": {
-        "fr": "Se débloque : Braque 50 magasins avec ton ou ta partenaire. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches. Un message confirme l'activation.",
-        "en": "Unlock: Rob 50 stores with your partner. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence. A message confirms activation."
+        "fr": "Se débloque : Braque 50 magasins avec ton ou ta partenaire. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Rob 50 stores with your partner. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     }
@@ -572,8 +572,8 @@
         "en": "Entering a cheat"
       },
       "body": {
-        "fr": "1. En mode histoire, appuie sur Haut pour sortir le téléphone.\n2. Maintiens L1 et appuie sur R1 (LB et RB sur Xbox).\n3. Tape la suite de flèches avec la croix directionnelle : un message confirme l'activation.\n\nLes codes de météo et de filtres se désactivent en retapant le même code. En cas de doute, vérifie la combinaison exacte dans l'onglet « Triches » du menu Progression, et signale-nous tout code qui ne marche pas.",
-        "en": "1. In story mode, press Up to bring out the phone.\n2. Hold L1 and press R1 (LB and RB on Xbox).\n3. Enter the arrow sequence on the D-pad: a message confirms activation.\n\nWeather and filter cheats are turned off by entering the same code again. If in doubt, check the exact combination in the “Cheats” tab of the Progress menu, and report any cheat that doesn't work."
+        "fr": "1. En mode histoire, appuie sur Haut pour sortir le téléphone.\n2. Maintiens L1 et appuie sur R1 (LB et RB sur Xbox).\n3. Tape la suite de flèches avec la croix directionnelle.\n\nLes codes de météo et de filtres se désactivent en retapant le même code. En cas de doute, vérifie la combinaison exacte dans l'onglet « Triches » du menu Progression, et signale-nous tout code qui ne marche pas.",
+        "en": "1. In story mode, press Up to bring out the phone.\n2. Hold L1 and press R1 (LB and RB on Xbox).\n3. Enter the arrow sequence on the D-pad.\n\nWeather and filter cheats are turned off by entering the same code again. If in doubt, check the exact combination in the “Cheats” tab of the Progress menu, and report any cheat that doesn't work."
       }
     },
     {
