@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated": "2026-11-21",
+  "version": 9,
+  "updated": "2026-11-25",
   "notice": {
     "fr": "Guide non officiel. GTA 6 est sorti le 19 novembre 2026 : ces codes viennent de la presse et des premiers guides, ils n'ont pas encore été confirmés par des joueurs. Ils ne fonctionnent qu'une fois l'histoire terminée et leur défi réussi (voir les astuces). D'autres codes seront ajoutés dès leur découverte. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
     "en": "Unofficial guide. GTA 6 came out on November 19, 2026: these cheats come from the press and early guides and haven't been confirmed by players yet. They only work once the story is finished and their challenge completed (see tips). More cheats will be added as they're discovered. This app is not affiliated with Rockstar Games or Take-Two Interactive."
@@ -100,6 +100,35 @@
       "notes": {
         "fr": "Se débloque : Échappe 25 fois à un avis de recherche 3 étoiles. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
         "en": "Unlock: Escape a 3-star wanted level 25 times. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
+      },
+      "verified": false
+    },
+    {
+      "id": "ivresse",
+      "title": {
+        "fr": "Ivresse",
+        "en": "Drunk"
+      },
+      "description": {
+        "fr": "Ton personnage (et ton ou ta partenaire) se retrouve ivre.",
+        "en": "Your character (and your partner) gets drunk."
+      },
+      "category": "joueur",
+      "buttons": [
+        "HAUT",
+        "GAUCHE",
+        "DROITE",
+        "HAUT",
+        "HAUT",
+        "GAUCHE",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "DROITE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Dépense 2 500 $ en alcool. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Spend $2,500 on alcohol. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -491,6 +520,64 @@
       "notes": {
         "fr": "Se débloque : Découvre un véhicule précis (la Vamos de Martha). Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
         "en": "Unlock: Discover a specific vehicle (Martha's Vamos). To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
+      },
+      "verified": false
+    },
+    {
+      "id": "filtre-videotape",
+      "title": {
+        "fr": "Filtre « Videotape »",
+        "en": "“Videotape” filter"
+      },
+      "description": {
+        "fr": "Applique un filtre visuel à l'écran. Retape le code pour l'enlever.",
+        "en": "Applies a visual filter to the screen. Enter the code again to remove it."
+      },
+      "category": "filtres",
+      "buttons": [
+        "BAS",
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "BAS"
+      ],
+      "notes": {
+        "fr": "Se débloque : Fais 50 activités avec ton ou ta partenaire. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Complete 50 activities with your partner. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
+      },
+      "verified": false
+    },
+    {
+      "id": "filtre-dark-mirror",
+      "title": {
+        "fr": "Filtre « Dark Mirror »",
+        "en": "“Dark Mirror” filter"
+      },
+      "description": {
+        "fr": "Applique un filtre visuel à l'écran. Retape le code pour l'enlever.",
+        "en": "Applies a visual filter to the screen. Enter the code again to remove it."
+      },
+      "category": "filtres",
+      "buttons": [
+        "BAS",
+        "BAS",
+        "HAUT",
+        "DROITE",
+        "DROITE",
+        "HAUT",
+        "GAUCHE",
+        "GAUCHE",
+        "DROITE",
+        "GAUCHE"
+      ],
+      "notes": {
+        "fr": "Se débloque : Gagne 500 000 $ en vendant des véhicules. Pour le saisir : ouvre le téléphone (Haut), maintiens L1 et appuie sur R1 (LB et RB sur Xbox), puis tape la suite de flèches.",
+        "en": "Unlock: Make $500,000 selling vehicles. To enter it: open the phone (Up), hold L1 and press R1 (LB and RB on Xbox), then enter the arrow sequence."
       },
       "verified": false
     },
@@ -1292,6 +1379,748 @@
           "hint": {
             "fr": "Hellscape — Vole 100 véhicules de police.",
             "en": "Hellscape — Steal 100 cop vehicles."
+          }
+        }
+      ]
+    },
+    {
+      "id": "trophees",
+      "title": {
+        "fr": "Trophées et succès",
+        "en": "Trophies & achievements"
+      },
+      "character": {
+        "fr": "Lucia et Jason",
+        "en": "Lucia and Jason"
+      },
+      "unlock": {
+        "fr": "55 trophées (PlayStation) ou succès (Xbox), tous hors ligne, aucun ne peut être raté. Attention : activer un code de triche bloque les trophées pendant la session.",
+        "en": "55 trophies (PlayStation) or achievements (Xbox), all offline, none missable. Note: using a cheat blocks trophies for that session."
+      },
+      "reward": {
+        "fr": "Le trophée platine « Vice Got a Price! » (environ 200 heures selon les guides).",
+        "en": "The “Vice Got a Price!” platinum trophy (about 200 hours according to guides)."
+      },
+      "note": {
+        "fr": "28 trophées sont cachés : leur détail révèle l'histoire, touche « Voir » pour le lire. Liste vérifiée sur deux guides.",
+        "en": "28 trophies are hidden: their details spoil the story, tap “Show” to read them. List checked against two guides."
+      },
+      "items": [
+        {
+          "id": "1",
+          "zone": {
+            "fr": "Platine et 100 %",
+            "en": "Platinum & 100%"
+          },
+          "hint": {
+            "fr": "Vice Got a Price! (Platine) — Obtiens tous les autres trophées.",
+            "en": "Vice Got a Price! (Platinum) — Earn every other trophy."
+          }
+        },
+        {
+          "id": "2",
+          "zone": {
+            "fr": "Platine et 100 %",
+            "en": "Platinum & 100%"
+          },
+          "hint": {
+            "fr": "A Long Road (Or) — Atteins 100 % de progression.",
+            "en": "A Long Road (Gold) — Reach 100% completion."
+          }
+        },
+        {
+          "id": "3",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Cunning Stunts (Argent) — Réussis 250 cascades.",
+            "en": "Cunning Stunts (Silver) — Complete 250 stunts."
+          }
+        },
+        {
+          "id": "4",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Master of None (Bronze) — Essaie chaque type d'activité au moins une fois.",
+            "en": "Master of None (Bronze) — Try every type of activity once."
+          }
+        },
+        {
+          "id": "5",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "The Shootist (Argent) — Décroche l'or à toutes les épreuves du stand de tir.",
+            "en": "The Shootist (Silver) — Get gold in every shooting range challenge."
+          }
+        },
+        {
+          "id": "6",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Top Fun (Bronze) — Gagne une course de drones Top Fun à chaque emplacement.",
+            "en": "Top Fun (Bronze) — Win a Top Fun drone race at every location."
+          }
+        },
+        {
+          "id": "7",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Earn Cash, Not Kudos (Bronze) — Gagne 20 courses différentes.",
+            "en": "Earn Cash, Not Kudos (Bronze) — Win 20 different races."
+          }
+        },
+        {
+          "id": "8",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Baited My Tackle (Bronze) — Bats Cal à un défi de pêche.",
+            "en": "Baited My Tackle (Bronze) — Beat Cal in a fishing challenge."
+          }
+        },
+        {
+          "id": "9",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Stick Fiddler (Bronze) — Termine un jeu d'arcade.",
+            "en": "Stick Fiddler (Bronze) — Finish an arcade game."
+          }
+        },
+        {
+          "id": "10",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Positive Mental Attitude (Bronze) — Médite à tous les spots de méditation.",
+            "en": "Positive Mental Attitude (Bronze) — Meditate at every meditation spot."
+          }
+        },
+        {
+          "id": "11",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "One Last Thing (Bronze) — Réussis 50 défis.",
+            "en": "One Last Thing (Bronze) — Complete 50 challenges."
+          }
+        },
+        {
+          "id": "12",
+          "zone": {
+            "fr": "Activités",
+            "en": "Activities"
+          },
+          "hint": {
+            "fr": "Gunslinger (Bronze) — Élimine 5 ennemis en une seule utilisation de la concentration au combat.",
+            "en": "Gunslinger (Bronze) — Take down 5 enemies in a single use of Combat Focus."
+          }
+        },
+        {
+          "id": "13",
+          "zone": {
+            "fr": "Braquages et crimes",
+            "en": "Heists & crime"
+          },
+          "hint": {
+            "fr": "Hot Together (Bronze) — Échappe à 4 étoiles de recherche avec ton ou ta partenaire.",
+            "en": "Hot Together (Bronze) — Lose a 4-star wanted level with your partner."
+          }
+        },
+        {
+          "id": "14",
+          "zone": {
+            "fr": "Braquages et crimes",
+            "en": "Heists & crime"
+          },
+          "hint": {
+            "fr": "Retail Therapy (Bronze) — Braque 3 magasins d'affilée avec ton ou ta partenaire sans perdre ton avis de recherche.",
+            "en": "Retail Therapy (Bronze) — Rob 3 shops in a row with your partner without losing your wanted level."
+          }
+        },
+        {
+          "id": "15",
+          "zone": {
+            "fr": "Braquages et crimes",
+            "en": "Heists & crime"
+          },
+          "hint": {
+            "fr": "Sneakthief (Bronze) — Braque une bijouterie sans te faire repérer.",
+            "en": "Sneakthief (Bronze) — Rob a jewelry store without being detected."
+          }
+        },
+        {
+          "id": "16",
+          "zone": {
+            "fr": "Braquages et crimes",
+            "en": "Heists & crime"
+          },
+          "hint": {
+            "fr": "Maximum Withdrawal (Argent) — Braque 5 coffres de banque et échappe-toi.",
+            "en": "Maximum Withdrawal (Silver) — Rob 5 bank vaults and escape."
+          }
+        },
+        {
+          "id": "17",
+          "zone": {
+            "fr": "Braquages et crimes",
+            "en": "Heists & crime"
+          },
+          "hint": {
+            "fr": "A Classic Blitz Play (Bronze) — Braque un fourgon blindé et échappe-toi.",
+            "en": "A Classic Blitz Play (Bronze) — Rob an armored truck and escape."
+          }
+        },
+        {
+          "id": "18",
+          "zone": {
+            "fr": "Braquages et crimes",
+            "en": "Heists & crime"
+          },
+          "hint": {
+            "fr": "Pest Control (Bronze) — Attaque une opération illégale de chaque gang.",
+            "en": "Pest Control (Bronze) — Rob an illegal operation from each gang."
+          }
+        },
+        {
+          "id": "19",
+          "zone": {
+            "fr": "Braquages et crimes",
+            "en": "Heists & crime"
+          },
+          "hint": {
+            "fr": "Dime on the Dollar (Bronze) — Gagne 250 000 $ en blanchissant des billets marqués auprès de tes contacts.",
+            "en": "Dime on the Dollar (Bronze) — Make $250,000 laundering marked bills through your contacts."
+          }
+        },
+        {
+          "id": "20",
+          "zone": {
+            "fr": "Exploration et collection",
+            "en": "Exploration & collecting"
+          },
+          "hint": {
+            "fr": "The Goodtime State (Bronze) — Explore tout l'État de Leonida.",
+            "en": "The Goodtime State (Bronze) — Explore all of Leonida."
+          }
+        },
+        {
+          "id": "21",
+          "zone": {
+            "fr": "Exploration et collection",
+            "en": "Exploration & collecting"
+          },
+          "hint": {
+            "fr": "Don't Touch My Deck (Argent) — Complète 3 collections de cartes.",
+            "en": "Don't Touch My Deck (Silver) — Complete 3 collectible card sets."
+          }
+        },
+        {
+          "id": "22",
+          "zone": {
+            "fr": "Exploration et collection",
+            "en": "Exploration & collecting"
+          },
+          "hint": {
+            "fr": "You WAiNKer! (Argent) — Utilise WAiNK à 100 endroits.",
+            "en": "You WAiNKer! (Silver) — WAiNK it at 100 locations."
+          }
+        },
+        {
+          "id": "23",
+          "zone": {
+            "fr": "Exploration et collection",
+            "en": "Exploration & collecting"
+          },
+          "hint": {
+            "fr": "Whip It Good (Bronze) — Découvre 100 véhicules.",
+            "en": "Whip It Good (Bronze) — Discover 100 vehicles."
+          }
+        },
+        {
+          "id": "24",
+          "zone": {
+            "fr": "Exploration et collection",
+            "en": "Exploration & collecting"
+          },
+          "hint": {
+            "fr": "Treat Yo Self (Bronze) — Dépense 100 000 $ dans les magasins.",
+            "en": "Treat Yo Self (Bronze) — Spend $100,000 across shops."
+          }
+        },
+        {
+          "id": "25",
+          "zone": {
+            "fr": "Exploration et collection",
+            "en": "Exploration & collecting"
+          },
+          "hint": {
+            "fr": "Little Boxes (Bronze) — Achète tous les garages.",
+            "en": "Little Boxes (Bronze) — Buy all garage properties."
+          }
+        },
+        {
+          "id": "26",
+          "zone": {
+            "fr": "Exploration et collection",
+            "en": "Exploration & collecting"
+          },
+          "hint": {
+            "fr": "On the Spot (Bronze) — Enregistre 10 véhicules dans l'appli Scooter Bros.",
+            "en": "On the Spot (Bronze) — Register 10 vehicles in the Scooter Bros app."
+          }
+        },
+        {
+          "id": "27",
+          "zone": {
+            "fr": "Missions secondaires",
+            "en": "Side missions"
+          },
+          "hint": {
+            "fr": "Strangers & Freaks (Argent) — Termine 8 séries de missions d'inconnus à travers Leonida.",
+            "en": "Strangers & Freaks (Silver) — Complete 8 stranger mission strands across Leonida."
+          }
+        },
+        {
+          "id": "28",
+          "zone": {
+            "fr": "Missions secondaires",
+            "en": "Side missions"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de mission secondaire.",
+            "en": "Hidden trophy (Bronze): side mission trophy."
+          },
+          "secret": {
+            "fr": "Road to Rehabilitation (Bronze) — Termine la dernière mission d'Andy.",
+            "en": "Road to Rehabilitation (Bronze) — Complete Andy's final mission."
+          }
+        },
+        {
+          "id": "29",
+          "zone": {
+            "fr": "Missions secondaires",
+            "en": "Side missions"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de mission secondaire.",
+            "en": "Hidden trophy (Bronze): side mission trophy."
+          },
+          "secret": {
+            "fr": "This Was No Boat Accident (Bronze) — Termine la dernière mission de Kenton.",
+            "en": "This Was No Boat Accident (Bronze) — Complete Kenton's final mission."
+          }
+        },
+        {
+          "id": "30",
+          "zone": {
+            "fr": "Missions secondaires",
+            "en": "Side missions"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de mission secondaire.",
+            "en": "Hidden trophy (Bronze): side mission trophy."
+          },
+          "secret": {
+            "fr": "The Lone Rider (Bronze) — Termine la dernière mission de Billy.",
+            "en": "The Lone Rider (Bronze) — Complete Billy's final mission."
+          }
+        },
+        {
+          "id": "31",
+          "zone": {
+            "fr": "Missions secondaires",
+            "en": "Side missions"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de mission secondaire.",
+            "en": "Hidden trophy (Bronze): side mission trophy."
+          },
+          "secret": {
+            "fr": "Supply & Demand (Bronze) — Termine la dernière mission de Randy.",
+            "en": "Supply & Demand (Bronze) — Complete Randy's final mission."
+          }
+        },
+        {
+          "id": "32",
+          "zone": {
+            "fr": "Missions secondaires",
+            "en": "Side missions"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de mission secondaire.",
+            "en": "Hidden trophy (Bronze): side mission trophy."
+          },
+          "secret": {
+            "fr": "Spin On This! (Bronze) — Termine la dernière mission de Tyrone.",
+            "en": "Spin On This! (Bronze) — Complete Tyrone's final mission."
+          }
+        },
+        {
+          "id": "33",
+          "zone": {
+            "fr": "Missions secondaires",
+            "en": "Side missions"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de mission secondaire.",
+            "en": "Hidden trophy (Bronze): side mission trophy."
+          },
+          "secret": {
+            "fr": "Fair Game (Bronze) — Chasse un animal unique pour Bret.",
+            "en": "Fair Game (Bronze) — Hunt a unique animal for Bret."
+          }
+        },
+        {
+          "id": "34",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Just Like Paradise (Bronze) — Termine la mission « Gone Fishing ».",
+            "en": "Just Like Paradise (Bronze) — Complete “Gone Fishing”."
+          }
+        },
+        {
+          "id": "35",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Paradise Lost (Bronze) — Termine le chapitre 1.",
+            "en": "Paradise Lost (Bronze) — Complete Chapter 1."
+          }
+        },
+        {
+          "id": "36",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "T**s Ass Drug Money (Bronze) — Termine le chapitre 2.",
+            "en": "T**s Ass Drug Money (Bronze) — Complete Chapter 2."
+          }
+        },
+        {
+          "id": "37",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Vice City, Baby! (Bronze) — Termine le chapitre 3.",
+            "en": "Vice City, Baby! (Bronze) — Complete Chapter 3."
+          }
+        },
+        {
+          "id": "38",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Top Of The World, Ma (Bronze) — Termine le chapitre 4.",
+            "en": "Top Of The World, Ma (Bronze) — Complete Chapter 4."
+          }
+        },
+        {
+          "id": "39",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Trust (Bronze) — Termine la mission « Breakfast Run ».",
+            "en": "Trust (Bronze) — Complete “Breakfast Run”."
+          }
+        },
+        {
+          "id": "40",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Break the Bank (Bronze) — Termine la mission « The Cartel Heist ».",
+            "en": "Break the Bank (Bronze) — Complete “The Cartel Heist”."
+          }
+        },
+        {
+          "id": "41",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Family Matters (Bronze) — Termine la mission « Child's Play ».",
+            "en": "Family Matters (Bronze) — Complete “Child's Play”."
+          }
+        },
+        {
+          "id": "42",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "DWNFALL (Bronze) — Termine la mission « Headliners ».",
+            "en": "DWNFALL (Bronze) — Complete “Headliners”."
+          }
+        },
+        {
+          "id": "43",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Hi-Jacked (Bronze) — Termine la mission « VCIA Takedown ».",
+            "en": "Hi-Jacked (Bronze) — Complete “VCIA Takedown”."
+          }
+        },
+        {
+          "id": "44",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée de l'histoire.",
+            "en": "Hidden trophy (Bronze): story trophy."
+          },
+          "secret": {
+            "fr": "Snow Storm (Bronze) — Termine la mission « Operation Savage Glory ».",
+            "en": "Snow Storm (Bronze) — Complete “Operation Savage Glory”."
+          }
+        },
+        {
+          "id": "45",
+          "zone": {
+            "fr": "Histoire",
+            "en": "Story"
+          },
+          "hint": {
+            "fr": "Trophée caché (Or) : trophée de l'histoire.",
+            "en": "Hidden trophy (Gold): story trophy."
+          },
+          "secret": {
+            "fr": "You Gotta Know When to Get Off (Or) — Termine la dernière mission de l'histoire.",
+            "en": "You Gotta Know When to Get Off (Gold) — Complete the final story mission."
+          }
+        },
+        {
+          "id": "46",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Catch Me If You Can (Bronze) — Fais un départ « imprévu » à l'aéroport VCIA.",
+            "en": "Catch Me If You Can (Bronze) — Make an unscheduled departure at VCIA."
+          }
+        },
+        {
+          "id": "47",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Challenging Tank (Bronze) — Indice du jeu : « il fait chaud dans ces Rhino ».",
+            "en": "Challenging Tank (Bronze) — Game hint: “Kinda hot in these Rhinos.”"
+          }
+        },
+        {
+          "id": "48",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "In The Beginning… (Bronze) — Bois un cocktail avec vue sur Ocean Beach.",
+            "en": "In The Beginning… (Bronze) — Enjoy a cocktail with a view on Ocean Beach."
+          }
+        },
+        {
+          "id": "49",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Capital Offense (Bronze) — Sors d'un showroom de voitures en défonçant la vitrine, à l'ancienne.",
+            "en": "Capital Offense (Bronze) — Smash your way out of a car showroom in classic style."
+          }
+        },
+        {
+          "id": "50",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Let's Go Bowling (Bronze) — Indice du jeu : « va jusqu'au bout au bowling de Kolt & Associates ».",
+            "en": "Let's Go Bowling (Bronze) — Game hint: “Follow through at the Kolt & Associates bowling alley.”"
+          }
+        },
+        {
+          "id": "51",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Personal Best (Bronze) — Indice du jeu : « un partenariat très populaire ».",
+            "en": "Personal Best (Bronze) — Game hint: “A partnership with mass appeal.”"
+          }
+        },
+        {
+          "id": "52",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Actions Speak Louder (Bronze) — Indice du jeu : « des choix faits, pour le meilleur ou pour le pire ».",
+            "en": "Actions Speak Louder (Bronze) — Game hint: “Choices made (for better or worse).”"
+          }
+        },
+        {
+          "id": "53",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Bad Luck, I Guess (Bronze) — Indice du jeu : « la deuxième fois sera la bonne ».",
+            "en": "Bad Luck, I Guess (Bronze) — Game hint: “Second time's the charm.”"
+          }
+        },
+        {
+          "id": "54",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "The Truth Is Out There (Bronze) — Indice du jeu : « mais qu'est-ce qui vient de se passer ? ».",
+            "en": "The Truth Is Out There (Bronze) — Game hint: “What the hell just happened?”"
+          }
+        },
+        {
+          "id": "55",
+          "zone": {
+            "fr": "Trophées secrets",
+            "en": "Secret trophies"
+          },
+          "hint": {
+            "fr": "Trophée caché (Bronze) : trophée secret.",
+            "en": "Hidden trophy (Bronze): secret trophy."
+          },
+          "secret": {
+            "fr": "Ten Pin (Bronze) — Renverse des gens au corps à corps depuis un véhicule, façon bowling.",
+            "en": "Ten Pin (Bronze) — Bowl people over with a melee drive-by."
           }
         }
       ]
