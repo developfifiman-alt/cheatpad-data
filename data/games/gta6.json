@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updated": "2026-11-25",
+  "version": 11,
+  "updated": "2026-11-26",
   "notice": {
     "fr": "Guide non officiel. GTA 6 est sorti le 19 novembre 2026 : ces codes viennent de la presse et des premiers guides, ils n'ont pas encore été confirmés par des joueurs. Ils ne fonctionnent qu'une fois l'histoire terminée et leur défi réussi (voir les astuces). D'autres codes seront ajoutés dès leur découverte. Application non affiliée à Rockstar Games ni à Take-Two Interactive.",
     "en": "Unofficial guide. GTA 6 came out on November 19, 2026: these cheats come from the press and early guides and haven't been confirmed by players yet. They only work once the story is finished and their challenge completed (see tips). More cheats will be added as they're discovered. This app is not affiliated with Rockstar Games or Take-Two Interactive."
@@ -683,6 +683,43 @@
       "body": {
         "fr": "Les médailles du stand de tir débloquent trois codes d'armes, l'un après l'autre : 25 médailles de bronze ou mieux pour les munitions au maximum, 25 d'argent ou mieux pour les munitions infinies, et 25 d'or pour tirer sans recharger. Vise directement l'or sur chaque épreuve : une médaille d'or compte aussi pour les deux premiers paliers.",
         "en": "Shooting-range medals unlock three weapon cheats, one after another: 25 bronze or better for max ammo, 25 silver or better for infinite ammo, and 25 gold for no reload. Go straight for gold in each event: a gold medal also counts toward the first two tiers."
+      }
+    },
+    {
+      "id": "ouragans",
+      "title": {
+        "fr": "Débloquer les ouragans",
+        "en": "Unlocking hurricanes"
+      },
+      "mission": {
+        "fr": "Mission secrète « Retest Freddie's Defenses »",
+        "en": "Hidden mission “Retest Freddie's Defenses”"
+      },
+      "body": {
+        "fr": "Il n'existe pas de code pour les ouragans : ils se débloquent avec une mission secondaire cachée (missions d'inconnus), absente de la carte.\n\n1. Va au bunker de Freddie : un ancien site militaire grillagé au nord-ouest du lac, dans le nord de Leonard County. L'interphone du portail te demande juste de partir.\n2. Sur la colline à l'est, prends le bulldozer jaune pour pousser le conteneur orange qui cache une trappe, puis passe par les égouts.\n3. Traverse le champ de mines et abats les drones explosifs. À la porte, Freddie promet de renforcer sa sécurité et de te recontacter.\n4. Attends son SMS : il arrive quelques jours plus tard dans le jeu (de 1 à environ 10 jours selon les joueurs).\n5. Deuxième visite : le passage du conteneur est bloqué. Grimpe sur la tour près de la clôture et saute à l'intérieur, puis repasse les mines et deux vagues de drones.\n6. Dans le bunker, une alerte ouragan passe à la télé : en sortant, la tempête frappe. Les ouragans peuvent ensuite revenir de temps en temps.\n\nMéthode rapportée par les joueurs et les guides, pas encore confirmée par Rockstar. La récompense varie selon les sources.",
+        "en": "There's no cheat for hurricanes: they're unlocked by a hidden side mission (Strangers & Freaks) that isn't shown on the map.\n\n1. Go to Freddie's bunker: an old fenced military compound northwest of the lake, in northern Leonard County. The gate intercom just tells you to leave.\n2. On the hill to the east, use the yellow bulldozer to push the orange container hiding a hatch, then go through the sewers.\n3. Cross the minefield and shoot down the explosive drones. At the door, Freddie promises to upgrade his security and get back to you.\n4. Wait for his text: it arrives a few in-game days later (1 to about 10 days, depending on players).\n5. Second visit: the container route is blocked. Climb the tower by the fence and jump inside, then get past the mines and two waves of drones again.\n6. Inside the bunker, a hurricane warning comes on TV: when you leave, the storm hits. Hurricanes can then come back from time to time.\n\nMethod reported by players and guides, not yet confirmed by Rockstar. The reward varies between sources."
+      }
+    },
+    {
+      "id": "gerer-argent",
+      "title": {
+        "fr": "Gérer ton argent sans le perdre",
+        "en": "Managing your money without losing it"
+      },
+      "body": {
+        "fr": "• Tu ne peux pas avoir plus de 20 000 $ en liquide sur toi, par personnage.\n• Le liquide peut être perdu si tu meurs ou si tu te fais arrêter : dépose-le régulièrement au distributeur, sur ton compte BuckMe.\n• Le butin des braquages ne vaut rien tant qu'il n'est pas revendu à un receleur, et il est perdu si ta fuite échoue.\n• Attention à « Family Savings » : l'argent déposé dessus ne peut jamais être retiré, même après la fin de l'histoire.",
+        "en": "• You can't carry more than $20,000 in cash, per character.\n• Cash can be lost if you die or get busted: deposit it regularly at an ATM, into your BuckMe account.\n• Heist loot is worth nothing until it's sold to a fence, and it's lost if your getaway fails.\n• Careful with “Family Savings”: money deposited there can never be withdrawn, even after the story ends."
+      }
+    },
+    {
+      "id": "argent-debut",
+      "title": {
+        "fr": "Gagner de l'argent au début",
+        "en": "Making money early on"
+      },
+      "body": {
+        "fr": "• Chapitre 2 : revends les voitures volées à Moses, à Port Gellhorn. Contrairement au Pay 'n' Spray, il n'a pas de limite par jour.\n• Chapitre 3 : les braquages de bijouterie, et la liste de voitures haut de gamme de Randy, parmi ce qui rapporte le plus à ce stade.\n• Fin du chapitre 4 : les coffres de banque, de loin les plus rentables… mais avec 4 étoiles de recherche aux trousses. Pense à déposer ton argent avant.\n\nLes montants varient d'un guide à l'autre, c'est pourquoi ils ne sont pas indiqués.",
+        "en": "• Chapter 2: sell stolen cars to Moses in Port Gellhorn. Unlike Pay 'n' Spray, he has no daily limit.\n• Chapter 3: jewelry store robberies, and Randy's list of high-end cars, among the best earners at that point.\n• End of chapter 4: bank vaults, by far the most profitable… but with a 4-star wanted level on your tail. Deposit your money first.\n\nAmounts vary between guides, which is why they aren't given."
       }
     }
   ],
